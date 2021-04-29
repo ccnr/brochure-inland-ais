@@ -1,0 +1,18 @@
+# How to check that transmitted Inland AIS data is correct ?
+
+The skipper should be aware of the data transmitted by the Inland AIS device in order to check if the data is correct according to the current situation.  There are several possibilities to carry out this check:
+
+* Check if the antenna is in upright position.
+* Check the settings in the Inland AIS device. There are different menus to set, change and check AIS data in the integral display of the Inland AIS station \(the so-called MKD\). Please refer to the manufacturer’s Inland AIS operation manual for further details.
+* Check the settings in the Inland ECDIS device. Many Inland ECDIS providers offer the possibility to set, change and check AIS data in their Inland ECDIS Display. Skipper can ask their Inland ECDIS provider for the possibilities.
+* Check the settings by calling a RIS centre. Most of the RIS centres have a complete overview of the received AIS data. By contacting them via VHF or telephone, a validation check can be conducted.
+* Check the transmitted data by asking a skipper-colleague. Every vessel equipped with an Inland AIS device can receive the transmitted data from other vessels. Skipper might ask a colleague which information they receive about your vessel.
+
+## **Check the alarm status and the sensor status of the AIS device**
+
+The Inland AIS device gives an alarm and sensor status if something is wrong either with the device or the connected sensors. By checking the statuses regularly, a problem might be noticed at an early stage. The code of the alarm gives an indication about the issue 
+
+{% hint style="info" %}
+The alarm statuses are helpful to report to the installer firm to make the right diagnostic
+{% endhint %}
+
