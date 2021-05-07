@@ -23,7 +23,7 @@ Installations of Inland AIS devices on vessels that are **not** obliged to have 
 * AIS class A equipment shall also be installed only by an approved specialized firm;
 * AIS class B equipment is recommended to be installed by an approved specialized firm.
 
-{% page-ref page="when-is-it-compulsory-to-install-inland-ais-equipment.md" %}
+{% page-ref page="qr7.md" %}
 
 ## Installation on board vessels carrying dangerous goods
 

@@ -6,7 +6,7 @@
 * [Quelles mesures doivent prendre les conducteurs si l'appareil AIS Intérieur est défectueux ?](qr4.md)
 * [Quel est l'avantage d'utiliser l'appareil AIS Intérieur pour le conducteur ?](qr5.md)
 * [Quels sont les différents types d'appareils AIS ?](qr6.md)
-* [When is it compulsory to install Inland AIS equipment?](when-is-it-compulsory-to-install-inland-ais-equipment.md)
+* [Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?](qr7.md)
 * [Where can I find a list of type approved Inland AIS device?](where-can-i-find-a-list-of-type-approved-inland-ais.md)
 * [What are the most common data fields of Inland AIS?](what-are-the-most-common-data-fields-of-inland-ais.md)
 * [Which data is transmitted by the AIS device?](which-data-is-transmitted-by-the-ais-device.md)
