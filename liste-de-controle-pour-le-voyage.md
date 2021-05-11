@@ -1,0 +1,45 @@
+# Liste de contrôle pour le voyage
+
+[Cette page](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b) présente des listes de contrôle à utiliser pendant le voyage pour satisfaire aux obligations d'équipement et d'utilisation de l'AIS Intérieur. Il convient de noter que ces listes de contrôle sont des exemples et ne sont pas exhaustives et qu'elles peuvent toujours être complétées en fonction des réglementations régionales.
+
+Cette liste de contrôle est destinée à aider le conducteur à utiliser l'appareil AIS Intérieur à bord du bateau. L'objectif est de donner un bref aperçu de la nature des données qui doivent être saisies et mises à jour pendant le voyage du bateau de navigation intérieure. Les exigences minimales actuelles concernant les données à saisir peuvent varier d'une région à l'autre. Les exigences minimales relatives au contenu des données sont publiées dans la réglementation régionale appropriée de la commission fluviale compétente ou dans la législation nationale.
+
+Avant le début du voyage, il convient de s'assurer que l’appareil AIS Intérieur est en fonctionnement.
+
+**Avant le voyage**
+
+Vérifiez les données relatives à votre propre bateau qui sont transmises par l'appareil AIS Intérieur \(périodiquement\) :
+
+* Nom du bateau,
+* Numéro ENI,
+* Type de bateau et de convoi ERI,
+* Longueur et largeur du bateau,
+* Point d’acquisition de l'information relative à la position par l'antenne GPS,
+* Si le panneau bleu est connecté,
+  * vérifiez si le statut du panneau bleu est correct,
+* Vérifiez sur les systèmes de visualisation de cartes électroniques si vous recevez des données d'autres bateaux \(présents dans votre champ de vision\).
+
+**Peu avant le début du voyage**
+
+Modifiez les données relatives à votre propre bateau pour le voyage prévu, en tenant compte de la réglementation régionale applicable sur la voie de navigation que vous emprunterez :
+
+* Pour un convoi :
+  * longueur et
+  * largeur du convoi et point d'acquisition de l'information de l'antenne GPS. En outre, si le voyage précédent était effectué en tant que convoi, il convient de faire les corrections nécessaires.
+* Commutez les informations relatives au statut navigationnel du bateau sur " en route au moteur" en ce qui concerne le statut navigationnel applicable.
+
+**Pendant le voyage**
+
+* Tenez à jour les informations relatives au le statut navigationnel du bateau ;
+* Vérifiez si vous recevez des données d'autres bateaux \(présents dans votre champ de vision\).
+
+**Après le voyage**
+
+* Commutez l'information relative au statut navigationnel sur « amarré » ou « à l'ancre » ;
+* Modifiez les données relatives au voyage s'il y a lieu ;
+* Utilisez l'appareil AIS Intérieur conformément à la réglementation régionale applicable sur la voie navigable ou dans le port.
+
+Select your preferred checklist
+
+
+

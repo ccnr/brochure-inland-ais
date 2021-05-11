@@ -1,0 +1,6 @@
+# Est-il prescrit de connecter le panneau bleu à l'appareil AIS Intérieur ?
+
+La connexion du panneau bleu à l’appareil AIS Intérieur n’est pas prescrite.
+
+La connexion du panneau bleu à l'appareil AIS Intérieur est traitée de diverses manières. Lors de l’accomplissement de leurs tâches en liaison avec la navigation, les conducteurs doivent avoir conscience du fait que certains bateaux ont connecté le panneau bleu à l’appareil AIS Intérieur et d’autres non, de sorte que la situation présentée sur la carte électronique ne correspond pas nécessairement à la situation réelle.
+
