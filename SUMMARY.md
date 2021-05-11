@@ -9,7 +9,6 @@
 * [Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?](qr7.md)
 * [Quels sont les champs de données les plus courants d'un appareil AIS Intérieur ?](qr9.md)
 * [Quelles sont les données transmises par l'appareil AIS ?](qr10.md)
-* [National competent Authorities](national-competent-authorities.md)
 * [How to enter my voyage data in the Inland AIS device ?](how-to-enter-my-voyage-data-in-the-inland-ais-device.md)
 * [How to check that transmitted Inland AIS data is correct ?](how-to-check-that-transmitted-inland-ais-data-is-correct.md)
 * [How to install an Inland AIS device?](how-to-install-an-inland-ais-device.md)
