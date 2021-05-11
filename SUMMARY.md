@@ -28,5 +28,4 @@
 * [Liste de contrôle pour le voyage](qr28.md)
 * [Explanation of abbreviations](abbreviations.md)
 * [Sources](sources.md)
-* [BETA DISCLAIMER](beta-disclaimer.md)
 
