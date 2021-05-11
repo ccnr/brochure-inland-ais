@@ -19,7 +19,7 @@ Les bateaux suivants ne sont pas soumis à l’obligation d’être équipés d�
    * des barges de poussage sans système de propulsion propre,
    * des engins flottants sans système de propulsion propre.
 
-L’obligation de mettre en fonctionnement l’appareil AIS est explicitée au point QR17 du présent document.
+L’obligation de mettre en fonctionnement l’appareil AIS est explicitée ci-contre [Qu'implique l'obligation d'utiliser l'appareil AIS Intérieur ?](qr17.md)
 
 Pour les bateaux cités non soumis à l’obligation d’équipement, il est recommandé d’utiliser un appareil AIS Intérieur agréé \(et non un appareil de classe A ou B\) en vertu du RVBR, dans la mesure où l’appareil AIS Intérieur est conçu pour la réception d’annonces spécifiquement destinées à la navigation intérieure.
 

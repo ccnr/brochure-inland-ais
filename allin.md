@@ -441,10 +441,6 @@ L'appareil AIS Intérieur génère une alerte et indique le statut du capteur en
 
 Il est utile d'informer la société installatrice de ces statuts d'alerte afin de lui permettre de faire le bon diagnostic.
 
-## Supprimé
-
-## Supprimé
-
 ## Quelles sont les exigences pour l'installation d'un appareil AIS Intérieur ?
 
 ### Installation d'un appareil AIS Intérieur

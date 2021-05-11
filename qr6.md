@@ -8,7 +8,7 @@ De manière générale, il existe trois types d'appareils AIS :
 
 ## Appareils AIS Intérieur
 
-Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir le point QR7\) doit être équipé d'un appareil AIS Intérieur possédant un agrément de type.
+Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir [Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?](qr7.md)\) doit être équipé d'un appareil AIS Intérieur possédant un agrément de type.
 
 Ces bateaux naviguant sur le Rhin doivent être équipés d'appareils AIS Intérieur possédant un agrément de type. Les règles suivantes s'appliquent en ce qui concerne l'édition du standard d'essai AIS à satisfaire :
 
@@ -23,7 +23,7 @@ Il est prévu que, à compter du 1er janvier 2024, seuls les appareils AIS Inté
 Les appareils AIS de classe A doivent respecter les prescriptions de l’OMI \(Organisation Maritime Internationale\). Les appareils AIS de classe A sont largement utilisés dans la navigation maritime.
 
 {% hint style="info" %}
-Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir le point QR7\) ne peut pas être équipé uniquement d'un appareil AIS de classe A.
+Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir [Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?](qr7.md)\) ne peut pas être équipé uniquement d'un appareil AIS de classe A.
 {% endhint %}
 
 ## Appareils AIS de classe B

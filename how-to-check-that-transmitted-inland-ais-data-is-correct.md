@@ -4,7 +4,7 @@ Les Services d'information fluviale \(SIF\) sont susceptibles de fournir davanta
 
 Une liste de contrôle très utile contenant les tâches à effectuer avant, pendant et après le voyage est accessible ici :
 
-[Liste de contrôle pour le voyage/liste-de-contrôle-pour-le-voyage](https://ris.gitbook.io/ebrochure-iais/voyage-checklist)
+{% page-ref page="qr28.md" %}
 
 Il incombe au conducteur de s'assurer que les données transmises par l'appareil AIS Intérieur sont **constamment à jour**.
 
