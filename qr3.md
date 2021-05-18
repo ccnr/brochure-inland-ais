@@ -2,17 +2,25 @@
 description: About Inland navigation equipment installation
 ---
 
-# Comment installer un appareil AIS Intérieur ?
+# How to install an Inland AIS device?
 
-Les conducteurs ne peuvent pas installer eux-mêmes l'appareil AIS Intérieur. L'appareil AIS Intérieur doit être installé par des entreprises spécialisées et agréées \(sociétés installatrices\).
+Boatmasters **cannot install** Inland AIS device. Inland AIS device must be installed by authorized specialized firms \(installation firms\).
 
-## Liste des sociétés installatrices agréées
+## List of approved installation firms
 
-La liste des sociétés installatrices est disponible sur une page dédiée du CESNI qui peut être consultée ci-dessous
+The list of installation firms is available on a dedicated page of CESNI can be consulted below
 
-{% embed url="https://listes.cesni.eu/5000-fr.html" %}
+{% embed url="https://listes.cesni.eu/5000-en.html" caption="https://listes.cesni.eu/5000-en.html" %}
 
-Lorsqu'un bateau est dans l'obligation d'être équipé d'un appareil AIS Intérieur, seul l'un des appareils figurant dans la liste ci-dessus peut être utilisé.
+If it is compulsory for some vessel to be equipped with an Inland AIS device with a type approval. This means that only one of the devices out of the above list has to be used.
 
-Si votre bateau est dans l'obligation d'être équipé d'un appareil AIS Intérieur, seul un appareil AIS intérieur pour lequel est indiqué « Montage autorisé » peut être installé.
+{% hint style="info" %}
+If your vessel is obliged to be equipped with an inland AIS,  , only Inland AIS device marked with “Installation permitted” is allowed.
+{% endhint %}
+
+
+
+
+
+
 

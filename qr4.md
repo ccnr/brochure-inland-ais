@@ -1,20 +1,20 @@
-# Quelles mesures doivent prendre les conducteurs si l'appareil AIS Intérieur est défectueux ?
+# What should the boatmasters do if the Inland AIS device is defective?
 
-Durant son utilisation, l’appareil AIS Intérieur doit fonctionner de manière fiable et être en bon état de fonctionnement. 
-
-{% hint style="info" %}
-Un appareil AIS Intérieur défectueux entraînera des erreurs d'appréciation entre les conducteurs et des situations dangereuses sur les voies navigables. 
-{% endhint %}
-
-C'est pourquoi un appareil AIS Intérieur défectueux doit être réparé immédiatement ou remplacé par un appareil en bon état de fonctionnement. Aucun voyage ne peut être entamé sans un appareil AIS Intérieur en bon état de fonctionnement et mis en marche. 
+When in use the Inland AIS device must operate reliably and be in good working order.
 
 {% hint style="info" %}
-En cas de dysfonctionnement, la mise hors tension et le redémarrage \(reboot\) de l'appareil AIS Intérieur est sont susceptibles de contribuer à rétablir le bon état de fonctionnement. 
+A defective Inland AIS device will cause misjudgements between boatmasters and unsafe situations on the waterways.
 {% endhint %}
 
-Un appareil AIS Intérieur peut subir une panne. Dans ce cas, la CCNR recommande aux États riverains du Rhin d'appliquer les règles de flexibilité suivantes : 
+This is why defective Inland AIS device must be repaired immediately or replaced by devices in good working order. No voyage may be started without an Inland AIS device in good working order and switched on.
 
-* La navigation peut être poursuivie pendant une durée maximale de 48 heures avec un appareil AIS Intérieur ne transmettant pas de données, afin que le bateau puisse se rendre au port de chargement ou de déchargement le plus proche ou, à défaut, si ce port est trop éloigné, en un lieu où l'appareil défectueux peut être réparé ou remplacé. La poursuite du voyage avec un appareil AIS Intérieur défectueux engage l'entière responsabilité du conducteur. 
+{% hint style="info" %}
+In case of malfunction, switching off and restarting \(reboot\) the Inland AIS device could help recover the good working order.
+{% endhint %}
+
+A default can occur on an Inland AIS device.  In this case, the CCNR recommends that the riparian states of the Rhine apply the following flexibility rules:
+
+* Navigation may be continued for a maximum period of 48 hours with an Inland AIS device not transmitting data, enabling vessels to reach the next port of loading or unloading or, failing that, if this port is too far away, a place where the defective device can be repaired or replaced. The continuation of the voyage with a defective Inland AIS device is under the full responsibility of the boatmaster
 * Aucun voyage ne peut être entamé sans un appareil AIS iIntérieur en bon état de fonctionnement et mis en marche. • Compte tenu de la nature particulière des voyages effectués par les bacs et les bateaux d'excursions journalières, les deux paragraphes ci-avant ne s'appliquent pas à ces deux catégories de bateaux. Pour un bac, la navigation peut se poursuivre pendant une période maximale de 24 heures avec un appareil AIS Intérieur ne transmettant pas de données. Pour un bateau d'excursions journalières, la navigation peut se poursuivre pendant une période maximale de 48 heures avec un appareil AIS Intérieur ne transmettant pas de données. 
 * Si l'appareil AIS Intérieur ne transmet plus de données, le conducteur du bateau doit immédiatement en informer par radio la centrale de secteur et fournir des rapports réguliers sur la voie VHF bateau-bateau jusqu'à ce que l'appareil AIS Intérieur soit à nouveau opérationnel. 
 
