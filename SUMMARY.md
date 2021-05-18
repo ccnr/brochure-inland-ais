@@ -9,7 +9,6 @@
 * [Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?](qr7.md)
 * [Quels sont les champs de données les plus courants d'un appareil AIS Intérieur ?](qr9.md)
 * [Quelles sont les données transmises par l'appareil AIS ?](qr10.md)
-* [allin](allin.md)
 * [Saisie de données dans l'appareil AIS Intérieur](qr11.md)
 * [Comment saisir les données relatives à mon voyage dans l'appareil AIS Intérieur ?](how-to-check-that-transmitted-inland-ais-data-is-correct.md)
 * [Comment vérifier que les données transmises par l'appareil AIS Intérieur sont correctes ?](qr13.md)
@@ -27,5 +26,6 @@
 * [L'utilisation de l'ECDIS Intérieur en mode navigation est-elle autorisée ?](qr27.md)
 * [Liste de contrôle pour le voyage](qr28.md)
 * [Explanation of abbreviations](abbreviations.md)
-* [Sources](sources.md)
+* [Sources](sources/README.md)
+  * [allin](sources/allin.md)
 

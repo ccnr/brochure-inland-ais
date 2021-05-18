@@ -13,7 +13,7 @@ Lorsque l'expression « système de visualisation de cartes électroniques » es
 
 ![Icon
 
-Description automatically generated](.gitbook/assets/0%20%281%29.png)
+Description automatically generated](../.gitbook/assets/0%20%281%29.png)
 
 Entre 2016 et 2017, la Commission centrale pour la navigation du Rhin \(CCNR\) a mené une étude auprès des bateliers, des autorités et des sociétés installatrices. Le principal résultat de cette étude a été que l'appareil AIS Intérieur \(en combinaison avec un système de visualisation de cartes électroniques\) est largement accepté comme un outil de soutien pour une navigation rhénane plus sûre.
 
@@ -683,7 +683,7 @@ Si le bateau n'est pas un convoi, ces valeurs ne changent pas. Le conducteur n'a
 
 ![Graphical user interface, text, application
 
-Description automatically generated](.gitbook/assets/1%20%281%29.png)
+Description automatically generated](../.gitbook/assets/1%20%281%29.png)
 
 Figure A
 
@@ -705,7 +705,7 @@ Cette tâche étant un peu fastidieuse, certains appareils ECDIS Intérieur prop
 
 ![Chart
 
-Description automatically generated with low confidence](.gitbook/assets/2.png)
+Description automatically generated with low confidence](../.gitbook/assets/2.png)
 
 **Figure B1**
 
@@ -727,7 +727,7 @@ La longueur et la largeur hors-tout sont calculées automatiquement sur cette ba
 
 ![Diagram
 
-Description automatically generated with low confidence](.gitbook/assets/3.png)
+Description automatically generated with low confidence](../.gitbook/assets/3.png)
 
 Figure B2
 
@@ -955,7 +955,7 @@ Select your preferred checklist
 
 [checklist.pdf - 86KB](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b%22%20\t%20%22_blank)
 
-![](.gitbook/assets/4.png)
+![](../.gitbook/assets/4.png)
 
 Keep in mind !
 

@@ -31,7 +31,7 @@ Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé 
 Les appareils AIS de classe B disposent de fonctionnalités limitées par rapport aux appareils AIS de classe A. Les appareils AIS de classe B peuvent être utilisés, par exemple, par les bateaux de plaisance. Les appareils AIS de classe B doivent être conformes :
 
 * aux exigences pertinentes de la recommandation  [ITU-R.M 1371](https://www.itu.int/rec/R-REC-M.1371/en) de la directive 2014/53/UE \(RED\),
-* au standard international  [IEC 62287-1 or 2](https://webstore.iec.ch/publication/32705) \(y compris la gestion des canaux ASN\).
+* au standard international  [IEC 62287-1 or 2](https://webstore.iec.ch/publication/32705) \(y compris la gestion des canaux ASM\).
 
 {% page-ref page="qr7.md" %}
 
