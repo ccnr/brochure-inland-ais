@@ -1,961 +1,1020 @@
 # allin
 
-Document d'information électronique relatif aux appareils AIS Intérieur, aux appareils ECDIS Intérieur et aux appareils comparables pour la visualisation de cartes électroniques
+Annexe au document RP \(21\) 5 rev.1 = RP/G \(21\) 6 = RIS/G \(21\) 2
 
-## Introduction - Appareil AIS Intérieur sur le Rhin
+Information document for Inland AIS device, Inland ECDIS device or a comparable device for displaying electronic charts
 
-Sur le Rhin, l'obligation d'installer et d'utiliser un appareil AIS Intérieur connecté à des systèmes de visualisation de cartes électroniques est entrée en vigueur le 1er décembre 2014.
+## QR1 Introduction - Inland AIS device on the Rhine
 
-Lorsque l'expression « système de visualisation de cartes électroniques » est utilisée dans le présent document, il s'agit :
+On the Rhine, the obligation to install and use an Inland AIS device connected to electronic chart display systems came into force on 1 December 2014.
 
-* d'un appareil ECDIS Intérieur en mode information
-* ou d'un appareil comparable pour la visualisation de cartes électroniques.
+When this document uses the expression “electronic chart display system” it is referring either to:
 
-![Icon
+* an Inland ECDIS device in information mode
+* or a comparable device for displaying electronic charts.
 
-Description automatically generated](../.gitbook/assets/0%20%281%29.png)
+![](../.gitbook/assets/0%20%282%29.png)
 
-Entre 2016 et 2017, la Commission centrale pour la navigation du Rhin \(CCNR\) a mené une étude auprès des bateliers, des autorités et des sociétés installatrices. Le principal résultat de cette étude a été que l'appareil AIS Intérieur \(en combinaison avec un système de visualisation de cartes électroniques\) est largement accepté comme un outil de soutien pour une navigation rhénane plus sûre.
+Between 2016 and 2017, the Central Commission for the Navigation of the Rhine \([CCNR](https://www.ccr-zkr.org/)\) conducted a survey among boatmaster\(s\), authorities and installation firms. The main result of the survey was that Inland AIS device \(in combination with an electronic chart display system\) is widely accepted as a supporting tool for a safer navigation on the Rhine.
 
-Le présent document, destiné aux membres d'équipage, vise à clarifier l'importance et à assurer l'utilisation correcte de l'appareil AIS Intérieur en combinaison avec un système de visualisation de cartes électroniques, en répondant aux questions concrètes soulevées par les usagers lors de l'enquête.
+This document, intended for crew members, aims to clarify the importance and correct usage of Inland AIS device in combination with an electronic chart display system by answering concrete questions raised by users in the survey.
 
-Le document de la CCNR « Précisions concernant l’obligation d’équipement en appareil AIS Intérieur et en appareil ECDIS Intérieur ou en appareil comparable pour la visualisation de cartes »[\[1\]]() \(disponible en anglais, français, allemand et néerlandais[\[2\]]()\) contient des précisions relatives à l’obligation d'être « équipé d'un appareil AIS Intérieur et de systèmes de visualisation de cartes électroniques et à leur utilisation ».
+The CCNR document “Clarifications concerning the obligation of equipment with an Inland AIS and an Inland ECDIS device or a comparable electronic chart display device”[\[1\]]() \(available in English, French, German and Dutch[\[2\]]()\) clarifies the obligation and the usage of the Inland AIS device and electronic chart display systems.
 
-## Qu'est-ce qu'un appareil AIS Intérieur ?
+## [QR2](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-M-A0UK4Y60-786Wre9p%2F-M-A2zVb76JfMs6KLkSv%2FbrochureAIS_en.pdf?alt=media&token=a68609d5-0041-484b-b784-6c66cb2420ad%22%20\t%20%22_blank) What is an Inland AIS device?
 
-L'appareil AIS \(Automatic identification system / Système d'identification automatique\) est un transpondeur qui fournit un système de communication et d'identification automatique destiné à améliorer la sécurité de la navigation en contribuant à l'exploitation efficace des services de trafic fluvial \(VTS\), de notification, ainsi qu'aux opérations de bateau à bateau et du bateau à la terre. Le système d'identification automatique \(AIS\), d'abord utilisé pour la navigation maritime, est opérationnel pour la navigation intérieure sur le Rhin depuis 2010. Il s'agit d'un système de suivi automatique embarqué, qui fournit des informations relatives au bateau aux autres bateaux et à des organisations à terre telles que les centres de services d'information fluviale \(SIF\). De même, l'appareil AIS recueille des informations provenant d'autres bateaux et d'organisations à terre.
+The Automatic Identification System \(AIS\) device is a transponder providing automatic communication and identification system intended to improve the safety of navigation by assisting in the efficient operation of vessel traffic services \(VTS\), ship reporting, ship-to-ship and ship-to-shore operations. The Automatic Identification System \(AIS\) has been first used for maritime navigation and is now in operation for inland navigation since 2010 on the Rhine. It is an automatic tracking system on board vessels that provides vessel information to other vessels and to shore organisation such as river information service \(RIS\) centres. Reversely, the AIS device also gathers information from other vessels and shore organisations.
 
-Le transfert des informations se fait au moyen d'appareils AIS Intérieur installés à bord des bateaux. Les appareils AIS Intérieur intègrent des capteurs électroniques tels qu'un système de positionnement global \(GPS\), pour déterminer la position du bateau en temps réel, et un émetteur-récepteur à très haute fréquence \(VHF\), pour transmettre des données dans les deux sens.
+The transfer of information is done via Inland AIS devices on board vessels. Inland AIS devices integrate electronic sensors such as a global positioning system \(GPS\), to capture real-time positioning of vessel, and a Very High Frequency \(VHF\) transceiver, to transmit data in both directions.
 
-## Comment installer un appareil AIS Intérieur ?
+## QR3 How to install an Inland AIS device?
 
-Les conducteurs ne peuvent pas installer eux-mêmes l'appareil AIS Intérieur. L'appareil AIS Intérieur doit être installé par des entreprises spécialisées et agréées \(sociétés installatrices\).
+Boatmasters **cannot install** Inland AIS device. Inland AIS device must be installed by authorized specialized firms \(installation firms\).
 
-### Liste des sociétés installatrices agréées
+### List of approved installation firms
 
-La liste des sociétés installatrices est disponible sur une page dédiée du [CESNI](https://listes.cesni.eu/5000-en.html) qui peut être consultée ci-dessous
+The list of installation firms is available on a dedicated page of [CESNI](https://listes.cesni.eu/5000-en.html) can be consulted below
 
-[&lt;LIEN VERS la liste des](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [sociétés installatrices](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[&gt;](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
+[Lists of approved authorities, firms,](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [installation](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[s and equipment in the field of technical requirements for inland navigation vessels.](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
-Lorsqu'un bateau est dans l'obligation d'être équipé d'un appareil AIS Intérieur, seul l'un des appareils figurant dans la liste ci-dessus peut être utilisé.
+[Register of type-approved equipment, competent authorities for issuing type approvals, approved technical services and approved specialist](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [firm](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[s](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
-Si votre bateau est dans l'obligation d'être équipé d'un appareil AIS Intérieur, seul un appareil AIS intérieur pour lequel est indiqué « **Montage autorisé** » peut être installé.
+[listes.cesni.eu](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
-## Quelles mesures doivent prendre les conducteurs si l'appareil AIS Intérieur est défectueux ?
+If it is compulsory for some vessel to be equipped with an Inland AIS device with a type approval. This means that only one of the devices out of the above list has to be used.
 
-Durant son utilisation, l’appareil AIS Intérieur doit fonctionner de manière fiable et être en bon état de fonctionnement.
+If your vessel is obliged to be equipped with an inland AIS, , only Inland AIS device marked with “**Installation permitted**” is allowed.
 
-Un appareil AIS Intérieur défectueux entraînera des **erreurs d'appréciation** entre les conducteurs et des **situations dangereuses** sur les voies navigables.
+## QR4 What should the boatmasters do if the Inland AIS device is defective?
 
-C'est pourquoi un appareil AIS Intérieur défectueux doit être réparé immédiatement ou remplacé par un appareil en bon état de fonctionnement. Aucun voyage ne peut être entamé sans un appareil AIS Intérieur en bon état de fonctionnement et mis en marche.
+When in use the Inland AIS device must operate reliably and be in good working order.
 
-En cas de dysfonctionnement, la mise hors tension et le redémarrage \(reboot\) de l'appareil AIS Intérieur sont susceptibles de contribuer à rétablir le bon état de fonctionnement.
+A defective Inland AIS device will cause **misjudgements** between boatmasters and **unsafe situations** on the waterways.
 
-Un appareil AIS Intérieur peut subir une panne. Dans ce cas, la CCNR recommande aux États riverains du Rhin d'appliquer les règles de flexibilité suivantes :
+This is why defective Inland AIS device must be repaired immediately or replaced by devices in good working order. No voyage may be started without an Inland AIS device in good working order and switched on.
 
-* La navigation peut être poursuivie pendant une durée maximale de 48 heures avec un appareil AIS Intérieur ne transmettant pas de données, afin que le bateau puisse se rendre au port de chargement ou de déchargement le plus proche ou, à défaut, si ce port est trop éloigné, en un lieu où l'appareil défectueux peut être réparé ou remplacé. La poursuite du voyage avec un appareil AIS Intérieur défectueux engage l'entière responsabilité du conducteur.
-* **Aucun voyage ne peut être entamé sans un appareil AIS Intérieur en bon état de fonctionnement et mis en marche.**
-* Compte tenu de la nature particulière des voyages effectués par les bacs et les bateaux d'excursions journalières, les deux paragraphes ci-avant ne s'appliquent pas à ces deux catégories de bateaux. Pour un bac, la navigation peut se poursuivre pendant une période maximale de 24 heures avec un appareil AIS Intérieur ne transmettant pas de données. Pour un bateau d'excursions journalières, la navigation peut se poursuivre pendant une période maximale de 48 heures avec un appareil AIS Intérieur ne transmettant pas de données.
-* Si l'appareil AIS Intérieur ne transmet plus de données, le conducteur du bateau **doit immédiatement en informer par radio la centrale de secteur** et fournir des rapports réguliers sur la voie VHF bateau-bateau jusqu'à ce que l'appareil AIS Intérieur soit à nouveau opérationnel.
+In case of malfunction, switching off and restarting \(reboot\) the Inland AIS device could help recover the good working order.
 
-Si l'appareil AIS Intérieur est défectueux, il doit être réparé par une société spécialisée agréée \(société installatrice\).
+A default can occur on an Inland AIS device. In this case, the CCNR recommends that the riparian states of the Rhine apply the following flexibility rules:
 
-## Quel est l'avantage d'utiliser l'appareil AIS Intérieur pour le conducteur ?
+* Navigation may be **continued for a maximum period of 48 hours** with an Inland AIS device not transmitting data, enabling vessels to reach the next port of loading or unloading or, failing that, if this port is too far away, a place where the defective device can be repaired or replaced. The continuation of the voyage with a defective Inland AIS device is under the full responsibility of the boatmaster
+* **No voyage may be started** without an Inland AIS device in good working order and operating
+* Given the special nature of voyages undertaken by ferries and day-trip vessels, the two preceding paragraphs do not apply to these two types of vessel. For a ferry, navigation may be continued for a maximum period of 24 hours with an Inland AIS device not transmitting data. For a daytrip vessel, navigation may be continued for a maximum period of 48 hours with an Inland AIS device not transmitting data
+* If the Inland AIS device is no longer transmitting data, the vessel’s boatmaster **will immediately notify by radio the sector traffic centre** and will provide regular reports on the ship-to-ship VHF channel until the Inland AIS device is working again
 
-Les informations transmises et reçues par l'appareil AIS Intérieur affichées sur les systèmes de visualisation de cartes électroniques ne dispensent pas le conducteur de surveiller le trafic au moyen de l'image radar et en regardant par la fenêtre de la timonerie.
+If the Inland AIS device is defective it has to be repaired by an approved specialised firm \(installation firm\).
 
-Seuls les bateaux équipés d'un appareil AIS Intérieur sont visibles sur l'écran, or tous les bateaux ne sont pas équipés d'un appareil AIS Intérieur.
+## QR5 What is the advantage of using Inland AIS device for the boatmaster?
 
-Un appareil AIS Intérieur **en combinaison avec un appareil ECDIS Intérieur** \(ou un appareil comparable de visualisation de cartes électroniques\) permet aux conducteurs :
+The information transmitted and received by the Inland AIS device displayed on electronic chart display systems does not exempt the boatmaster from monitoring traffic by means of the radar image and by looking out of the wheelhouse window.
 
-* de **transmettre régulièrement** le nom, la position, la vitesse et le cap de leur bateau aux autres **bateaux à proximité** équipés d'un appareil AIS Intérieur,
-* d'afficher sur l'écran du système de visualisation de cartes électroniques le nom et la position des bateaux présents à proximité \(uniquement de ceux qui sont aussi équipés d'un appareil AIS Intérieur en état de marche\),
-* d'obtenir des informations permettant de prendre les mesures nécessaires pour naviguer en toute sécurité \(en combinaison avec le fait de regarder par la fenêtre et de consulter les données provenant d'autres appareils de navigation\).
+Only vessels equipped with an Inland AIS device are visible on the display device and not all vessels are equipped with an Inland AIS device.
 
-Si le radar permet également de localiser d'autres bateaux situés à proximité, la portée utile du radar est toutefois limitée par rapport à celle de l'appareil AIS, en particulier sur les voies de navigation intérieure. En effet, un appareil AIS Intérieur a une **portée bien plus étendue** et permet d'afficher des bateaux se trouvant de l'autre côté d'un obstacle, tel qu'une montagne.
+An Inland AIS device **in combination with an Inland ECDIS device** \(or a comparable electronic chart display device\) enable boatmasters:
 
-L'appareil AIS Intérieur fournit ainsi au conducteur une **aide à la navigation**. **Cependant, l'AIS Intérieur combiné à un système de visualisation de cartes électroniques n'est pas un système de navigation au même titre qu'un radar.**
+* to **send regularly** their vessel’s name, position, speed and course to **vicinity vessels** possessing an Inland AIS on board
+* to display on the screen electronic chart display system the name, position, in vicinity \(only the one possessing an Inland AIS device in working order\)
+* to get some information to take necessary measures to **safely navigate** \(in combination with looking out of the window and input from other navigation devices\)
 
-Les conducteurs doivent prendre connaissance des informations fournies par l'appareil AIS Intérieur et les utiliser pour assurer la sécurité et le bon ordre de la navigation. Ces informations doivent être utilisées correctement et d'une manière conforme au « devoir de vigilance » des conducteurs.
+Although the radar also enables other surrounding vessels to be located, the radar’s useful range is nonetheless limited compared to that of the AIS device, especially in inland waters. Indeed, an Inland AIS device has a **far greater range and enables vessels** on the other side of a barrier, such as a mountain, to be displayed.
 
-## Quels sont les différents types d'appareils AIS ?
+The Inland AIS device therefore provides the boatmaster with a **navigational aid. However, Inland AIS in combinaison with an** electronic chart display system is **not a navigation system** in the same way as is a radar.
 
-De manière générale, il existe trois types d'appareils AIS :
+The boatmasters must acquaint themselves with the information provided by the Inland AIS device and use it to ensure safe navigation and good order. This information must be used correctly in a way consistent with the boatmasters' “duty of vigilance”.
 
-* **Appareil AIS Intérieur**
-* appareil AIS de classe A
-* appareil AIS de classe B
+## QR6 What are the different types of AIS devices ?
 
-### Appareils AIS Intérieur
+In general, three types of AIS devices exist :
 
-Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir le point QR7\) doit être équipé d'un appareil AIS Intérieur possédant un agrément de type.
+* **​inland AIS device​**
+* ​class A AIS device​
+* ​class B AIS device​
 
-L'agrément de type signifie que l'appareil AIS Intérieur doit être conforme aux exigences du Standard d'essai pour l'AIS Intérieur. La conformité est certifiée par un examen de l'agrément de type par une autorité compétente.
+### Inland AIS devices
 
-Ces bateaux naviguant sur le Rhin doivent être équipés d'appareils AIS Intérieur possédant un agrément de type. Les règles suivantes s'appliquent en ce qui concerne l'édition du standard d'essai AIS à satisfaire :
+A vessel navigating on the Rhine falling under the carriage requirement of Inland AIS device \(see item QR7\) must be equipped with a type approved Inland AIS device.
 
-* Les appareils AIS Intérieur qui ont été certifiés avant le 19 octobre 2012 doivent être conformes aux exigences du Standard d’essai édition 1.0 ou 1.01 de la CCNR et les appareils qui ont été certifiés après cette date doivent être conformes aux exigences du Standard d’essai édition 2.0. de la CCNR. Les appareils AIS Intérieur certifiés conformément à l'édition 1.0 ou 1.01 portent un numéro d'agrément de type attribué par la Commission centrale pour la navigation du Rhin \(CCNR\) selon le format suivant : R-4-2XX \(X représente un chiffre\).
-* Il était possible d'installer un équipement AIS Intérieur avec un agrément de type conforme à l'édition 1.0 et 1.01 jusqu'au 30 novembre 2015. Les appareils déjà installés peuvent être utilisés après cette date.
-* Depuis le 1er décembre 2015, seuls les appareils AIS Intérieur possédant un agrément de type conforme aux exigences du Standard d'essai AIS Intérieur 2017/édition 2.0 du standard d'essai pourront être installés. Les appareils AIS Intérieur possédant un agrément de type conformément à l'édition 2.0 portent un numéro d'agrément de type attribué par la Commission centrale pour la navigation du Rhin \(CCNR\) selon le format suivant : R-4-3XX \(X représente un chiffre\).
+Type approved means that the Inland AIS device must comply with the requirements of the Test Standard for Inland AIS, Compliance is certified by an examination of type approval by a competent authority.
 
-Il est prévu que, à compter du 1er janvier 2024, seuls les appareils AIS Intérieur possédant un agrément de type conforme à l'édition 3.0 du Standard d'essai AIS Intérieur pourront être installés. Les appareils déjà installés pourront être utilisés après cette date. En effet, à compter du 1er janvier 2022 \(date prévue de l'entrée en vigueur de l'ES-TRIN 2021/1\), le « Standard d'essai pour l'AIS intérieur 2021/édition 3.0 » sera applicable.
+These vessels navigating on the Rhine shall be equipped with Inland AIS devices having a type approval. Following rules apply regarding the edition of the Test standard inland AIS to comply with
 
-### Appareils AIS de classe A
+* Inland AIS devices certified prior to 19 October 2012 must comply with the requirements of the CCNR’s Test Standard Edition 1.0 or 1.01 and devices certified after this date must comply with the requirements of the CCNR’s Test Standard Edition 2.0. Type approved Inland AIS devices according to Ed 1.0 or 1.01 are labelled with a **type approval** number assigned by the Central Commission for the Navigation of the Rhine \(CCNR\) in the following format: R-4-2XX \(X represents a digit\)
+* It was allowed to install Inland AIS equipment with a type approval in line with Edition 1.0 and 1.01 until 30 November 2015. They may be used after this date.
+* With effect from 1 December 2015, only Inland AIS devices with a type-approval complying with the requirements of Test standard inland AIS 2017/Ed 2.0 of the Test Standard may be installed. Type approved Inland AIS devices according to Ed 2.0 are labelled with a **type approval** number assigned by the Central Commission for the Navigation of the Rhine \(CCNR\) in the following format: R-4-3XX \(X represents a digit\)
 
-Les appareils AIS de classe A doivent respecter les prescriptions de l’OMI \(Organisation Maritime Internationale\). Les appareils AIS de classe A sont largement utilisés dans la navigation maritime.
+It is expected with effect from 1 January 2024, that only Inland AIS devices with a type-approval in line with Edition 3.0 of the Test Standard Inland AIS may be installed. The already installed devices may be used after this date. Indeed, after the 1st of January 2022 \(planned date of the entry into force of the ES-TRIN 2021/1\), the ‘Test Standard for Inland AIS 2021/Ed 3.0 shall be used.
 
-Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir le point QR7\) ne peut pas être équipé uniquement d'un appareil AIS de classe A.
+### Class A AIS devices
 
-### Appareils AIS de classe B
+Class A AIS devices must satisfy IMO requirements \(International Maritime Organization\).Class A AIS device is widely used in maritime navigation.
 
-Les appareils AIS de classe B disposent de fonctionnalités limitées par rapport aux appareils AIS de classe A. Les appareils AIS de classe B peuvent être utilisés, par exemple, par les bateaux de plaisance. Les appareils AIS de classe B doivent être conformes :
+A vessel navigating on the Rhine falling under the carriage requirement of Inland AIS device \(see item QR7\) cannot be equipped only with a Class A AIS device.
 
-* aux exigences pertinentes de la recommandation ITU-R.M 1371 de la directive 2014/53/UE \(RED\),
-* au standard international CEI 62287-1 ou 2 \(y compris la gestion des canaux ASN\).
+### Class B AIS devices
 
-## Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?
+Class B AIS devices have limited functionality in comparison to Class A AIS device. Class B AIS device can be used by e.g. pleasure crafts. Class B AIS devices must comply with:
 
-### Bateaux qui doivent être équipés d’un appareil AIS Intérieur
+* the relevant requirements of Recommendation [ITU-R.M 1371](https://www.itu.int/rec/R-REC-M.1371/en) of Directive 2014/53/EU \(RED\),
+* the international standard [IEC 62287-1 or 2](https://webstore.iec.ch/publication/32705) \(including DSC channel management\).
 
-L’obligation de posséder un appareil AIS Intérieur est décrite de manière précise dans l’article 4.07 du Règlement de police pour la navigation du Rhin \(RPNR\).
+QR7. When is it compulsory to install Inland AIS device?
 
-Cette obligation d'équipement avec un appareil AIS Intérieur s'applique à tous les bateaux, y compris les navires de mer, les bacs, les petits bateaux de police équipés d'un radar et les menues embarcations en possession d'un certificat de visite conforme au Règlement de visite des bateaux du Rhin ou d'un certificat réputé équivalent conformément à ce règlement.
+### QR7.1 Vessels obliged to be equipped with an Inland AIS device
 
-Seuls les bateaux mentionnés ci-dessous ne sont pas soumis à cette obligation.
+The obligation of possession of an Inland AIS device is described in detail in article 4.07 of the [Rhine Vessel Inspection Regulations \(RVIR\).](https://www.ccr-zkr.org/12020200-en.html#03)
 
-### Bateaux exemptés
+This obligation of equipment with an Inland AIS device applies to all vessels, including seagoing vessels, ferries, small police crafts equipped with a radar and small crafts in possession of an inspection certificate in accordance with the Rhine Vessel Inspection Regulations or a certificate deemed to be the equivalent of these regulations.
 
-Les bateaux suivants ne sont pas soumis à l’obligation d’être équipés d’un appareil AIS Intérieur :
+Only the vessels referred to below are not subject to this requirement.
 
-a\) les bateaux de convois poussés et de formations à couple, à l’exception du bateau qui assure la propulsion principale,
+**QR7.2 Exempt vessels:**
 
-b\) les menues embarcations, à l'exception :
+The following vessels are not subject to an obligation of equipment with an Inland AIS device:
 
-* des bateaux de police équipés de radars,
-* des bateaux possédant un certificat de visite conformément au Règlement de visite des bateaux du Rhin ou un certificat réputé équivalent conformément à ce règlement,
-* des barges de poussage sans système de propulsion propre,
-* des engins flottants sans système de propulsion propre.
+a\) Vessels in pushed convoys and side-by-side formations, except for the vessel providing the main means of propulsion,
 
-L’obligation de mettre en fonctionnement l’appareil AIS est explicitée au point QR17 du présent document.
+b\) small crafts, except:
 
-Pour les bateaux cités non soumis à l’obligation d’équipement, il est recommandé d’utiliser un appareil AIS Intérieur agréé \(et non un appareil de classe A ou B\) en vertu du RVBR, dans la mesure où l’appareil AIS Intérieur est conçu pour la réception d’annonces spécifiquement destinées à la navigation intérieure.
+* police crafts with radar equipment, and
+* vessels in possession of an inspection certificate in accordance with the Rhine Vessel Inspection Regulations or a certificate deemed to be the equivalent of these regulations,
+* barges without their own means of propulsion,
+* floating equipment without their own means of propulsion.
 
-Toutefois, pour les bateaux de plaisance qui sont des menues embarcations, la Commission centrale pour la navigation du Rhin recommande qu’ils soient équipés d’un appareil AIS de classe B.
+Mandatory use of the AIS device is explained in QR17 of this document.
 
-Les menues embarcations non soumises à l’obligation de posséder l’équipement AIS Intérieur doivent également, si elles souhaitent s’équiper en appareil AIS, posséder une installation de radiotéléphonie en bon état de fonctionnement et commutée sur écoute pour le réseau bateau-bateau.
+For the aforementioned vessels not subject to mandatory possession, it is recommended to use an approved Inland AIS device \(and not a Class A or B device\) as specified in the RVIR, as the Inland AIS device is designed to receive reports specifically intended for inland navigation.
 
-Définition : conformément à l'article 1.01, lettre m\) du Règlement de police pour la navigation du Rhin, une « menue embarcation » est un bateau dont la longueur maximale de la coque, gouvernail et beaupré non compris, est inférieure à 20 m, sauf s'il s'agit :
+However, for small recreational crafts, the Central Commission for the Navigation of the Rhine \(CCNR\) recommends installing a class B AIS device.
 
-* d’un bateau autorisé à remorquer, pousser ou mener à couple des bateaux qui ne sont pas de menues embarcations,
-* d’un bateau autorisé au transport de plus de 12 passagers,
-* d'un bac,
-* d'une barge de poussage.
+Small crafts exempt from mandatory possession of an Inland AIS device must also, if they wish to install an AIS device, possess a radio-telephone system in good working order and switched to listening mode on the ship-to-ship network.
 
-### Spécificité de certains bateaux
+Definition : According to article 1.01, \(m\) of the Rhine Police Regulation, a small craft is a vessel whose maximum hull length, excluding rudder and bowsprit, is less than 20 m, unless it is:
 
-À l’instar des bateaux de la navigation commerciale, les bateaux de la police équipés d’un appareil radar doivent également être équipés d’un appareil AIS Intérieur, bien qu’il s’agisse souvent de « menues embarcations ».
+* a vessel authorised to tow, push or propel side-by-side vessels that are not small crafts,
+* a vessel authorised to carry more than 12 passengers,
+* a ferry or,
+* a barge
 
-Les bateaux de l’administration possèdent en général un certificat de visite conformément aux prescriptions du RVBR ou un certificat réputé équivalent en vertu de ce règlement. À ce titre, ils doivent également être équipés d’un appareil AIS Intérieur.
+**QR7.3 The specificity of certain vessels**
 
-### Certificats relatifs à l’assignation de fréquences
+Like commercial navigation vessels, police vessels equipped with a radar also have to be in possession of an Inland AIS device although they are frequently “small crafts”.
 
-Tous les bateaux équipés d’un appareil AIS Intérieur ou d’un appareil radar ou d’une installation de radiotéléphonie doivent posséder à leur bord le ou les « Certificat\(s\) relatif\(s\) à l’assignation de fréquences » ou la « Licence de station de navire » conformément à l’article 1.10, lettre l du Règlement de police pour la navigation du Rhin.
+Vessels belonging to the authorities usually possess an inspection certificate as required by the RVIR or a certificate deemed by these regulations to be equivalent. As such, they must also be equipped with an Inland AIS device.
 
-Cette demande de certificat ou de licence est à effectuer auprès des autorités compétentes dès que l’appareil AIS a été acquis. Le conducteur doit s’assurer que le propriétaire ou l’exploitant du bateau a fait cette demande. Dans tous les cas, il incombe au conducteur de vérifier que ce certificat ou cette licence est à bord du bateau.
+**QR7.4 Frequency allocation certificates**
 
-### Puis-je installer un appareil AIS Intérieur même si je n'y suis pas obligé ?
+All vessels in possession of an Inland AIS device or radar equipment or radio-telephone installation must carry on board the “frequency allocation certificate\(s\)” or “ship station licence” pursuant to article 1.10 \(l\) of the Rhine Police Regulations.
 
-Pour les bateaux cités non soumis à l’obligation d’équipement, il est recommandé d’utiliser un appareil AIS Intérieur agréé \(et non un appareil de classe A ou B\), dans la mesure où l’appareil AIS Intérieur est conçu pour la réception d’annonces spécifiquement destinées à la navigation intérieure. Toutefois, pour les bateaux de plaisance qui sont des menues embarcations, la CCNR recommande de s’équiper avec un appareil AIS de classe B.
+This request for a certificate or licence is to be made to the competent authorities as soon as the AIS device has been acquired. The skipper must ensure that the vessel’s owner or operator has made this request. In all cases it is the responsibility of the skipper to check that this certificate or licence is on board the vessel.
 
-Les menues embarcations \(et notamment les bateaux de plaisance\), qui ne sont pas soumises à l’obligation d’équipement en appareil AIS et qui décident de s’équiper d’un appareil AIS de classe B ne sont pas tenues de recourir à une société spécialisée agréée pour l’installation de cet appareil. Cependant, la CCNR recommande de faire appel aux services d’une société spécialisée agréée, afin de réduire le risque de dysfonctionnements.
+QR**7.5 I want to install an Inland AIS device without being obliged to do so?**
 
-## Supprimé
+For the aforementioned vessels not subject to mandatory possession, it is recommended to use an approved Inland AIS device \(and not a Class A or B device\), , as the Inland AIS device is designed to receive reports specifically intended for inland navigation. However, for small recreational crafts, the CCNR recommends installing a class B AIS device.
 
-## Quels sont les champs de données les plus courants d'un appareil AIS Intérieur ?
+Small crafts \(and in particular recreational crafts\) that are not subject to mandatory possession of an AIS device and which decide to acquire a class B AIS device are not obliged to use an approved specialised firm to install this device. However, the CCNR recommends using an approved specialised firm to reduce the risk of malfunction.
 
-Il est obligatoire que l'appareil AIS Intérieur transmette des données actualisées. Aussi, cette page contient quelques indications pour le conducteur et explique \(le cas échéant\) le but de l'utilisation de ces données. Pour les opérations quotidiennes, le conducteur peut également utiliser la [liste de contrôle](https://ris.gitbook.io/ebrochure-iais/voyage-checklist).
+## QR8 deleted
+
+## QR9 What are the most common data fields of Inland AIS device?
+
+It is mandatory that Inland AIS device to transmit up-to-date . Therefore, this page will give some hints for the boatmaster and explains \(when applicable\) for what reasons the data are used. For the daily operations, the boatmaster can also make use of the [checklist](https://ris.gitbook.io/ebrochure-iais/voyage-checklist).
+
+[How to enter my voyage data in the Inland AIS](https://ris.gitbook.io/ebrochure-iais/how-to-enter-my-voyage-data-in-the-inland-ais-device) [device](https://ris.gitbook.io/ebrochure-iais/how-to-enter-my-voyage-data-in-the-inland-ais-device) [?](https://ris.gitbook.io/ebrochure-iais/how-to-enter-my-voyage-data-in-the-inland-ais-device)
+
+[/how-to-enter-my-voyage-data-in-the-inland-ais-](https://ris.gitbook.io/ebrochure-iais/how-to-enter-my-voyage-data-in-the-inland-ais-device)[devic](https://ris.gitbook.io/ebrochure-iais/how-to-enter-my-voyage-data-in-the-inland-ais-device)[e](https://ris.gitbook.io/ebrochure-iais/how-to-enter-my-voyage-data-in-the-inland-ais-device)
+
+[Which data is transmitted by the AIS device?](https://ris.gitbook.io/ebrochure-iais/which-data-is-transmitted-by-the-ais-device)
+
+[/which-data-is-transmitted-by-the-ais-](https://ris.gitbook.io/ebrochure-iais/which-data-is-transmitted-by-the-ais-device)[devic](https://ris.gitbook.io/ebrochure-iais/which-data-is-transmitted-by-the-ais-device)[e](https://ris.gitbook.io/ebrochure-iais/which-data-is-transmitted-by-the-ais-device)
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Champ de donn&#xE9;es</th>
+      <th style="text-align:left">Data Field</th>
       <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Identifiant utilisateur (num&#xE9;ro MMSI)</b>
+      <td style="text-align:left"><b>User identity (MMSI number)</b>
       </td>
-      <td style="text-align:left">Le num&#xE9;ro MMSI est le num&#xE9;ro d&apos;identit&#xE9; de l&apos;appareil
-        AIS Int&#xE9;rieur &#xE9;metteur qui est attribu&#xE9; aux &#xE9;quipements
-        de radiocommunication embarqu&#xE9;s par l&apos;administration des t&#xE9;l&#xE9;communications
-        comp&#xE9;tente. Le num&#xE9;ro MMSI attribu&#xE9; est saisi par la soci&#xE9;t&#xE9;
-        sp&#xE9;cialis&#xE9;e agr&#xE9;&#xE9;e lors de l&apos;installation de l&apos;appareil
-        AIS Int&#xE9;rieur. Ce num&#xE9;ro permet aux syst&#xE8;mes de gestion
-        du trafic fluvial des autorit&#xE9;s d&apos;identifier un bateau et de
-        faire le lien avec les donn&#xE9;es actuelles concernant son voyage.</td>
+      <td style="text-align:left">The MMSI number is the identity number of the transmitting Inland AIS
+        devicen and is assigned by the competent telecommunication administration
+        and for on-board radio communication equipment. The assigned MMSI number
+        is set by the specialized approved firm when installing the Inland AIS
+        device. This number helps the authorities&apos; vessel traffic management
+        systems to identify a vessel and connect it to current voyage data.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Nom du bateau</b>
+      <td style="text-align:left"><b>Name of the vessel</b>
       </td>
-      <td style="text-align:left">Le nom du bateau est saisi dans l&apos;appareil AIS Int&#xE9;rieur lors
-        de son installation par la soci&#xE9;t&#xE9; sp&#xE9;cialis&#xE9;e agr&#xE9;&#xE9;e.
-        Le nom du bateau permet au conducteur d&apos;identifier le trafic environnant.</td>
+      <td style="text-align:left">
+        <p>The name of the vessel is set in the Inland AIS device by the specialized
+          approved firm when installing it. The name of the vessel helps the boatmaster
+          to identify traffic in the vicinity.</p>
+        <p>.</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Type de bateau ou de convoi</b>
+      <td style="text-align:left"><b>Vessel or convoy type</b>
       </td>
-      <td style="text-align:left">Le <a href="https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device"><em>type de bateau ou de convoi</em></a> est
-        utilis&#xE9; par les syst&#xE8;mes de gestion du trafic fluvial des autorit&#xE9;s
-        afin de d&#xE9;terminer la composition d&apos;un convoi et/ou de planifier
-        les cycles d&apos;&#xE9;clusage. L&apos;AIS Int&#xE9;rieur fournit une
-        liste des diff&#xE9;rents types de bateaux et de convois pour faire le
-        choix. Pour un convoi, le type de convoi peut changer pour chaque bateau
-        en fonction du nombre et du type des barges accoupl&#xE9;es. Pour certains
-        bateaux, le type peut &#xE9;galement changer. Il doit &#xEA;tre mis &#xE0;
-        jour par le conducteur pour chaque voyage.</td>
+      <td style="text-align:left">The <a href="https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device"><em>vessel or convoy type</em></a> is
+        used by vessel traffic management systems of the authorities in order to
+        identify the composition of a convoy and/or to plan lock cycles. Inland
+        AIS provides a list of different vessel and convoy types to choose from.
+        For a convoy, the convoy type may change for each vessel depending on the
+        number and type of the coupled barges. For some vessels, the type may also
+        change. This needs to be updated by the boatmaster for each voyage.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Num&#xE9;ro ENI</b>
+      <td style="text-align:left"><b>ENI number</b>
       </td>
-      <td style="text-align:left">Le num&#xE9;ro ENI est le num&#xE9;ro europ&#xE9;en unique d&apos;identification
-        des bateaux. Il est saisi par la soci&#xE9;t&#xE9; sp&#xE9;cialis&#xE9;e
-        agr&#xE9;&#xE9;e lors de l&apos;installation de l&apos;appareil AIS Int&#xE9;rieur.
-        Le num&#xE9;ro ENI est utilis&#xE9; par les syst&#xE8;mes de gestion du
-        trafic fluvial des autorit&#xE9;s pour identifier les bateaux et faire
-        le lien avec les donn&#xE9;es actuelles concernant leur voyage.</td>
+      <td style="text-align:left">The ENI number is the Unique European vessel identification number. It
+        is set by the specialized approved firm when installing the Inland AIS
+        device. The ENI number is used by vessel traffic management systems of
+        the authorities to identify vessels and connect them to their current voyage
+        data.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Dimensions</b>
       </td>
       <td style="text-align:left">
-        <p>Les dimensions sont la longueur et la largeur hors tout du bateau ou du
-          convoi. Pour un bateau seul, ces valeurs sont saisies par la soci&#xE9;t&#xE9;
-          sp&#xE9;cialis&#xE9;e agr&#xE9;&#xE9;e lors de l&apos;installation de l&apos;appareil
-          AIS Int&#xE9;rieur. Pour un convoi, les valeurs doivent &#xEA;tre fix&#xE9;es
-          par le conducteur en fonction de la composition actuelle du convoi. Le
-          conducteur prend en compte les dimensions des autres bateaux afin d&apos;assurer
-          la s&#xE9;curit&#xE9; lors des croisements et d&#xE9;passements.</p>
-        <p>Les autorit&#xE9;s prennent en compte les dimensions dans leurs syst&#xE8;mes
-          de gestion du trafic fluvial pour la planification des &#xE9;clusages et/ou
-          pour les services VTS.</p>
+        <p>The dimensions are the overall length and beam of the vessel or convoy.
+          For a single vessel, those values are set by the specialized approved firm
+          during installation of the Inland AIS device. For a convoy, the values
+          must be set by the boatmaster according to the actual situation of the
+          convoy. The boatmaster uses the dimensions of other vessels so as to ensure
+          safe passing and overtaking.</p>
+        <p>The authorities use the dimensions in their vessel traffic management
+          systems for lock planning and/or VTS services</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Position</b>
       </td>
-      <td style="text-align:left">La position est utilis&#xE9;e pour afficher le bateau sur une carte. Cette
-        information sur la position d&apos;un bateau refl&#xE8;te la position r&#xE9;elle
-        de l&apos;antenne GPS de l&apos;appareil AIS Int&#xE9;rieur &#xE0; bord
-        du bateau. La position est utilis&#xE9;e par d&apos;autres conducteurs
-        et par les autorit&#xE9;s.</td>
+      <td style="text-align:left">The position is used for displaying the vessel on a map. This position
+        information of a vessel reflects the actual position of the Inland AIS
+        device&#x2019;s GPS antenna on board of the vessel. The position is used
+        by other boatmasters and authorities.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Vitesse sur route</b>
+      <td style="text-align:left"><b>Speed over ground</b>
       </td>
       <td style="text-align:left">
-        <p>La vitesse sur route est transmise automatiquement par l&apos;appareil
-          AIS Int&#xE9;rieur. Le conducteur utilise la vitesse pour d&#xE9;terminer
-          si un bateau se d&#xE9;place et &#xE0; quelle vitesse.</p>
-        <p>Les syst&#xE8;mes de gestion du trafic fluvial des autorit&#xE9;s pourraient
-          utiliser la vitesse sur terre pour d&#xE9;terminer si un bateau se d&#xE9;place.
-          Cela permet de distinguer les bateaux qui font route de ceux qui sont amarr&#xE9;s.</p>
+        <p>The speed over ground is transmitted automatically by the Inland AIS device.
+          The boatmaster uses the speed to identify if a vessel is moving and at
+          what speed.</p>
+        <p>The vessel traffic management systems of authorities could use the speed
+          over ground to identify if a vessel is moving. This allows to sort vessels
+          which are underway from the one moored. .</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Route</b>
+      <td style="text-align:left"><b>Course</b>
       </td>
-      <td style="text-align:left">La route du bateau est transmise automatiquement par l&apos;appareil AIS
-        Int&#xE9;rieur. Elle est utilis&#xE9;e par le conducteur et les autorit&#xE9;s
-        pour d&#xE9;terminer le sens de navigation d&apos;un bateau.</td>
+      <td style="text-align:left">The course of the vessel is transmitted automatically by the Inland AIS
+        device. It is used by the boatmaster and the authorities to determine the
+        sailing direction of a vessel.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Statut navigationnel</b>
+      <td style="text-align:left"><b>Navigational status</b>
       </td>
-      <td style="text-align:left">Le statut navigationnel donne une indication sur le statut d&apos;exploitation
-        du bateau (par exemple, &#xAB; en route au moteur &#xBB;, &#xAB; &#xE0;
-        l&apos;ancre &#xBB;, &#xAB; amarr&#xE9; &#xBB;) et rel&#xE8;ve de la responsabilit&#xE9;
-        du conducteur). Les syst&#xE8;mes de gestion du trafic fluvial des autorit&#xE9;s
-        utilisent ces informations &#xE0; des fins de planification. Le statut
-        navigationnel rev&#xEA;t peut-&#xEA;tre une moindre importance pour le
-        conducteur, mais il permet de tenir compte du fait qu&apos;un appareil
-        AIS Int&#xE9;rieur qui transmet avec le statut navigationnel &#xAB; en
-        route, au moteur &#xBB; n&#xE9;cessite nettement plus de temps pour la
-        transmission qu&apos;avec le statut navigationnel &#xAB; amarr&#xE9; &#xBB;.
-        En particulier dans les secteurs o&#xF9; le trafic est dense, (par ex.
-        dans les ports), le fait de r&#xE9;gler le statut navigationnel sur &quot;amarr&#xE9;&quot;
-        lorsqu&apos;un bateau est amarr&#xE9; permet de moins solliciter le syst&#xE8;me.
-        Le statut navigationnel est r&#xE9;gl&#xE9; par le conducteur, mais certains
-        fournisseurs (notamment les fabricants d&apos;appareils ECDIS Int&#xE9;rieur)
-        proposent une fonctionnalit&#xE9; de param&#xE9;trage (semi-)automatique
-        du statut navigationnel sur la base de la vitesse sur route. Le conducteur
-        demeure toutefois responsable des informations transmises.</td>
+      <td style="text-align:left">The navigational status gives an indication about the operation status
+        of the vessel (e.g. &#x2018;underway using engine&#x2019;, &#x2018;at anchor&#x2019;,
+        &#x2018;moored&#x2019;) and is set under the responsibility of the boatmaster
+        ). The vessel traffic management systems of the authorities use this information
+        for planning purposes. The navigational status might not be so important
+        for the boatmaster, but to be informed that an Inland AIS device that is
+        transmitting &#x2018;Underway, using engine&#x2019; claims far more time-slots
+        for transmitting in contrast to the navigational status &#x2018;Moored&#x2019;.
+        In dense areas especially (such as ports) it helps to reduce the load to
+        the system if the navigational status is set to &#x2018;Moored&#x2019;
+        when a vessel is moored. The navigational status is set by the boatmaster
+        but some suppliers (especially Inland ECDIS manufacturers) offer the feature
+        of an (semi)automatic setting of the navigational status based on the speed
+        over ground. Howewer the boatmaster is responsible for the transmitted
+        information.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Point de r&#xE9;f&#xE9;rence</b>
+      <td style="text-align:left"><b>Reference point</b>
       </td>
-      <td style="text-align:left">Le point d&apos;acquisition de l&apos;information du bateau est, dans
-        la plupart des cas, la position de l&apos;antenne GPS de l&apos;appareil
-        AIS. Le point d&apos;acquisition de l&apos;information est saisi par la
-        soci&#xE9;t&#xE9; sp&#xE9;cialis&#xE9;e agr&#xE9;&#xE9;e lors de l&apos;installation
-        de l&apos;appareil AIS Int&#xE9;rieur. La modification du point d&apos;acquisition
-        de l&apos;information n&apos;est n&#xE9;cessaire que pour les convois,
-        en fonction de la composition du convoi. Cette modification est g&#xE9;n&#xE9;ralement
-        effectu&#xE9;e en m&#xEA;me temps que la modification des dimensions du
-        convoi. Si le point d&apos;acquisition de l&apos;information n&apos;est
-        pas r&#xE9;gl&#xE9; correctement, cela peut donner lieu &#xE0; un d&#xE9;calage
-        par rapport &#xE0; la position r&#xE9;elle du bateau.</td>
+      <td style="text-align:left">The reference point of the vessel is in most cases the position of the
+        AIS device&#x2019;s GPS antenna. The reference point is set by the specialized
+        approved firm during installation of the Inland AIS device. Only in the
+        case of convoys does the reference point need to be changed, depending
+        on the composition of a convoy. This is usually done in conjunction with
+        the amendments of the dimension of the convoy. When the reference point
+        is not set correctly, an offset of the actual position of the vessel might
+        occur.</td>
     </tr>
   </tbody>
 </table>
 
-## Quelles sont les données transmises par l'appareil AIS ?
+## QR10 Which data is transmitted by the AIS device?
 
-Les données transmises par l'appareil AIS Intérieur doivent toujours être à jour, conformément à l'article 4.07, chiffre 2, du Règlement de police pour la navigation du Rhin. Il incombe au conducteur de s'assurer que toutes les données transmises par l'appareil AIS correspondent aux données actuelles concernant le bateau ou le convoi.
+Data transmitted by the Inland AIS station must always be up to date, according to article 4.07 \(2\) of the Rhine Police Regulations. It is the boatmaster’s responsibility to ensure that all data transmitted by the AIS station matches the vessel’s or convoy’s current data.
 
-Les bateaux équipés d'un appareil AIS Intérieur transmettent automatiquement et périodiquement des informations et en reçoivent d'autres bateaux équipés d'un appareil AIS. Les principales informations concernent le bateau et ses données nautiques actuelles :
+Vessels fitted with Inland AIS device transmit and receive information on an automatic and periodical basis from other ships equipped with AIS device. The main information regards the vessel and its current nautical data:
 
-* identité du bateau,
-* position exacte du bateau,
-* cap et vitesse du bateau,
-* autres données relatives au bateau.
+* Identity of the vessel
+* Its exact position
+* Its course and speed
+* Other ship-specific data
 
-Toutefois, certaines données doivent être saisies manuellement par le conducteur. Parmi celles-ci, les plus importantes sont les suivantes :
+However some data must be enterred manually by the boatmaster. The most prominent of which are :
 
-* statut navigationnel du bateau \(par ex. en route, amarré ou à l'ancre\),
-* type de bateau / convoi,
-* longueur et largeur hors tout du bateau / convoi.
+* navigational status of the vessel \(e.g. under way, moored or at anchor\)
+* Type of vessel / convoy
+* Overall length and beam of the vessel / convoy
 
-[Quels sont les statuts navigationnels disponibles sur un appareil AIS Intérieur ?](https://ris.gitbook.io/ebrochure-iais/navigational-status)
+[What are all navigational statuses available on an Inland AIS device?](https://ris.gitbook.io/ebrochure-iais/navigational-status)
 
-[/statut-navigationnel](https://ris.gitbook.io/ebrochure-iais/navigational-status)
+[/](https://ris.gitbook.io/ebrochure-iais/navigational-status)[navigational-statu](https://ris.gitbook.io/ebrochure-iais/navigational-status)[s](https://ris.gitbook.io/ebrochure-iais/navigational-status)
 
-**Liste des données transmises obligatoirement par l’appareil AIS Intérieur**
+**List of data that must be transmitted by the Inland AIS device**
 
-Il existe un ensemble minimum de données devant être transmises par l'appareil AIS, qui doivent être disponibles à tout moment et maintenues à jour.
+There is a minimum set of data transmitted by the AIS station which needs to be available at all times and kept up to date.
 
-L'ensemble minimum de données devant être transmises par l'appareil AIS Intérieur est fixé à l'article 4.07, chiffre 4, du Règlement de police pour la navigation du Rhin :
+The minimum data set of an Inland AIS station is according to article 4.07 \(4\) of the Rhine Police Regulations:
 
-| Ensemble de données | Description | Quand mettre à jour les données ? |
+| Dataset | Description | When to update the data |
 | :--- | :--- | :--- |
-| MMSI | Maritime Mobile Service Identity = identité de l'appareil AIS | À chaque installation |
-| Nom du bateau | Nom usuel du bateau sur les voies VHF | À chaque installation |
-| Signal d'appel | Indicatif d’appel radio du bateau | À chaque installation |
-| Type de bateau ou de convoi | En Référence à la liste de bateaux et de convois | À chaque voyage |
-| ENI | Numéro européen unique d’identification du bateau \(ENI\) ou, pour les navires de mer auxquels n’a pas été attribué de numéro ENI, le numéro OMI | À chaque installation |
-| Longueur | Longueur hors tout du bateau ou du convoi avec une précision de 0,1 m | À chaque voyage |
-| Largeur | Largeur hors tout du bateau ou du convoi avec une précision de 0,1 m | À chaque voyage |
-| Point d'acquisition de l’information relative à la position | Point d’acquisition de l’information relative à la position à bord du bateau, avec une précision de 1 m, \(il s'agit de la position de l'antenne GPS de l'appareil AIS Intérieur\), voir Annexe 2. | À chaque voyage |
-| Position GNSS | Position du bateau \(dérivée du GPS dans le système de coordonnées WGS 84\) | Jamais \(automatique\) |
-| Heure | Indication de l'heure de la détermination de la position par le dispositif électronique de détermination de la position | Jamais \(automatique\) |
-| SOG | Vitesse au sol | Jamais \(automatique\) |
-| COG | Cap au sol | Jamais \(automatique\) |
-| NavStat | Statut navigationnel | À chaque manœuvre |
+| MMSI | Maritime Mobile Service Identity = AIS device identity | Each installation |
+| Vessel name | Usual name of the Vessel on VHF channels | Each installation |
+| Call sign | VHF radio call sign of the vessel | Each installation |
+| Vessel type or convoy type | List of vessel and convoy | Each voyage |
+| ENI | unique European vessel Identification Number \(ENI\) or, for seagoing vessels that have not been given an ENI number, the IMO number | Each installation |
+| length | length overall of the vessel or convoy accurate to 0.1 m | Each voyage |
+| breadth | Overall breadth of the vessel or convoy accurate to 0.1 m | Each voyage |
+| reference point | reference point for the positional information aboard the vessel, accurate to 1 m, \(this is the position of the GPS antenna of the Inland AIS station\) see Annex 2. | Each voyage |
+| GNSS position | Position of the vessel \(derived from GPS in WGS 84 coordinate system\) | Never \(automatic\) |
+| Time | time indication of position determination by the electronic position location device | Never \(automatic\) |
+| SOG | speed over ground | Never \(automatic\) |
+| COG | course over ground | Never \(automatic\) |
+| NavStat | Navigational status | Each Manoeuvre |
 
-L'appareil AIS Intérieur peut fournir davantage de données, mais cela n'est pas obligatoire sur le Rhin et ces données peuvent être saisies sur une base volontaire.
+Inland AIS device can provide more data but this is not mandatory on the Rhine, and the data can be entered voluntarily.
 
-La transmission de données supplémentaires s'étant souvent révélée une source de confusion, il est recommandé de ne transmettre que les données obligatoires énumérées ci-dessus et de ne pas transmettre de données supplémentaires telles que des informations sur le voyage du bateau.
+As transmitting additional data has often proved to be a source of confusion, it is recommended that only the mandatory data listed above be transmitted and additional data such as information on the vessel’s voyage should not be transmitted.
 
-La liste de contrôle accessible par le lien ci-dessous contient une liste des tâches à effectuer avant, pendant et après le voyage, y compris la modification des données relatives au convoi, s'il y a lieu.
+The checklist in the link below contains a checklist contains tasks to be performed before, during and after the voyage including the change of convoy data if necessary.
 
-## Saisie de données dans l'appareil AIS Intérieur
+## QR11 Entering data in the Inland AIS device
 
-Le conducteur doit vérifier certaines données transmises par l'appareil AIS Intérieur au moins une fois avant chaque voyage. Par exemple, la configuration du convoi peut changer en fonction du voyage.
+The boatmaster must check some data transmitted by the Inland AIS device at least once before each voyage. For example, the setting of the convoy may change depending on the voyage.
 
-Si la configuration du convoi a été modifiée, le conducteur doit faire une mise à jour :
+When the convoy setting is changed, The boatmaster needs to update :
 
-* Type de bateau ou de convoi
-* Position du point d'acquisition de l'information \(antenne GPS\)
+* Vessel or convoy type
+* Position of the reference point \(GPS Antenna\)
 
-[Comment dois-je paramétrer le point d’acquisition de l'information relative à la position à bord du bateau](https://ris.gitbook.io/ebrochure-iais/reference-point-for-the-positional-information)[ ](https://ris.gitbook.io/ebrochure-iais/reference-point-for-the-positional-information)[?](https://ris.gitbook.io/ebrochure-iais/reference-point-for-the-positional-information)
+[How do I set the Reference point for the positional information aboard the vessel?](https://ris.gitbook.io/ebrochure-iais/reference-point-for-the-positional-information)
 
-[/point-d’acquisition-de-l'information-relative-à-la-position](https://ris.gitbook.io/ebrochure-iais/reference-point-for-the-positional-information)
+[/reference-point-for-the-positional-information](https://ris.gitbook.io/ebrochure-iais/reference-point-for-the-positional-information)
 
-Vérifiez l'unité requise par l'appareil AIS Intérieur pour la position \(mètres ou décimètres par exemple\)
+Check the position unit required by the Inland AIS device \(metres or decimetres for example\)
 
-À titre d’exemple, pour un convoi d'une largeur de 12,54 m, le conducteur saisit dans l’appareil AIS Intérieur 12,6 m ou 126 dm, selon l’unité requise par l’appareil.
+By way of an example, for a convoy with a breadth of 12.54 m, the boatmaster enters 12.6 m or 126 dm in the Inland AIS device, depending on the unit required by the device.
 
-Pour les bateaux ne naviguant jamais en convoi, le point d'acquisition de l'information relative à la position peut être saisi définitivement par la société spécialisée agréée lors de l'installation de l'appareil.
+For vessels that never sail in a convoy, the position of the reference point are entered by the approved specialised firm one for good during installation of the device.
 
-### Pour les convois :
+### For convoys :
 
-[Comment saisir les paramètres d'un convoi ou un convoi remorqué dans l'appareil AIS Intérieur ?](https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device)
+[How to set a convoy or a towed convoy in the Inland AIS](https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device) [device](https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device) [?](https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device)
 
-[/comment-saisir-les-paramètres-d'un-convoi-ou-un-convoi-remorqué-dans-l'appareil-ais-intérieur](https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device)
+[/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device](https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device)
 
-### Données déterminées automatiquement par l'appareil AIS Intérieur
+### Data automatically determined by the Inland AIS device
 
-Le conducteur n'a pas besoin de procéder au paramétrage de l'appareil AIS Intérieur pour les données qui sont déterminées et transmises automatiquement. Ces données sont les suivantes :
+The boatmaster does not need to make any adjustments to the Inland AIS device for the data that are determined and transmitted automatically. These data are as follow :
 
-* position \(coordonnées WGS84\) du bateau ou convoi où est installé l’appareil AIS Intérieur,
-* vitesse sur route,
-* route,
-* heure de l’appareil électronique de détermination de la position.
+* position \(WGS84 coordinates\) of the vessel or convoy on which the Inland AIS device is installed,
+* speed over ground,
+* course over ground,
+* time indicated by the electronic position location device.
 
-### Paramètres saisis lors de l'installation de l'appareil AIS Intérieur
+### Settings defined during installation of the Inland AIS device
 
-Ces paramètres doivent être modifiés après une modification concernant le bateau \(exemple : changement du propriétaire du bateau, changement de nom du bateau, allongement du bateau\).
+These settings must be amended following a modification of the vessel \(example: change of owner of the vessel, change of name of the vessel, lengthening of the vessel\)
 
-Les paramètres énumérés ci-dessous sont saisis lors de l'installation de l'appareil AIS Intérieur. La saisie initiale \(et toute modification ultérieure\) doit être effectuée par une société spécialisée agréée. Toutefois, le conducteur doit s'assurer que la société spécialisée agréée a saisi les données correctement :
+The settings listed below is entered when the Inland AIS device is installed. This initial setting \(and any subsequent amendment\) must be carried out by an approved specialised firm. However, the boatmaster must ensure that the approved specialised firm enters the data correctly:
 
-* identité de la station AIS \(MMSI\),
-* nom du bateau,
-* indicatif d'appel \(identification de la radio VHF du bateau\),
-* Numéro européen unique d'identification des bateaux \(ENI\),
-* longueur hors tout du bateau par rapport à l'antenne GPS embarquée, avec une précision de 0,1 m, voir annexe 2,
-* largeur hors tout du bateau par rapport à l'antenne GPS embarquée, avec une précision de 0,1 m, voir annexe 2.
+* AIS station identity \(MMSI\)
+* vessel name
+* call sign \(VHF radio identification of the vessel\)
+* unique European vessel Identification Number \(ENI\)
+* overall length of the vessel referred to the on-board GPS antenna, accurate to 0.1 m, see Annex 2
+* overall breadth of the vessel referred to the on-board GPS antenna, accurate to 0.1 m, see Annex 2
 
-### Transmission de données incorrectes par l'appareil AIS Intérieur
+### Transmitting of incorrect data by the Inland AIS device
 
-Le conducteur doit vérifier régulièrement si les données transmises par l'appareil AIS Intérieur sont correctes. Cela peut être fait en examinant les paramètres dans les menus correspondants de l'appareil AIS Intérieur \(voir le manuel d'utilisation de l'appareil AIS Intérieur\).
+The boatmaster should regularly check if the transmitted data by the Inland AIS device are correct. This can be done by reviewing the settings in the appropriate menus of the Inland AIS device \(refer to the user manual of the Inland AIS device\).
 
-Dans de rares cas, il est possible que l'appareil AIS Intérieur transmette des données incorrectes sans que le conducteur du bateau ne s'en aperçoive. La CCNR recommande par conséquent aux autres conducteurs de prendre l'initiative de contacter le conducteur du bateau dont l'appareil AIS Intérieur transmet des données incorrectes afin de l'alerter.
+In rare cases the Inland AIS device can transmit incorrect data without the boatmaster being aware of it. Consequently, the CCNR recommends that other boatmasters take the initiative in contacting the boatmaster of the vessel whose Inland AIS device is transmitting incorrect data to alert him.
 
-Le conducteur doit alors immédiatement corriger les données ou faire procéder à une correction par la société spécialisée agréée. Le fait de ne pas donner suite à cette demande le rend passible de poursuites.
+The boatmaster must immediately correct the data or initiate a correction by the approved specialised firm. Failure to act on this request shall render him liable to prosecution.
 
-## Comment saisir les données relatives à mon voyage dans l'appareil AIS Intérieur ?
+## QR12 How to enter my voyage data in the Inland AIS device ?
 
-Les Services d'information fluviale \(SIF\) sont susceptibles de fournir davantage de données, mais la transmission de ces données n'est pas obligatoire et leur saisie est facultative. La transmission de données supplémentaires s'étant souvent révélée être une source de confusion, il est recommandé de ne transmettre que les données obligatoires énumérées en QR10 et de ne pas transmettre de données supplémentaires telles que des informations sur le voyage du bateau.
+River Information Services \(RIS\) can provide more data but the transmission of those data is not mandatory and can be input voluntarily. As transmitting additional data has often proved to be a source of confusion, it is recommended that only the mandatory data listed in QR10be transmitted and not to transmit additional data such as information on the vessel’s voyage.
 
-Une liste de contrôle très utile contenant les tâches à effectuer avant, pendant et après le voyage est accessible ici :
+A very useful check list containing tasks to be performed before, during and after the voyage can be found here:
 
-[Liste de contrôle pour le voyage](https://ris.gitbook.io/ebrochure-iais/voyage-checklist)
+[Voyage-Checklist](https://ris.gitbook.io/ebrochure-iais/voyage-checklist)
 
-[/liste-de-contrôle-pour-le-voyage](https://ris.gitbook.io/ebrochure-iais/voyage-checklist)
+[/voyage-checklist](https://ris.gitbook.io/ebrochure-iais/voyage-checklist)
 
-Il incombe au conducteur de s'assurer que les données transmises par l'appareil AIS Intérieur sont **constamment à jour**.
+It is the responsability of the boatmaster to ensure that the Inland AIS device transmits data that is at all times **up to date**.
 
-## Comment vérifier que les données transmises par l'appareil AIS Intérieur sont correctes ?
+## QR13 How to check that transmitted Inland AIS data is correct ?
 
-Le conducteur doit savoir quelles sont les données transmises par l'appareil AIS Intérieur afin de vérifier si ces données correspondent à la situation actuelle. Il existe plusieurs façons de procéder à cette vérification :
+The boatmaster should be aware of the data transmitted by the Inland AIS device in order to check if the data is correct according to the current situation. There are several possibilities to carry out this check:
 
-* Vérifiez si l'antenne est en position verticale.
-* Vérifiez les paramètres de l'appareil AIS Intérieur. Différents menus de l'affichage intégral de l'appareil AIS intérieur \(appelé MKD - Minimum Keyboard Display\) permettent de paramétrer, de modifier et de vérifier les données transmises par l'appareil AIS Intérieur. Veuillez consulter le manuel d'utilisation du fabricant de l'appareil AIS Intérieur pour plus de précisions.
-* Vérifiez les paramètres de l'appareil ECDIS Intérieur. De nombreux appareils ECDIS Intérieur permettent de paramétrer, de modifier et de vérifier les données transmises par l'appareil AIS Intérieur directement sur l'écran ECDIS Intérieur. Le conducteur peut se renseigner auprès du fournisseur de son appareil ECDIS Intérieur sur cette possibilité. Certains appareils comparables de visualisation de cartes électroniques permettent également d'effectuer cette vérification des paramètres ; si tel n'est pas le cas, la vérification des paramètres peut être effectuée directement sur l'appareil AIS Intérieur.
-* Vérifiez les paramètres en appelant un centre SIF. La plupart des centres SIF disposent d'une vue d'ensemble complète des données AIS reçues. Un contrôle de validation peut être effectué en les contactant par VHF ou par téléphone.
-* Vérifiez les données transmises en vous adressant à un autre conducteur de bateau. Chaque bateau équipé d'un appareil AIS Intérieur peut recevoir les données transmises par d'autres bateaux. Vous pouvez demander à un autre conducteur quelles sont les informations relatives à votre bateau qu'il reçoit.
+* Check if the antenna is in upright position.
+* Check the settings in the Inland AIS device. There are different menus to set, change and check Inland AIS transmitted data in the integral display of the Inland AIS device \(the so-called MKD- Minimum Keyboard Display\). Please refer to the manufacturer’s Inland AIS device operation manual for further details.
+* Check the settings in the Inland ECDIS device. Many Inland ECDIS providers offer the possibility to set, change and check Inland AIS transmitted data in their Inland ECDIS Display. Boatmaster can ask their Inland ECDIS provider for the possibilities. Depending on the comparable electronic chart display device this check of settings can also be available on the device, if not the settings check can be done directly on the Inland AIS device.
+* Check the settings by calling a RIS centre. Most of the RIS centres have a complete overview of the received AIS data. By contacting them via VHF or telephone, a validation check can be conducted.
+* Check the transmitted data by asking another boatmaster. Every vessel equipped with an Inland AIS device can receive the transmitted data from other vessels. You might ask another boatmaster which information they receive about your vessel.
 
-### Vérifiez le statut de l'alerte et le statut du capteur de l'appareil AIS Intérieur
+### Check the alarm status and the sensor status of the Inland AIS device
 
-L'appareil AIS Intérieur génère une alerte et indique le statut du capteur en cas de défaillance de l'appareil ou des capteurs connectés \(par exemple le capteur GNSS ou l'antenne\). En vérifiant régulièrement les statuts, un problème peut être détecté à un stade précoce. Le code de l'alerte fournit une indication sur la nature du problème.
+The Inland AIS device gives an alarm and sensor status if something is wrong either with the device or the connected sensors \(ie. GNSS sensor, Antenna\). By checking the statuses regularly, a problem might be noticed at an early stage. The code of the alarm gives an indication about the issue
 
-Il est utile d'informer la société installatrice de ces statuts d'alerte afin de lui permettre de faire le bon diagnostic.
+The alarm statuses are helpful to report to the installer firm to make the right diagnostic.
 
-## Quelles sont les exigences pour l'installation d'un appareil AIS Intérieur ?
+## deleted ! QR14+QR15
 
-### Installation d'un appareil AIS Intérieur
+## What are the requirements for the installation of an Inland AIS device?
 
-Un appareil AIS Intérieur doit être installé par une [société spécialisée agréée](https://ris.gitbook.io/ebrochure-iais/how-to-install-inland-nautical-equipment#list-of-approved-installing-firms).
+### Installing an Inland AIS device
 
-Les entreprises sont uniquement agréées par une autorité compétente et sont répertoriées :
+An Inland AIS device must be installed by an [approved specialized firm](https://ris.gitbook.io/ebrochure-iais/how-to-install-inland-nautical-equipment#list-of-approved-installing-firms).
 
-[Listes des autorités, sociétés, installations et équipements agréés conformément aux prescriptions techniques applicables aux bateaux de navigation intérieure](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
+The firms are only approved by a competent authority and listed :
 
-[Listes des équipements possédant l'agrément de type, des autorités compétentes pour la délivrance des agréments de type, des services techniques agréés et des sociétés spécialisées agréées](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
+[Lists of approved authorities, firms,](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [installation](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[s and equipment in the field of technical requirements for inland navigation vessels.](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
+
+[Register of type-approved equipment, competent authorities for issuing type approvals, approved technical services and approved specialist](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [firm](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[s](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
 [listes.cesni.eu](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
-L'installation correcte effectuée par une société spécialisée agréée comprend :
+Correct installation carried out by an approved specialized firm includes:
 
-* l'installation et la configuration de l'appareil AIS Intérieur,
-* la vérification de son bon fonctionnement,
-* la documentation de tous les paramètres,
-* la formation des membres de l'équipage,
-* un manuel d'utilisation \(de préférence dans la langue maternelle du conducteur\) remis au conducteur et à conserver à bord.
-* La fourniture du certificat d'installation à conserver à bord.
+* installing and configuring the Inland AIS device
+* testing its proper operation
+* documenting all the settings
+* training the crew members
+* provision of an user instructions \(preferably in the boatmaster's mother tongue\) must be handed over for retention on board.
+* provision of the certificate of installation to be kept on board.
 
-Pour l'installation d'appareils AIS à bord de bateaux non soumis à l'obligation d'être équipés d'un appareil AIS Intérieur, il convient de tenir compte du fait que :
+Installations of AIS devices on vessels that are **not** obliged to have an Inland AIS device shall consider that:
 
-* l'appareil AIS Intérieur doit être installé uniquement par une société spécialisée agréée ;
-* un appareil AIS de classe A doit également être installé uniquement par une société spécialisée agréée ;
-* il est recommandé que les appareils AIS de classe B soient installés par une société spécialisée agréée.
+* Inland AIS device should be installed only by an approved specialized firm;
+* AIS class A device should also be installed only by an approved specialized firm;
+* AIS class B device is recommended to be installed by an approved specialized firm.
 
-[Quand est-il obligatoire d'installer un équipement AIS Intérieur ?](https://ris.gitbook.io/ebrochure-iais/when-is-it-compulsory-to-install-inland-ais-equipment)
+[When is it compulsory to install Inland AIS equipment?](https://ris.gitbook.io/ebrochure-iais/when-is-it-compulsory-to-install-inland-ais-equipment)
 
-[/quand-est-il-obligatoire-d'installer-un-équipement-AIS-Intérieur](https://ris.gitbook.io/ebrochure-iais/when-is-it-compulsory-to-install-inland-ais-equipment)
+[/when-is-it-compulsory-to-install-inland-ais-](https://ris.gitbook.io/ebrochure-iais/when-is-it-compulsory-to-install-inland-ais-equipment)[equipmen](https://ris.gitbook.io/ebrochure-iais/when-is-it-compulsory-to-install-inland-ais-equipment)[t](https://ris.gitbook.io/ebrochure-iais/when-is-it-compulsory-to-install-inland-ais-equipment)
 
-### Installation à bord des bateaux transportant des marchandises dangereuses
+### Installation on board vessels carrying dangerous goods
 
-L’Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures \(ADN\) est entré en vigueur le 29 février 2008. Les prescriptions techniques applicables au transport de marchandises dangereuses contiennent des dispositions relatives à l'installation d'un appareil AIS Intérieur à bord des bateaux.
+The European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways \(ADN\) entered into force on 29 February 2008. The technical requirements applicable to the carriage of dangerous goods contains provisions for the installation of Inland AIS device on-boards vessels:
 
-Pour les bateaux-citernes s'appliquent des prescriptions distinctes relatives à la position de l'antenne de l'appareil AIS Intérieur. Aucune partie d’une antenne pour un appareil électronique ne doit être située au-dessus de la zone de cargaison et aucune partie d’une antenne VHF pour un appareil AIS Intérieur ne doit être située à moins de 2 mètres de la zone de cargaison.
+For **tank vessels**, there are different requirements for the position of the Inland AIS antenna. No part of an antenna for an electronic device must be situated above the cargo area and no part of a VHF antenna for an Inland AIS device can be within 2 meters of the cargo area.
 
-### Installation d'un appareil AIS Intérieur d'occasion
+### Installation of a second-hand Inland AIS device
 
-Les appareils AIS Intérieur d’occasion doivent également être installés par une société spécialisée agréée par une autorité compétente. Cela permet de garantir que toutes les données pertinentes sont correctement mises à jour.
+A specialised firm approved by a competent authority can also install second-hand Inland AIS devices. This ensures that all the relevant data are correctly updated.
 
-Le numéro MMSI de l'appareil AIS Intérieur est rattaché au bateau. L'installation d'un appareil AIS Intérieur d'occasion nécessite un nouveau numéro MMSI. Les autorités compétentes attribuent un nouveau numéro MMSI lorsque l'appareil AIS Intérieur est installé à bord d'un autre bateau.
+The Inland AIS device’s MMSI number is linked to the vessel. To install a second-hand Inland AIS device a new MMSI number is required. The competent authorities assign a new MMSI number when the Inland AIS device is installed in another vessel.
 
-### Essai de l'appareil AIS Intérieur
+### Testing the Inland AIS device
 
-L'installation correcte de l'appareil AIS est confirmée par un essai final. Cet essai est effectué par les sociétés spécialisées agréées.
+The correct installation of the AIS device is ensured by the final test. The approved specialized firms shall conduct this test.
 
-### Agrément de type de l'appareil AIS Intérieur
+### Type approval of Inland AIS device
 
-L'appareil AIS Intérieur doit être conforme aux exigences du Standard d'essai pour l'AIS Intérieur. La conformité est certifiée par la vérification de l'agrément de type par une autorité compétente.
+Inland AIS device must comply with the requirements of the Test Standard for Inland AIS, Compliance is certified by an examination of type approval by a competent authority.
 
-Liste des appareils AIS Intérieur possédant un agrément de type :
+A list of type approved Inland AIS device :
 
-[Listes des autorités, sociétés, installations et équipements agréés conformément aux prescriptions techniques applicables aux bateaux de navigation intérieure](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
+[Lists of approved authorities, firms,](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [installation](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[s and equipment in the field of technical requirements for inland navigation vessels.](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
-[Listes des équipements possédant l'agrément de type, des autorités compétentes pour la délivrance des agréments de type, des services techniques agréés et des sociétés spécialisées agréées](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
+[Register of type-approved equipment, competent authorities for issuing type approvals, approved technical services and approved specialist](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank) [firm](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)[s](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
 [listes.cesni.eu](https://listes.cesni.eu/5000-en.html%22%20/t%20%22_blank)
 
-Quel est le standard d'essai actuel pour l'appareil AIS Intérieur ?
+What is the current Test Standard for Inland AIS device?
 
-Le « Standard d'essai AIS Intérieur 2017/2.0 » est applicable jusqu'au 31 décembre 2021.
+Until the 31st of December 2021, the ‘Test Standard Inland AIS 2017/ 2.0’: shall be used.
 
-&lt; LIEN vers Standard d'essai AIS - CESNI - Comité ..."\(EN = AIS Test 2017 ...&gt;
+[AIS Test 2017 - CESNI - Comité Européen pour l’Élaboration de Standards dans le domaine de la Navigation Intérieure](https://www.cesni.eu/documents/ais-2017/)
 
-À compter du 1er janvier 2022 \(date prévue de l'entrée en vigueur de l'ES-TRIN 2021/1\), le « Standard d'essai pour l'AIS intérieur 2021/édition 3.0 » sera applicable.
+[Edition 2017/2.0](https://www.cesni.eu/documents/ais-2017/)
 
-### Dispositions transitoires applicables aux bateaux en service.
+[www.cesni.eu](https://www.cesni.eu/documents/ais-2017/)
 
-Les bateaux en service qui sont soumis à l'obligation d'équipement doivent être équipés d'appareils AIS Intérieur possédant un agrément de type. Les règles suivantes s'appliquent en ce qui concerne l'édition du Standard d'essai AIS à satisfaire :
+After the 1st of January 2022 \(planned date of the entry into force of the ES-TRIN 2021/1\), the ‘Test Standard for Inland AIS 2021/Ed 3.0’ shall be used.
 
-* Les appareils AIS Intérieur qui ont été certifiés avant le 19 octobre 2012 doivent être conformes aux exigences du Standard d’essai édition 1.0 ou 1.01 de la CCNR et les appareils qui ont été certifiés après cette date doivent être conformes aux exigences du Standard d’essai édition 2.0. de la CCNR. Les appareils AIS Intérieur certifiés conformément à l'édition 1.0 ou 1.01 portent un numéro d'agrément de type attribué par la Commission centrale pour la navigation du Rhin \(CCNR\) selon le format suivant : R-4-2XX \(X représente un chiffre\)
-* Il était possible d'installer un équipement AIS Intérieur avec un agrément de type conforme à l'édition 1.0 et 1.01 jusqu'au 30 novembre 2015. Ces appareils peuvent être utilisés après cette date. Depuis le 1er décembre 2015, seuls les appareils AIS Intérieur possédant un agrément de type conforme aux exigences du standard d'essai AIS Intérieur 2017/édition 2.0 peuvent être installés. Les appareils AIS Intérieur possédant un **agrément de type** conformément à l'édition 2.0 portent un numéro d'agrément de type attribué par la Commission centrale pour la navigation du Rhin \(CCNR\) selon le format suivant : R-4-3XX \(X représente un chiffre\).
-* Il est prévu que, à compter du 1er janvier 2024, seuls les appareils AIS Intérieur possédant un agrément de type conforme à l'édition 3.0 du Standard d'essai AIS Intérieur pourront être installés. Les appareils déjà installés pourront être utilisés après cette date. En effet, à compter du 1er janvier 2022 \(date prévue de l'entrée en vigueur de l'ES-TRIN 2021/1\), le « Standard d'essai pour l'AIS Intérieur 2021/édition 3.0 » sera applicable.
+### Transitional provisions for vessels navigating
 
-## Qu'implique l'obligation d'utiliser l'appareil AIS Intérieur ?
+Vessels navigating and falling under the carriage requirement shall be equipped with Inland AIS devices having a type-approval. Following rules apply regarding the edition of the Test standard inland AIS to comply with
 
-### Principe : l'appareil AIS Intérieur doit être allumé en permanence
+* Inland AIS devices certified prior to 19 October 2012 must comply with the requirements of the CCNR’s Test Standard Edition 1.0 or 1.01 and devices certified after this date must comply with the requirements of the CCNR’s Test Standard Edition 2.0. Type approved Inland AIS devices according to Ed 1.0 or 1.01 are labelled with a **type approval** number assigned by the Central Commission for the Navigation of the Rhine \(CCNR\) in the following format: R-4-2XX \(X represents a digit\)
+* It was allowed to install Inland AIS equipment with a type approval in line with Edition 1.0 and 1.01 until 30 November 2015. They may be used after this date. With effect from 1 December 2015, only Inland AIS devices with a type-approval complying with the requirements of Test standard inland AIS 2017/Ed 2.0 of the Test Standard may be installed. Type approved Inland AIS devices according to Ed 2.0 are labelled with a **type approval** number assigned by the Central Commission for the Navigation of the Rhine \(CCNR\) in the following format: R-4-3XX \(X represents a digit\)
+* It is expected with effect from 1 January 2024, that only Inland AIS devices with a type-approval in line with Edition 3.0 of the Test Standard Inland AIS may be installed. The already installed devices may be used after this date. Indeed, after the 1st of January 2022 \(planned date of the entry into force of the ES-TRIN 2021/1\), the ‘Test Standard for Inland AIS 2021/Ed 3.0 shall be used.
 
-Conformément à l'article 4.07, chiffre 2, du Règlement de police pour la navigation du Rhin, l'appareil AIS Intérieur doit être en fonctionnement en permanence, sauf si s'appliquent des dérogations.
+## QR17 What is mandatory using of the Inland AIS device?
 
-Il est recommandé que les appareils AIS Intérieur installés à bord de bateaux non soumis à l'obligation d'équipement soient allumés en permanence.
+### Principle: Inland AIS device must be permanently switched on
 
-### Dérogations
+Within the scope of the [Rhine Police Regulation,](https://ccr-zkr.org/13020500-en.html#01) article 4.07 paragraph 2, the Inland AIS device must be permanently in operation except for the derogations.
 
-L’obligation de maintenir l’appareil AIS Intérieur allumé en permanence ne s’applique pas :
+All vessels carrying an Inland AIS device with no carriage requirement are recommended to keep it switched on permanently.
 
-* aux bateaux et convois dans les ports de stationnement nocturne de Haaften, IJzendoorn et Lobith \(la CCNR recommande toutefois de laisser l'appareil AIS Intérieur allumé\) ;
-* si l’autorité compétente a accordé une dérogation pour les plans d’eau séparés du chenal navigable par une infrastructure ;
-* aux bateaux de police, si la transmission de données AIS est susceptible de compromettre la réalisation de tâches de police.
+### Derogations
 
-## Comment saisir les paramètres d'un convoi dans l'appareil AIS Intérieur ?
+The obligation to keep the Inland AIS device switched on at all times does not apply:
 
-**Convois**
+* to vessels and convoys in the overnight mooring ports of Haaften, IJzendoorn and Lobith \(although the CCNR recommends keeping the Inland AIS device switched on\)
+* if the competent authority has granted a local derogation for the bodies of water separated from the navigable channel by infrastructure;
+* to police vessels, if the transmission of AIS data is likely to compromise policing tasks
 
-### Convois poussés et formations à couple
+## QR18 How to set a convoy or a towed convoy in the Inland AIS device ?
 
-Le bateau assurant la propulsion principale doit être équipé d'un appareil AIS Intérieur en état de marche et les données du convoi doivent être correctement saisies. Les appareils AIS Intérieur à bord des autres bateaux du convoi doivent être éteints.
+### Convoys
 
-**Informations importantes pour le conducteur**
+#### QR18-1 Pushed convoys and side-by-side formations
 
-Lorsque la composition du convoi change, les données qui sont transmises par l'appareil AIS Intérieur \(par exemple le type de bateau, les dimensions\) doivent être modifiées manuellement.
+The vessel providing the main propulsion must have its Inland AIS device working and have the convoy data correctly entered. The other vessels belonging to the convoy must switch off their onboard Inland AIS devices.
 
-Les types de bâtiments sont les suivants :
+**Important information for the boatmaster**
 
-| **Type de bâtiment \(code\)** | **Désignation du bâtiment** |
-| :--- | :--- |
-| 8000 | Bateau, type inconnu |
-| 8010 | Vraquier à moteur |
-| 8020 | Bateau-citerne à moteur |
-| 8021 | Bateau-citerne à moteur, marchandises liquides, type N |
-| 8022 | Bateau-citerne à moteur, marchandises liquides, type C |
-| 8023 | Bateau-citerne pour transport de vrac sec comme s'il était liquide \(par exemple, ciment\) |
-| 8030 | Porte-conteneurs |
-| 8040 | Bateau-citerne pour gaz liquéfiés |
-| 8050 | Vraquier motorisé, remorqueur |
-| 8060 | Bateau-citerne motorisé, remorqueur |
-| 8070 | Vraquier à moteur avec un ou plusieurs bateaux à couple |
-| 8080 | Vraquier à moteur avec bateau-citerne |
-| 8090 | Vraquier à moteur poussant un ou plusieurs vraquiers |
-| 8100 | Vraquier à moteur poussant au moins un bateau-citerne |
-| 8150 | Chaland vraquier |
-| 8160 | Chaland-citerne |
-| 8161 | Chaland-citerne, marchandises liquides, type N |
-| 8162 | Chaland-citerne, marchandises liquides, type C |
-| 8163 | Chaland-citerne conçu pour le transport de vrac sec comme s'il était liquide \(par exemple, ciment\) |
-| 8170 | Chaland vraquier transportant des conteneurs |
-| 8180 | Chaland-citerne, gaz |
-| 8440 | Bateau de passagers, ferry, bateau de la Croix-Rouge, bateau de croisière |
-| 8441 | Ferry |
-| 8442 | Bateau de la Croix-Rouge |
-| 8443 | Bateau de croisière |
-| 8444 | Bateau pour le transport de passagers sans cabine ni restaurant |
-| 8445 | Bateau d'excursions journalières à grande vitesse |
-| 8446 | Hydroglisseur d'excursions journalières |
-| 8447 | Voilier de croisière |
-| 8448 | Voilier pour le transport de passagers sans cabine ni restaurant |
-| 8450 | Bateau de service, patrouilleur de police, service portuaire |
-| 8451 | Bateau de service |
-| 8452 | Patrouilleur de police |
-| 8453 | Bateau de service portuaire |
-| 8454 | Bateau de surveillance de la navigation |
-| 8460 | Bateau, bateau atelier, ponton bigue, câblier, bateau pour le mouillage des bouées, drague |
-| 8470 | Objet, remorqué, non spécifié ailleurs |
-| 8480 | Bateau de pêche |
-| 8490 | Bateau de soutage |
-| 8500 | Chaland, bateau-citerne, produits chimiques |
-| 8510 | Objet, non spécifié ailleurs |
-| 1500 | Transporteur maritime de marchandises générales |
-| 1510 | Porte-conteneurs maritime |
-| 1520 | Vraquier maritime |
-| 1530 | Bateau-citerne |
-| 1540 | Bateau-citerne pour gaz liquéfiés |
-| 1850 | Bateau de plaisance de plus de 20 mètres |
-| 1900 | Bateau rapide |
-| 1910 | Hydroglisseur |
-| 1920 | Catamaran rapide |
+When the composition of the convoy changes, the data that is transmitted by Inland AIS device \(e.g. vessel type, dimensions\) must be changed manually.
 
-### Convois remorqués
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Codes for means of transport</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">8010</td>
+      <td style="text-align:left">
+        <p>Motor freighter</p>
+        <p>Motorised vessel designed for carrying general cargo pushing at least
+          one vessel designed for carrying liquid cargo</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8070</td>
+      <td style="text-align:left">
+        <p>Motor freighter with one or more ships alongside</p>
+        <p>Motorised vessel designed for carrying general cargo with one or more
+          vessels alongside</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8080</td>
+      <td style="text-align:left">
+        <p>Motor freighter with tanker</p>
+        <p>Motorised vessel designed for carrying general cargo with a vessel designed
+          for carrying liquid cargo alongside</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8090</td>
+      <td style="text-align:left">
+        <p>Motor freighter pushing one or more freighters</p>
+        <p>Motorised vessel designed for carrying general cargo pushing one or more
+          vessels also designed for carrying general cargo</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8210</td>
+      <td style="text-align:left">
+        <p>Pushtow, one cargo barge</p>
+        <p>Vessel designed for pushing/towing, facilitating the movement of one cargo
+          barge</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8220</td>
+      <td style="text-align:left">
+        <p>Pushtow, two cargo barges</p>
+        <p>Vessel designed for pushing/towing, facilitating the movement of two cargo
+          barges</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8230</td>
+      <td style="text-align:left">
+        <p>Pushtow, three cargo barges</p>
+        <p>Vessel designed for pushing/towing, facilitating the movement of three
+          cargo barges</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8240</td>
+      <td style="text-align:left">
+        <p>Pushtow, four cargo barges</p>
+        <p>Vessel designed for pushing/towing, facilitating the movement of four
+          cargo barges</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8250</td>
+      <td style="text-align:left">
+        <p>Pushtow, five cargo barges</p>
+        <p>Vessel designed for pushing/towing, facilitating the movement of five
+          cargo barges</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8260</td>
+      <td style="text-align:left">
+        <p>Pushtow, six cargo barges</p>
+        <p>Vessel designed for pushing/towing, facilitating the movement of six cargo
+          barges</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
-Contrairement aux convois poussés et aux formations à couple, tous les bateaux d'un convoi remorqué doivent avoir leur appareil AIS Intérieur en fonctionnement. Les dimensions qui doivent être saisies sont celles du bateau à bord duquel est installé l'appareil AIS Intérieur, ainsi le remorqueur et chacun des bateaux remorqués saisissent leurs propres dimensions.
+The complete list of codes for types of means is available in the APPENDICE C of the VTT Standard :
 
-Les types de convois sont les suivants :
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0838&from=EN\#d1e32-67-1
 
-| **Type de bâtiment \(code\)** | **Désignation du bâtiment** |
-| :--- | :--- |
-| 8110 | Remorqueur, vraquier |
-| 8120 | Remorqueur, bateau-citerne |
-| 8130 | Remorqueur, vraquier, couplé |
-| 8140 | Remorqueur, vraquier/bateau-citerne, couplé |
-| 8210 | Pousseur, un chaland de marchandises |
-| 8220 | Pousseur, deux chalands de marchandises |
-| 8230 | Pousseur, trois chalands de marchandises |
-| 8240 | Pousseur, quatre chalands de marchandises |
-| 8250 | Pousseur, cinq chalands de marchandises |
-| 8260 | Pousseur, six chalands de marchandises |
-| 8270 | Pousseur, sept chalands de marchandises |
-| 8280 | Pousseur, huit chalands de marchandises |
-| 8290 | Pousseur, neuf ou plus chalands de marchandises |
-| 8310 | Pousseur, un chaland-citerne ou de transport de gaz |
-| 8320 | Pousseur, deux chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8330 | Pousseur, trois chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8340 | Pousseur, quatre chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8350 | Pousseur, cinq chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8360 | Pousseur, six chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8370 | Pousseur, sept chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8380 | Pousseur, huit chalands dont au moins un chaland-citerne ou de transport de gaz |
-| 8390 | Pousseur, neuf chalands ou plus dont au moins un chaland-citerne ou de transport de gaz |
-| 8400 | Remorqueur, seul |
-| 8410 | Remorqueur, pour un ou plusieurs remorquages |
-| 8420 | Remorqueur, assistant un bateau ou une combinaison liée |
-| 8430 | Pousseur, seul |
+Codes for Types of Means of Transport
 
-## Quels sont les statuts navigationnels disponibles sur un appareil AIS Intérieur ?
+#### QR18-2 Towed convoys
 
-Conformément à l'article 4.07, chiffre 2, du Règlement de police pour la navigation du Rhin, le statut navigationnel - qui fait partie des données obligatoires - doit toujours être à jour.
+In contrast to pushed convoys and side-by- side combinations, all vessels in a tug must have their Inland AIS device in operation. The dimensions that have to be entered into the Inland AIS device are those for the specific vessel, thus the tug-boat enters its own dimensions, which is also the case for every vessel towed separately.
 
-Le statut navigationnel saisi dans l'appareil AIS Intérieur doit toujours correspondre au statut navigationnel actuel du bateau. Les statuts navigationnels fréquemment utilisés sont « en route au moteur \(n° 0 », « amarré \(n° 5 » et « à l'ancre \(n+ 1\) ». Les statuts navigationnels « manœuvrabilité restreinte » et « restreint par l'enfoncement » sont utilisés lorsque se présentent ces situations de navigation spécifiques. D'autres statuts navigationnels ne sont pas utilisés par la navigation intérieure mais sont couramment utilisés par la navigation maritime.
+The most common vessel types for tugs are the following:
 
-Le statut navigationnel est transmis aux autres bateaux mais a également un impact sur l'intervalle de compte rendu de votre propre appareil AIS. C'est pourquoi le statut navigationnel doit être maintenu à jour en permanence.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Codes for means of transport</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">8400</td>
+      <td style="text-align:left">
+        <p><b>Tug, single :</b>
+        </p>
+        <p>Vessel that is designed to operate as a tow boat and navigating alone
+          (not in a convoy)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8410</td>
+      <td style="text-align:left">
+        <p><b>Tug, one or more tows</b>
+        </p>
+        <p>Vessel that is designed to operate as a tow boat, that is involved in
+          one or more tows (regardless of the number of towed vessels/barges)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8420</td>
+      <td style="text-align:left"><b>Tug, assisting a vessel or linked combination</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8470</td>
+      <td style="text-align:left">
+        <p><b>Object, towed, not otherwise specified</b>
+        </p>
+        <p>A vessel in a tow</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Avec le statut navigationnel réglé sur « amarré \(n° 5\) » et « à l'ancre \(n° 1\) », l'intervalle de transmission est de 3 minutes, mais avec le statut navigationnel réglé sur « en route au moteur \(n° 0\) », il est de 10 secondes.
+## QR19 What are all navigational statuses available on an Inland AIS device?
+
+The navigation status - as part of mandatory data element - must always be up to date, according to article 4.07 \(2\) of the Rhine Police Regulations.
+
+The navigational status set in the Inland AIS device shall represent the current status of a navigation of a vessel. Frequently used navigational status are “under way using engine \(no. 0\)”, “moored \(no. 5\)” or “at anchor \(no.1\)”. The navigation statuses “restricted manoeuvrability” and “constrained by draught” are used when those specific navigation situations are met. Other navigational statuses are not used in inland navigation but are commonly known in maritime navigation.
+
+The navigational status is sent to other vessels but has also influence on the reporting interval of your own AIS device. That’s why the navigational status needs to be kept up to date all the time.
+
+The transmission interval with navigational status set to “moored \(no. 5\)” and “at anchor \(no. 1\)” is 3 minutes but with navigational status set to “under way using engine \(no.0\)” it is 10 seconds.
 
 | Code | Description |
 | :--- | :--- |
-| 0 | en route au moteur |
-| 1 | à l'ancre |
-| 2 | non maître de sa manœuvre |
-| 3 | manœuvrabilité restreinte |
-| 4 | restreint par son enfoncement |
-| 5 | amarré |
-| 6 | échoué |
-| 7 | activité de pêche |
-| 8 | navigation à voile |
-| 9 | réservé pour un usage ultérieur |
-| 10 | réservé pour un usage ultérieur |
-| 11 | réservé pour un usage ultérieur |
-| 12 | réservé pour un usage ultérieur |
-| 13 | réservé pour un usage ultérieur |
-| 14 | AIS-SART \(actif\) |
-| 15 | non défini, \(également utilisé par AIS SART à l'essai\) |
+| 0 | under way using engine |
+| 1 | at anchor |
+| 2 | not under command |
+| 3 | restricted manoeuvrability |
+| 4 | constrained by her draught |
+| 5 | moored |
+| 6 | aground |
+| 7 | engaged in fishing |
+| 8 | under way sailing |
+| 9 | reserved for future uses |
+| 10 | reserved for future uses |
+| 11 | reserved for future uses |
+| 12 | reserved for future uses |
+| 13 | reserved for future uses |
+| 14 | AIS-SART \(active\) |
+| 15 | Not defined \(also used by AIS SART under test\) |
 
-### Le statut navigationnel peut-il être réglé automatiquement dans l'appareil AIS Intérieur ?
+### QR19-1 Can the navigational status be automatically set on the Inland AIS device?
 
-Maintenir à jour l’information relative au statut navigationnel est un peu fastidieux. C'est pourquoi certains appareils ECDIS Intérieur proposent le réglage du statut navigationnel par le biais d'un message spécial qui s'affiche sur l'écran ECDIS Intérieur lorsque le statut navigationnel doit être modifié, ainsi qu'un réglage automatique le cas échéant. Le conducteur doit néanmoins vérifier le réglage proposé du statut navigationnel, car un statut navigationnel « amarré » n'a pas le même impact que le statut « en route au moteur ».
+Keeping the navigational status always up to date is a kind of cumbersome. That’s why some Inland ECDIS devices support the setting of the navigational status by a special reminder which appears on the Inland ECDIS screen when the navigational status needs to be changed potentially with an automatic setting as well. However, the boatmaster needs to check the proposed setting of the navigational status anyway, a navigational status “moored” instead of “under way using engine” makes a difference eventually.
 
-Il incombe au conducteur de s'assurer que l'appareil AIS Intérieur transmet le statut navigationnel actuel.
+The responsibility of the boatmaster is to ensure that the Inland AIS device transmits up to date navigational status.
 
-## Comment dois-je paramétrer le point d’acquisition de l'information relative à la position à bord du bateau ?
+## QR20 How do I set the Reference point for the positional information aboard the vessel?
 
-La surface occupée par le bateau est fournie en référence à l'antenne GPS de l'appareil AIS Intérieur qui, à bord du bateau, constitue le point d’acquisition de l'information relative à la position du bateau. Les valeurs A, B, C et D correspondent à la distance entre l'antenne GPS et la proue \(A\), la poupe \(B\), le côté bâbord \(C\) et le côté tribord \(D\) du bateau.
+The area occupied by the vessel is provided with reference to the Inland AIS device’s GPS antenna, which is the point for the positional information aboard the vessel. The values A, B, C and D provides the distance from the GPS antenna to the bow \(A\), the stern \(B\), the port side \(C\) and the starboard side \(D\) of the vessel.
 
-**A\) Saisie des valeurs A, B, C et D lors de l'installation**
+**A\) Input of Values A, B, C and D during installation**
 
-Les valeurs A, B, C et D sont saisies avec une précision de 1 m lors de l'installation de l'appareil AIS Intérieur par la société spécialisée agréée. La longueur et la largeur hors tout du bateau sont saisies avec une précision de 0,1 m.
+The values A, B, C and D are entered with an accuracy of 1 m during the installation of the Inland AIS device by the approved specialised firm. The overall length and beam of the vessel is input with an accuracy of 0.1 m.
 
-Si le bateau n'est pas un convoi, ces valeurs ne changent pas. Le conducteur n'a plus à intervenir.
+In cases where the vessel is not a convoy those values do not change. No further action by the boatmaster is required.
 
-![Graphical user interface, text, application
-
-Description automatically generated](../.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1%20%282%29.png)
 
 Figure A
 
-Figure A\) : la position de l'antenne GPS à bord du bateau est saisie lors de l'installation \(les valeurs A, B, D, C se réfèrent à l'antenne GPS par rapport au contour du bateau\).
+Figure A\): The position of the GPS antenna on the vessel is input during installation \(values A, B, D, C refers from the GPS antenna to the outline of the vessel\)
 
-**B\) Saisie des valeurs A, B, C et D pour un convoi**
+**B\) Input of Values A, B, C and D in case of a convoy**
 
-Pour un convoi, les valeurs A, B, C et D doivent être modifiées lorsque la composition du convoi est modifiée. Les valeurs A, B, C et D correspondent toujours à la surface totale occupée par le convoi, qui comprend le pousseur et toutes les barges du convoi.
+In case of a convoy the values A, B, C and D needs to be changed when the setting of the convoy is changed. The A, B, C and D value always represents the overall area occupied by the vessel which includes the pusher and all connected barges.
 
-Lorsque les contours du convoi sont modifiés, le conducteur doit modifier en conséquence les valeurs A, B, C, et D dans l'appareil AIS Intérieur.
+The boatmaster needs to amend the A, B, C, D values accordingly in the Inland AIS device when the outline of the convoy is changed.
 
-En fonction de l'âge de l'appareil AIS Intérieur, il existe deux procédures différentes pour modifier ces valeurs.
+There are two different procedures to change those values depending on the age of the Inland AIS device.
 
-**B1\) Saisie des valeurs A, B, C et D dans les appareils AIS Intérieur installés avant le 1er décembre 2015**
+**B1\) Input of Values A, B, C and D in Inland AIS devices installed before december 1st 2015**
 
-Pour les appareils AIS Intérieur qui ont été installés avant le 1er décembre 2015 \(numéro d'agrément de type R-4-200 à R-4-222\), le conducteur doit modifier les valeurs A, B, C et D en fonction du contour du convoi, avec une précision de 1 m.
+For Inland AIS devices which are installed before December 1st 2015 \(type approval number R-4-200 to R-4-222\) the boatmaster needs to change the A, B, C, D values according the outline of the convoy with an accuracy of 1 m. The overall length and beam need to be input with the accuracy of 0,1 m.
 
-Cette tâche étant un peu fastidieuse, certains appareils ECDIS Intérieur proposent un menu de configuration spécial qui facilite la saisie de ces données.
+Admittedly this is a kind of cumbersome for which reason some Inland ECDIS devices offer a special configuration menu to support the input of those data.
 
-![Chart
+![](../.gitbook/assets/2%20%281%29.png)
 
-Description automatically generated with low confidence](../.gitbook/assets/2.png)
+Figure B1:
 
-**Figure B1**
+Figure B1 : The A, B, C, D value representing the position of the GPS antenna on the convoy needs to be amended by the boatmaster whenever the setting of the convoy is changed to reflect the overall contour of the convoy \(values A, B, D, C refers from the GPS antenna to the outline of the vessel\).
 
-Figure B1 : les valeurs A, B, C et D représentant la position de l'antenne GPS sur le convoi doivent être modifiées par le conducteur à chaque fois que la composition du convoi est modifiée, afin de correspondre aux dimensions hors-tout du convoi \(les valeurs A, B, C et D correspondent au contour du bateau à partir de l'antenne GPS\).
+This applies to Inland AIS devices which are installed before December 1st 2015 \(type approval number R-4-200 to R-4-222\).
 
-Ceci s'applique pour les appareils AIS Intérieur qui ont été installés avant le 1er décembre 2015 \(numéros d'agrément de type de R-4-200 à R-4-222\).
+**B1\) Input of Values A, B, C and D in Inland AIS device installed after December 1st 2015**
 
-**B1\) Saisie des valeurs A, B, C et D dans les appareils AIS Intérieur installés après le 1er décembre 2015**
+All Inland AIS devices which are installed after December 1st 2015 \(type approval number R-4-300 to R-4-3xx\) the boatmaster does not needs to change the A, B, C, D values directly according the change of the outline of the convoy. Instead, the values for the extension to the push tow caused by the barges shall be input.
 
-Pour tous les appareils AIS Intérieur installés après le 1er décembre 2015 \(numéros d'agrément de type de R-4-300 à R-4-3xx\), le conducteur n'a pas besoin de modifier les valeurs A, B, C et D lorsque les contours du convoi ont changé. À la place, il doit saisir les valeurs correspondant à l'allongement résultant du remorquage de barges.
+These values in metre with an accuracy of 0.1m are:
 
-Ces valeurs en mètres, avec une précision de 0,1 m, sont :
+* EA: the extension in front of the of the push tow or tug,
+* EB: the extension at the rear,
+* EC: The Extension at the starboard side \(EC\),
+* ED: The extension at the port side.
 
-* EA : L'extension à l'avant du pousseur ou remorqueur
-* EB : L'extension à l'arrière,
-* EC : L'extension à bâbord,ED : L'extension à tribord.
+The overall length and beam are calculated automatically accordingly and transmitted by the Inland AIS device.
 
-La longueur et la largeur hors-tout sont calculées automatiquement sur cette base et transmises par l'appareil AIS Intérieur.
+![A picture containing diagram
 
-![Diagram
-
-Description automatically generated with low confidence](../.gitbook/assets/3.png)
+Description automatically generated](../.gitbook/assets/3%20%281%29.png)
 
 Figure B2
 
-Là encore, certains appareils ECDIS Intérieur proposent un menu de configuration spécial pour faciliter la saisie de ces données.
+Here as well some Inland ECDIS devices offer a special configuration menu to support the input of those data.
 
-Ces valeurs doivent être saisies par le conducteur à chaque modification du convoi. Cela s'applique aux appareils AIS Intérieur qui ont été installés après le 1er décembre 2015 \(numéros d'agrément de type de R-4-300 à R-4-3xx\).
+Those values must be input by the boatmaster whenever the convoy is changed. This applies to Inland AIS device which are installed after December 1st 2015 \(type approval number R-4-300 to R-4-3xx\).
 
-## Qu'est-ce qu'un système de visualisation de cartes électroniques ?
+## QR21 What is an electronic chart display system??
 
-Conformément à la résolution 2014-I-12 de la CCNR, l'expression « système de visualisation des cartes électroniques » désigne :
+As defined in the CCNR resolution 2014-I-12, the expression “electronic chart display system” it is referring either to:
 
-- soit un appareil ECDIS Intérieur en mode information,
+- an Inland ECDIS device in information mode
 
- - soit un appareil comparable pour la visualisation de cartes électroniques.
+ - or a comparable device for displaying electronic charts.
 
-Ces systèmes comprennent notamment un logiciel qui est une application qui permet de visualiser
+These systems include in particular software that is an application that shows
 
-* des cartes électroniques
+*  electronic charts
 
-Lorsque le système est connecté à un appareil AIS, le logiciel affiche également :
+When the system is connected to an AIS device, additionally, the software indicates:
 
-* la position du propre bateau sur la carte,
-* la position et les mouvements d'autres bateaux,
-* des informations concernant d'autres bateaux,
-* des messages d'alerte de l'AIS \(uniquement pour l'ECDIS Intérieur en mode information\).
+* on the chart vessel’s own position
+* position and movement of other vessels
+* information about other vessels
+* alarm messages from AIS \(only for Inland ECDIS in information mode\)
 
-Ces systèmes peuvent aussi afficher des informations supplémentaires. Afin de pouvoir utiliser pleinement le système ECDIS Intérieur en mode information ou un appareil comparable pour la visualisation de cartes électroniques, celui-ci doit satisfaire à des exigences minimales. Ces exigences minimales devant être observées ont été fixées afin de garantir le bon fonctionnement de l’appareil ECDIS Intérieur en mode information ou de l'appareil comparable pour la visualisation de cartes électroniques. Des recommandations ont été formulées en complément. Pour le Rhin, les exigences minimales sont définies conformément à la résolution 2014-I-12.
+These systems may show additional other information. To make full use of the Inland ECDIS in information mode or a comparable device for displaying electronic charts it has to fulfil minimum requirements. Minimum requirements to be complied with have been defined so as to ensure correct operation of the Inland ECDIS device in information mode or a comparable electronic chart display device. Recommendations have been drawn up by way of addition. On the Rhine, the minimum requirements are defined according to the Resolution 2014-I-12.
 
-https://ccr-zkr.org/files/documents/ris/prot2014I12fr\_Annexe2.pdf
+https://ccr-zkr.org/files/documents/ris/prot2014I12en\_Annexe2.pdf
 
-Lorsqu'il est connecté à un radar, le système ECDIS Intérieur est en mode navigation et peut être utilisé à des fins de navigation. Par conséquent, le système ECDIS Intérieur en mode navigation doit satisfaire à des exigences plus strictes.
+When connected to a radar, Inland ECDIS is in navigation mode and may be used for navigation purpose. Therefore, Inland ECDIS in navigation mode has to fulfil higher requirements.
 
-## Quelle est l’utilité d’un système de visualisation des cartes électroniques à bord de mon bateau ?
+## QR22 Why is it useful to have an electronic chart display system on board of my vessel?
 
-Les systèmes de visualisation de cartes électroniques sont la combinaison de matériel et d'un logiciel permettant de visualiser des cartes électroniques de navigation intérieure.Ils sont conçus pour améliorer la sécurité et l'efficacité de la navigation intérieure et contribuent ainsi à la protection de l'environnement.
+Electronic chart display systems are the combination of hardware and software to display electronic inland navigation charts
 
-L'appareil AIS Intérieur permet de transmettre des informations de bateau à bateau ainsi que d'un bateau à la terre et inversement. Grâce aux stations AIS répétitrices installées à terre, même les informations provenant de bateaux hors de vue peuvent être reçues, en particulier dans les secteurs montagneux.
+Electronic chart display systems are a system for the display of electronic charts for inland navigation. Its purpose is to contribute to the safety and efficiency of inland navigation and thus also to the protection of the environment.
 
-Seul un système de visualisation de cartes électroniques doté d'un écran suffisamment grand pour afficher tous les détails pertinents permet d'exploiter pleinement le potentiel de l'appareil AIS Intérieur.
+Inland AIS device enables the communication of information from vessel to vessel as well as from vessel to shore and vice versa. With the help of shore based AIS repeater stations, even information from vessels out-of-sight can be received, especially in mountainous sections.
 
-En outre, l'appareil ECDIS Intérieur en mode information peut proposer des fonctionnalités supplémentaires permettant d'afficher les alertes des appareils connectés, tels que l'AIS Intérieur.
+Only a dedicated electronic chart display system with a screen, large enough to show all relevant details, makes full use of the potential given by Inland AIS device.
 
-## Obligation d'être équipé d'un appareil ECDIS Intérieur ou d'un appareil comparable pour la visualisation de cartes électroniques
+In addition, ECDIS device in information mode may provide additional functions show alarms of connected devices like Inland AIS.
 
-Les bateaux soumis à l'obligation d'être équipés d'un appareil AIS Intérieur conformément à l'article 4.07 du Règlement de police pour la navigation du Rhin doivent aussi être équipés d'un appareil ECDIS Intérieur en mode information ou d'un **appareil comparable pour la visualisation de cartes électroniques** connecté à l'appareil AIS Intérieur.
+## QR23 Obligation of equipment with an Inland ECDIS device or a comparable device for displaying electronic charts
 
-En outre, ils sont tenus de l'utiliser conjointement avec une carte électronique de navigation intérieure à jour. Cela signifie que le conducteur doit avoir installé la dernière version disponible de la carte.
+Vessels that are subject to the obligation of equipment with an Inland AIS device, pursuant to article 4.07 of the Rhine Police Regulations, must also be equipped with an ECDIS device in information mode or a comparable **device for displaying electronic charts** connected with the Inland AIS device.
 
-Cette obligation de posséder l’équipement ne s’applique pas :
+Moreover, they are required to use it in conjunction with an up-to-date electronic inland navigation chart. That means that the skipper must have installed the latest available version of the chart.
 
-* aux bateaux qui ne sont pas soumis à l'obligation d'être équipés d'un appareil AIS \(QR5\)
-* aux bacs.
+This mandatory possession of the equipment does not apply to:
 
-Conformément à l’article 1.01, lettre l\) du Règlement de police pour la navigation du Rhin, un bac est un bateau qui assure un service de traversée de la voie navigable et qui est classé comme bac par l’autorité compétente.
+* vessels that are not subject to mandatory possession of an AIS device \(QR5\)
+* ferries.
 
-## Quelle est la conduite à tenir si le système de visualisation de cartes électroniques ne permet plus d’afficher les informations des appareils AIS Intérieur ?
+According to article 1.01, \(l\) of the Rhine Police Regulations, a ferry is a vessel providing a service crossing the waterway and which is classified as a ferry by the competent authority.
 
-Le système de visualisation de cartes électroniques doit fonctionner de manière fiable et être en bon état de fonctionnement.
+## QR24 What to do in the event of an electronic chart display system no longer able to display Inland AIS device information?
 
-En cas de dysfonctionnement, l'arrêt et le redémarrage du système de visualisation de cartes électroniques et de l'appareil AIS intérieur peut permettre de rétablir le bon fonctionnement.
+The electronic chart display system shall operate reliably and be in good working order.
 
-Si le système de visualisation de cartes électroniques ne fonctionne pas correctement, cela peut donner lieu à des erreurs d'appréciation et des incertitudes sur la voie navigable.
+In case of malfunction, switching off and restarting the electronic chart display system and the Inland AIS device could help recover the good working order.
 
-Un voyage entrepris avec un appareil ECDIS Intérieur défectueux engage la responsabilité du conducteur.
+If the electronic chart display system is malfunctioning, this may cause misjudgements and uncertainty on the waterway.
 
-Compte tenu du caractère exceptionnel que doit avoir une panne du système de visualisation de cartes électroniques, la [CCNR](https://www.ccr-zkr.org/) recommande aux États riverains du Rhin l’application des règles de tolérance suivantes :
+A voyage undertaken with a defective Inland ECDIS device engages the responsibility of the skipper.
 
-* La navigation peut être poursuivie pendant une durée maximale de 48 heures avec un système de visualisation de cartes électroniques qui ne permet pas d’afficher les données des appareils AIS Intérieur. Cette flexibilité permet de rejoindre le prochain port de chargement ou de déchargement ou à défaut, si ce port est trop éloigné, un lieu où la réparation ou le remplacement des équipements défectueux pourra être effectué.
-* Aucun voyage ne peut être entamé sans un système de visualisation de cartes électroniques en bon état de marche et en fonctionnement, faute de quoi le délai accordé de 48 heures deviendrait caduc.
-* Compte tenu du caractère particulier des voyages effectués par les bateaux d’excursions journalières, les deux alinéas ci-avant ne s’appliquent pas à ces bateaux. Les bateaux d'excursions journalières peuvent poursuivre la navigation pendant une durée maximale de 48 heures avec un système de visualisation de cartes électroniques qui ne permet pas d’afficher les données des appareils AIS Intérieur.
+As a defective electronic chart display system should be the exception to the rule, the [CCNR](https://www.ccr-zkr.org/) recommends that the riparian states of the Rhine apply the following flexibility rules:
 
-## Quelles sont les exigences minimales applicables aux systèmes de visualisation de cartes électroniques utilisés sur le Rhin ?
+* Navigation may be continued for a maximum period of 48 hours with an electronic chart display system that does not allow Inland AIS device data to be displayed. This flexibility enables the next port of loading or unloading to be reached or, failing that, if this port is too far away, a place where repair or replacement of the defective devices can be affected.
+* No voyage shall be commenced without an electronic chart display system in good working order and operating, failing which the 48-hour grace period would lapse.
+* Given the special nature of voyages undertaken by day-trip vessels, the two preceding paragraphs do not apply to these vessels. For a day-trip vessel, navigation may be continued for a maximum period of 48 hours with an electronic chart display system that does not allow AIS device data to be displayed.
 
-[La CCNR a adopté la résolution 2013-II-16 rendant obligatoire la possession et l'utilisation d'un appareil AIS Intérieur](https://www.ccr-zkr.org/%22%20/t%20%22_blank) [depuis le](https://www.ccr-zkr.org/%22%20/t%20%22_blank) [1](https://www.ccr-zkr.org/%22%20/t%20%22_blank)[er](https://www.ccr-zkr.org/%22%20/t%20%22_blank) [décembre 2014.](https://www.ccr-zkr.org/%22%20/t%20%22_blank)
+## QR25 On the Rhine, what are the minimum requirements for electronic chart display systems?
 
-Ces exigences minimales devant être observées ont été fixées afin de garantir le bon fonctionnement de l’appareil ECDIS Intérieur en mode information ou de l'appareil comparable pour la visualisation de cartes électroniques. Des recommandations ont été formulées en complément.
+[CCNR](https://www.ccr-zkr.org/) passed [resolution](https://www.ccr-zkr.org/13020400-en.html) 2013-II-16 making it compulsory to possess and use the Inland AIS device with effect from 1st December 2014.
 
-Les [exigences minimales applicables aux systèmes de visualisation de cartes électroniques](https://www.ccr-zkr.org/files/documents/ris/prot2014I12en_Annexe2.pdf) ont été adoptées par la [résolution](https://www.ccr-zkr.org/13020400-en.html) 2014-I-12.
+Minimum requirements to be complied with have been defined so as to ensure correct operation of the Inland ECDIS device in information mode or a comparable electronic chart display device. Recommendations have been drawn up by way of addition.
 
-Le document contient les exigences minimales pour l'utilisation, l'affichage des informations et le logiciel :
+The [minimum requirements for electronic chart display system](https://www.ccr-zkr.org/files/documents/ris/prot2014I12en_Annexe2.pdf) were adopted by [Resolution](https://www.ccr-zkr.org/13020400-en.html) 2014-I-12.
+
+The [document](https://www.ccr-zkr.org/files/documents/ris/prot2014I12en_Annexe2.pdf) contains minimum requirements for the use, the display of information and the software:
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">&#x200B;</th>
-      <th style="text-align:left">Exigences minimales</th>
-      <th style="text-align:left">Recommandations</th>
+      <th style="text-align:left">Minimum Requirements</th>
+      <th style="text-align:left">Recommendations</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Utilisation</td>
+      <td style="text-align:left">Use</td>
       <td style="text-align:left">
-        <p>- Les cartes &#xE9;lectroniques de navigation int&#xE9;rieure doivent
-          reproduire de fa&#xE7;on pr&#xE9;cise les contours de la voie d&apos;eau
-          et du chenal navigable et doivent &#xEA;tre bas&#xE9;es sur des cartes
-          &#xE9;lectroniques de navigation int&#xE9;rieure officielles.</p>
-        <p>- Les cartes &#xE9;lectroniques de navigation int&#xE9;rieure doivent
-          &#xEA;tre stock&#xE9;es dans le syst&#xE8;me de visualisation, &#xE0; bord
-          du bateau.</p>
+        <p>Electronic charts for inland navigation must accurately replicate the
+          contours of the river and the navigable channel and must be based on the
+          official inland navigation electronic charts.</p>
+        <p>- Electronic charts for inland navigation must be saved in the display
+          system on board the vessel.</p>
       </td>
-      <td style="text-align:left">- Il est recommand&#xE9; d&apos;utiliser les cartes &#xE9;lectroniques
-        de navigation les plus r&#xE9;centes.</td>
+      <td style="text-align:left">It is recommended that the most recent Electronic Navigational Chart be
+        used.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Visualisation de cartes &#xE9;lectroniques</td>
+      <td style="text-align:left">Electronic chart Display</td>
       <td style="text-align:left">
-        <p>- Les appareils pour la visualisation de cartes &#xE9;lectroniques doivent
-          &#xEA;tre connect&#xE9;s &#xE0; l&#x2019;appareil AIS Int&#xE9;rieur par
-          une liaison c&#xE2;bl&#xE9;e fiable.</p>
-        <p>- Lorsque le bateau fait route, les appareils doivent &#xEA;tre d&#xE9;di&#xE9;s
-          exclusivement &#xE0; la visualisation de cartes &#xE9;lectroniques de navigation
-          int&#xE9;rieure.</p>
-        <p>- Les informations affich&#xE9;es doivent &#xEA;tre visibles sans difficult&#xE9;s
-          depuis le poste de gouverne.</p>
+        <p>- Electronic chart display devices must be connected to the Inland AIS
+          device by a reliable cable connection.</p>
+        <p>- When the vessel is underway, devices must be exclusively dedicated to
+          displaying electronic inland navigation charts.</p>
+        <p>- The information displayed must be readily visible from the conning position.</p>
       </td>
       <td style="text-align:left">
-        <p>- Le syst&#xE8;me de visualisation de cartes &#xE9;lectroniques devrait
-          respecter les exigences du standard ECDIS Int&#xE9;rieur pour le mode navigation.</p>
-        <p>- Si le bateau est &#xE9;quip&#xE9; d&#x2019;un appareil ECDIS Int&#xE9;rieur
-          en mode navigation, il est recommand&#xE9; d&#x2019;utiliser, pour le mode
-          information, un syst&#xE8;me suppl&#xE9;mentaire et distinct pour la visualisation
-          de cartes &#xE9;lectroniques.</p>
+        <p>- The electronic chart display system should comply with the requirements
+          of the Inland ECDIS system for navigation mode.</p>
+        <p>- If the vessel is equipped with an Inland ECDIS device in navigation
+          mode it is</p>
+        <p>recommended that an additional and separate electronic chart display system
+          be used for information mode.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Logiciel</td>
+      <td style="text-align:left">Software</td>
       <td style="text-align:left">
-        <p>- Le logiciel doit afficher sur la carte &#xE9;lectronique de navigation
-          int&#xE9;rieure la position correcte et actuelle du propre bateau.</p>
-        <p>- Le logiciel doit afficher sur la carte &#xE9;lectronique de navigation
-          int&#xE9;rieure la position correcte et actuelle des autres bateaux.</p>
-        <p>- Le logiciel doit permettre, pour un bateau choisi, d&#x2019;afficher
-          la liste d&#xE9;taill&#xE9;e des informations AIS selon l&#x2019;article
-          4.07 chiffre 4, du R&#xE8;glement de police pour la navigation du Rhin.</p>
+        <p>- The software must display the vessel&apos;s current and correct position
+          on the electronic chart for inland navigation.</p>
+        <p>- The software must display on the electronic chart for inland navigation
+          the other vessel&apos;s current and correct position.</p>
+        <p>- For a given vessel, the software must display the detailed list of AIS
+          information in accordance with article 4.07(4) of the Police Regulations
+          for the Navigation of the Rhine.</p>
       </td>
       <td style="text-align:left">
-        <p>- Le logiciel pour la visualisation de cartes &#xE9;lectroniques de navigation
-          int&#xE9;rieure devrait respecter les exigences du mode navigation du standard
-          ECDIS Int&#xE9;rieur en vigueur.</p>
-        <p>- Le logiciel pour la visualisation de cartes &#xE9;lectroniques de navigation
-          int&#xE9;rieure devrait orienter la carte de sorte que le bateau suive
-          l&apos;axe de la voie d&apos;eau.</p>
+        <p>- The electronic chart display software for inland navigation should comply
+          with current Inland ECDIS navigation mode requirements.</p>
+        <p>- The electronic chart display software for inland navigation should orientate
+          the chart such that the vessel follows the axis of the waterway.</p>
       </td>
     </tr>
   </tbody>
 </table>
 
-Remarque : l'ECDIS Intérieur en mode navigation signifie que l’appareil est relié à un système radar, ce qui limite la portée, à moins de commuter en continu pendant la navigation, ce qui n’est pas souhaitable non plus.
+Remark : Inland ECDIS in navigation mode means that the device is connected to a radar system, which limits the range, unless one continuously switches over while navigating, which is not desirable either.
 
-## Est-il prescrit de connecter le panneau bleu à l'appareil AIS Intérieur ?
+## QR26 Is it prescribed to connect the blue sign to the Inland AIS?
 
-La connexion du panneau bleu à l’appareil AIS Intérieur n’est pas prescrite.
+Connecting the blue panel to the Inland AIS device is not prescribed.
 
-La connexion du panneau bleu à l'appareil AIS Intérieur est traitée de diverses manières. Lors de l’accomplissement de leurs tâches en liaison avec la navigation, les conducteurs doivent avoir conscience du fait que certains bateaux ont connecté le panneau bleu à l’appareil AIS Intérieur et d’autres non, de sorte que la situation présentée sur la carte électronique ne correspond pas nécessairement à la situation réelle.
+The connection of the blue panel to the Inland AIS device is handled very differently. When going about their navigational duties, skippers must be aware that certain vessels have connected the blue panel to the Inland AIS device and others not, with the result that the situation displayed on the electronic chart does not necessarily correspond to the actual situation.
 
-## L'utilisation de l'ECDIS Intérieur en mode navigation est-elle autorisée ?
+## QR27 Is it permitted using Inland ECDIS in navigation mode?
 
-Oui, mais bien que l'appareil ECDIS Intérieur en mode navigation soit accepté pour satisfaire à l'obligation d'équipement avec un appareil ECDIS Intérieur en mode information ou un appareil comparable pour la visualisation de cartes électroniques, il est recommandé de disposer, en plus de l'appareil ECDIS Intérieur en mode navigation, d'un appareil ECDIS Intérieur supplémentaire et distinct en mode information ou d'un appareil comparable pour la visualisation de cartes électroniques pour éviter de commuter entre différentes portées en mode navigation.
+Yes, although Inland ECDIS device in navigation mode is accepted to fulfill the obligation of equipment with Inland ECDIS device in information mode or comparable electronic chart display systems, it is recommended to have beside the Inland ECDIS device in navigation mode an additional and separate Inland ECDIS device in information mode or a comparable device for displaying electronic charts. to prevent switching between different ranges in navigation mode.
 
-### Fonctionnement de l'appareil ECDIS Intérieur en mode information
+### Operation of Inland ECDIS device in information mode
 
-En mode information, un appareil ECDIS Intérieur agit comme un atlas électronique et sert à guider et à fournir des informations concernant la voie navigable.
+In the information mode, an Inland ECDIS device acts as an electronic atlas and serves to guide and to provide information about the waterway.
 
-L'ECDIS Intérieur en mode information est généralement utilisé avec une portée de 2 000 m et plus. Lorsqu'il est connecté à un capteur de position, l'image de la carte peut être ajustée automatiquement afin que la position du bateau soit affichée au centre de l'écran. La représentation d'autres bateaux équipés de l'AIS Intérieur est possible si l'application est connectée à un appareil AIS Intérieur.
+Inland ECDIS in information mode is typically used in ranges of 2 000 m and more. When connected to a positioning sensor the chart picture can be adjusted automatically in a way that the vessel's own position is fixed in the centre of the screen. It is also possible to display other vessels, which are equipped with Inland AIS device, if the application is connected to an Inland AIS device.
 
-Les appareils ECDIS Intérieur sont uniquement destinés à une utilisation en mode information, les exigences du standard ECDIS Intérieur doivent être considérées comme une recommandation. Seules les exigences minimales énoncées dans la résolution 2014-I-12 de la CCNR sont applicables.
+Inland ECDIS device are destined for the information mode only, the requirements of the Inland ECDIS Standard are to be understood as a recommendation. Only the minimum requirements defined in the CCNR resolution 2014-I-12 apply.
 
-Il n'est pas obligatoire qu'un appareil comparable pour la visualisation de cartes électroniques dispose des fonctionnalités mentionnées ci-dessus,
+It is not mandatory that a comparable device for displaying electronic charts has the above-mentioned functions,
 
-### Fonctionnement de l'appareil ECDIS Intérieur en mode navigation
+### Operation of Inland ECDIS device in navigation mode
 
-Le mode navigation désigne l'utilisation de l'appareil ECDIS Intérieur pour la conduite du bateau au moyen d'un radar avec une image cartographique en arrière-plan \(CEN intérieure\).
+Navigation mode means the use of the Inland ECDIS device for conning the vessel by using radar and underlaid chart image \(Inland ENC\).
 
-Les appareils ECDIS Intérieur en mode navigation sont des appareils radar au sens des Prescriptions minimales et conditions d'essais relatives aux appareils radar pour la navigation rhénane et nécessitent un agrément de type. La position du bateau doit être déterminée par un système de positionnement continu dont la précision est conforme aux exigences pour une navigation sûre.
+Inland ECDIS equipment being able to operate in the navigation mode means radar equipment as defined by the regulations concerning the minimum requirements and test conditions for radar installations used for Rhine navigation and requires type approval. The vessel’s position must be derived from a continuous positioning system whose accuracy is consistent with the requirements of safe navigation.
 
-L'utilisateur d'un appareil ECDIS en mode navigation doit être titulaire d'une patente radar.
+Anyone, who uses an Inland ECDIS device in the navigation mode, must have a radar license.
 
-L'ECDIS Intérieur en mode navigation doit être utilisé avec une portée radar appropriée \(sur le Rhin : en général, 800 m / 1200 m\).
+Inland ECDIS in navigation mode shall be operated in an appropriate radar range \(on the Rhine: typically, 800 m / 1 200 m\).
 
-## Liste de contrôle pour le voyage
+## QR28 Voyage-Checklist
 
-[Cette page](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b) présente des listes de contrôle à utiliser pendant le voyage pour satisfaire aux obligations d'équipement et d'utilisation de l'AIS Intérieur. Il convient de noter que ces listes de contrôle sont des exemples et ne sont pas exhaustives et qu'elles peuvent toujours être complétées en fonction des réglementations régionales.
+[This](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b) page references checklists to be used during voyage to fulfil the obligations of carriage and use of Inland AIS. Note that these checklists are examples and not exhaustive and that they could always be completed according to regional regulations.
 
-Cette liste de contrôle est destinée à aider le conducteur à utiliser l'appareil AIS Intérieur à bord du bateau. L'objectif est de donner un bref aperçu de la nature des données qui doivent être saisies et mises à jour pendant le voyage du bateau de navigation intérieure. Les exigences minimales actuelles concernant les données à saisir peuvent varier d'une région à l'autre. Les exigences minimales relatives au contenu des données sont publiées dans la réglementation régionale appropriée de la commission fluviale compétente ou dans la législation nationale.
+This checklist should help the boatmaster operate the Inland AIS device on board the vessel. The purpose is to give a short overview of what kind of data should be input and kept up to date during the voyage of the inland vessel. The current minimum requirement of the data input may differ between regions. The minimum requirements of the data content are published in the appropriate regional regulation of the river commission or the national legislation.
 
-Avant le début du voyage, il convient de s'assurer que l’appareil AIS Intérieur est en fonctionnement.
+Before the voyage starts, check that the Inland AIS device is switched on.
 
-**Avant le voyage**
+**Before the voyage**
 
-Vérifiez les données relatives à votre propre bateau qui sont transmises par l'appareil AIS Intérieur \(périodiquement\) :
+Check your own vessel data transmitted by the Inland AIS device \(once in a while\):
 
-* Nom du bateau,
-* Numéro ENI,
-* Type de bateau et de convoi ERI,
-* Longueur et largeur du bateau,
-* Point d’acquisition de l'information relative à la position par l'antenne GPS,
-* Si le panneau bleu est connecté,
-  * vérifiez si le statut du panneau bleu est correct,
-* Vérifiez sur les systèmes de visualisation de cartes électroniques si vous recevez des données d'autres bateaux \(présents dans votre champ de vision\).
+* Name of the vessel.
+* ENI number.
+* ERI vessel and convoy type.
+* Length and beam of vessel.
+* Reference point of the GPS antenna.
+* If blue sign is connected, check
+  * that blue sign status is correct.
+* Check if you are receiving data from other vessels \(which you may see visually\) on the electronic chart display systems
 
-**Peu avant le début du voyage**
+**Shortly before starting the voyage**
 
-Modifiez les données relatives à votre propre bateau pour le voyage prévu, en tenant compte de la réglementation régionale applicable sur la voie de navigation que vous emprunterez :
+Amend your own vessel’s data for the planned voyage according to the regional regulation for the waterway where you are navigating:
 
-* Pour un convoi :
-  * longueur et
-  * largeur du convoi et point d'acquisition de l'information de l'antenne GPS. En outre, si le voyage précédent était effectué en tant que convoi, il convient de faire les corrections nécessaires.
-* Commutez les informations relatives au statut navigationnel du bateau sur " en route au moteur" en ce qui concerne le statut navigationnel applicable.
+* Dangerous cargo indication.
+* Destination.
+* Depth.
+* In case of convoy:
+  * Length and
+  * beam of convoy and the reference point of the GPS antenna. Also, if the previous voyage was a convoy it should be adjusted accordingly.
+* Set the navigational status information of the vessel to “underway” with respect to the navigational status that is applicable.
 
-**Pendant le voyage**
+**During the voyage**
 
-* Tenez à jour les informations relatives au le statut navigationnel du bateau ;
-* Vérifiez si vous recevez des données d'autres bateaux \(présents dans votre champ de vision\).
+* Keep the navigational status information of the vessel up to date.
+* Check if you are receiving data from other vessels \(which you may see visually\).
 
-**Après le voyage**
+**After the voyage**
 
-* Commutez l'information relative au statut navigationnel sur « amarré » ou « à l'ancre » ;
-* Modifiez les données relatives au voyage s'il y a lieu ;
-* Utilisez l'appareil AIS Intérieur conformément à la réglementation régionale applicable sur la voie navigable ou dans le port.
+* Set the navigational status information to “moored” or “at anchor”.
+* Amend the voyage-related data if necessary.
+* Operate the Inland AIS device according to the regional regulation for the waterway/port of navigation.
 
-Select your preferred checklist
-
-[CHECKLIST - EN -](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b%22%20\t%20%22_blank) [portofbasel](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b%22%20\t%20%22_blank)
-
-[checklist.pdf - 86KB](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LzkduvER3ZWneEYq38_%2F-MFd8t_jcer6hpFXDfTm%2F-MFdAWpSlYUGcplX5Ec_%2Fchecklist.pdf?alt=media&token=bc218ea3-10d4-4131-b799-707cca9b717b%22%20\t%20%22_blank)
-
-![](../.gitbook/assets/4.png)
+![](../.gitbook/assets/4%20%281%29.png)
 
 Keep in mind !
 

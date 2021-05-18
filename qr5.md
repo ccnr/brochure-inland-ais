@@ -1,22 +1,18 @@
-# Quel est l'avantage d'utiliser l'appareil AIS Intérieur pour le conducteur ?
+# What is the advantage of using Inland AIS device for the boatmaster?
 
-Les informations transmises et reçues par l'appareil AIS Intérieur affichées sur les systèmes de visualisation de cartes électroniques ne dispensent pas le conducteur de surveiller le trafic au moyen de l'image radar et en regardant par la fenêtre de la timonerie.
+The information transmitted and received by the Inland AIS device displayed on electronic chart display systems does not exempt the boatmaster from monitoring traffic by means of the radar image and by looking out of the wheelhouse window.
 
-{% hint style="info" %}
-Seuls les bateaux équipés d'un appareil AIS Intérieur sont visibles sur l'écran, or tous les bateaux ne sont pas équipés d'un appareil AIS Intérieur.
-{% endhint %}
+Only vessels equipped with an Inland AIS device are visible on the display device and not all vessels are equipped with an Inland AIS device.
 
-Un appareil AIS Intérieur en combinaison avec un appareil ECDIS Intérieur \(ou un appareil comparable de visualisation de cartes électroniques\) permet aux conducteurs:
+An Inland AIS device **in combination with an Inland ECDIS device** \(or a comparable electronic chart display device\) enable boatmasters:
 
-* de transmettre régulièrement le nom, la position, la vitesse et le cap de leur bateau aux autres bateaux à proximité équipés d'un appareil AIS Intérieur,
-* d'afficher sur l'écran du système de visualisation de cartes électroniques le nom et la position des bateaux présents à proximité \(uniquement de ceux qui sont aussi équipés d'un appareil AIS Intérieur en état de marche\),
-* d'obtenir des informations permettant de prendre les mesures nécessaires pour naviguer en toute sécurité \(en combinaison avec le fait de regarder par la fenêtre et de consulter les données provenant d'autres appareils de navigation\).
+* to **send regularly** their vessel’s name, position, speed and course to **vicinity vessels** possessing an Inland AIS on board
+* to display on the screen electronic chart display system the name, position, in vicinity \(only the one possessing an Inland AIS device in working order\)
+* to get some information to take necessary measures to **safely navigate** \(in combination with looking out of the window and input from other navigation devices\)
 
-Si le radar permet également de localiser d'autres bateaux situés à proximité, la portée utile du radar est toutefois limitée par rapport à celle de l'appareil AIS, en particulier sur les voies de navigation intérieure. En effet, un appareil AIS Intérieur a **une portée bien plus étendue** et permet d'afficher des bateaux se trouvant de l'autre côté d'un obstacle, tel qu'une montagne.
+Although the radar also enables other surrounding vessels to be located, the radar’s useful range is nonetheless limited compared to that of the AIS device, especially in inland waters. Indeed, an Inland AIS device has a **far greater range and enables vessels** on the other side of a barrier, such as a mountain, to be displayed.
 
-{% hint style="warning" %}
-L'appareil AIS Intérieur fournit ainsi au conducteur une aide à la navigation. Cependant, l'AIS Intérieur combiné à un système de visualisation de cartes électroniques n'est pas un système de navigation au même titre qu'un radar.
-{% endhint %}
+The Inland AIS device therefore provides the boatmaster with a **navigational aid. However, Inland AIS in combinaison with an** electronic chart display system is **not a navigation system** in the same way as is a radar.
 
-Les conducteurs doivent prendre connaissance des informations fournies par l'appareil AIS Intérieur et les utiliser pour assurer la sécurité et le bon ordre de la navigation. Ces informations doivent être utilisées correctement et d'une manière conforme au « devoir de vigilance » des conducteurs.
+The boatmasters must acquaint themselves with the information provided by the Inland AIS device and use it to ensure safe navigation and good order. This information must be used correctly in a way consistent with the boatmasters' “duty of vigilance”.
 

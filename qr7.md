@@ -1,4 +1,4 @@
-# Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?
+# When is it compulsory to install Inland AIS device?
 
 ## Bateaux qui doivent être équipés d’un appareil AIS Intérieur
 

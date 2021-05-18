@@ -1,4 +1,4 @@
-# Quels sont les champs de données les plus courants d'un appareil AIS Intérieur ?
+# What are the most common data fields of Inland AIS device?
 
 Il est obligatoire que l'appareil AIS Intérieur transmette des données actualisées. Aussi, cette page contient quelques indications pour le conducteur et explique \(le cas échéant\) le but de l'utilisation de ces données. Pour les opérations quotidiennes, le conducteur peut également utiliser la liste de contrôle.
 
