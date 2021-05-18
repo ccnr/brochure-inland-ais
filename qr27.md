@@ -1,0 +1,24 @@
+# L'utilisation de l'ECDIS Intérieur en mode navigation est-elle autorisée ?
+
+Oui, mais bien que l'appareil ECDIS Intérieur en mode navigation soit accepté pour satisfaire à l'obligation d'équipement avec un appareil ECDIS Intérieur en mode information ou un appareil comparable pour la visualisation de cartes électroniques, il est recommandé de disposer, en plus de l'appareil ECDIS Intérieur en mode navigation, d'un appareil ECDIS Intérieur supplémentaire et distinct en mode information ou d'un appareil comparable pour la visualisation de cartes électroniques pour éviter de commuter entre différentes portées en mode navigation.
+
+### Fonctionnement de l'appareil ECDIS Intérieur en mode information
+
+En mode information, un appareil ECDIS Intérieur agit comme un atlas électronique et sert à guider et à fournir des informations concernant la voie navigable.
+
+L'ECDIS Intérieur en mode information est généralement utilisé avec une portée de 2 000 m et plus. Lorsqu'il est connecté à un capteur de position, l'image de la carte peut être ajustée automatiquement afin que la position du bateau soit affichée au centre de l'écran. La représentation d'autres bateaux équipés de l'AIS Intérieur est possible si l'application est connectée à un appareil AIS Intérieur.
+
+Les appareils ECDIS Intérieur sont uniquement destinés à une utilisation en mode information, les exigences du standard ECDIS Intérieur doivent être considérées comme une recommandation. Seules les exigences minimales énoncées dans la résolution 2014-I-12 de la CCNR sont applicables.
+
+Il n'est pas obligatoire qu'un appareil comparable pour la visualisation de cartes électroniques dispose des fonctionnalités mentionnées ci-dessus,
+
+### Fonctionnement de l'appareil ECDIS Intérieur en mode navigation
+
+Le mode navigation désigne l'utilisation de l'appareil ECDIS Intérieur pour la conduite du bateau au moyen d'un radar avec une image cartographique en arrière-plan \(CEN intérieure\).
+
+Les appareils ECDIS Intérieur en mode navigation sont des appareils radar au sens des Prescriptions minimales et conditions d'essais relatives aux appareils radar pour la navigation rhénane et nécessitent un agrément de type. La position du bateau doit être déterminée par un système de positionnement continu dont la précision est conforme aux exigences pour une navigation sûre.
+
+L'utilisateur d'un appareil ECDIS en mode navigation doit être titulaire d'une patente radar.
+
+L'ECDIS Intérieur en mode navigation doit être utilisé avec une portée radar appropriée \(sur le Rhin : en général, 800 m / 1200 m\).
+
