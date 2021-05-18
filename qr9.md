@@ -1,17 +1,127 @@
 # What are the most common data fields of Inland AIS device?
 
-Il est obligatoire que l'appareil AIS Intérieur transmette des données actualisées. Aussi, cette page contient quelques indications pour le conducteur et explique \(le cas échéant\) le but de l'utilisation de ces données. Pour les opérations quotidiennes, le conducteur peut également utiliser la liste de contrôle.
+It is mandatory that Inland AIS device to transmit up-to-date . Therefore, this page will give some hints for the boatmaster and explains \(when applicable\) for what reasons the data are used. For the daily operations, the boatmaster can also make use of the [checklist](qr28.md).
 
-| Champ de données | Description |
-| :--- | :--- |
-| **Identifiant utilisateur \(numéro MMSI\)** | Le numéro MMSI est le numéro d'identité de l'appareil AIS Intérieur émetteur qui est attribué aux équipements de radiocommunication embarqués par l'administration des télécommunications compétente. Le numéro MMSI attribué est saisi par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. Ce numéro permet aux systèmes de gestion du trafic fluvial des autorités d'identifier un bateau et de faire le lien avec les données actuelles concernant son voyage. |
-| **Nom du bateau** | Le nom du bateau est saisi dans l'appareil AIS Intérieur lors de son installation par la société spécialisée agréée. Le nom du bateau permet au conducteur d'identifier le trafic environnant. |
-| **Type de bateau ou de convoi** | Le type de bateau ou de convoi est utilisé par les systèmes de gestion du trafic fluvial des autorités afin de déterminer la composition d'un convoi et/ou de planifier les cycles d'éclusage. L'AIS Intérieur fournit une liste des différents types de bateaux et de convois pour faire le choix. Pour un convoi, le type de convoi peut changer pour chaque bateau en fonction du nombre et du type des barges accouplées. Pour certains bateaux, le type peut également changer. Il doit être mis à jour par le conducteur pour chaque voyage. |
-| **Numéro ENI** | Le numéro ENI est le numéro européen unique d'identification des bateaux. Il est saisi par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. Le numéro ENI est utilisé par les systèmes de gestion du trafic fluvial des autorités pour identifier les bateaux et faire le lien avec les données actuelles concernant leur voyage. |
-| **Dimensions** | Les dimensions sont la longueur et la largeur hors tout du bateau ou du convoi. Pour un bateau seul, ces valeurs sont saisies par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. Pour un convoi, les valeurs doivent être fixées par le conducteur en fonction de la composition actuelle du convoi. Le conducteur prend en compte les dimensions des autres bateaux afin d'assurer la sécurité lors des croisements et dépassements. Les autorités prennent en compte les dimensions dans leurs systèmes de gestion du trafic fluvial pour la planification des éclusages et/ou pour les services VTS. |
-| **Position** | La position est utilisée pour afficher le bateau sur une carte. Cette information sur la position d'un bateau reflète la position réelle de l'antenne GPS de l'appareil AIS Intérieur à bord du bateau. La position est utilisée par d'autres conducteurs et par les autorités. |
-| **Vitesse sur route** | La vitesse sur route est transmise automatiquement par l'appareil AIS Intérieur. Le conducteur utilise la vitesse pour déterminer si un bateau se déplace et à quelle vitesse. Les systèmes de gestion du trafic fluvial des autorités pourraient utiliser la vitesse sur terre pour déterminer si un bateau se déplace. Cela permet de distinguer les bateaux qui font route de ceux qui sont amarrés. |
-| **Route** | La route du bateau est transmise automatiquement par l'appareil AIS Intérieur. Elle est utilisée par le conducteur et les autorités pour déterminer le sens de navigation d'un bateau. |
-| **Statut navigationnel** | Le statut navigationnel donne une indication sur le statut d'exploitation du bateau \(par exemple, « en route au moteur », « à l'ancre », « amarré »\) et relève de la responsabilité du conducteur\). Les systèmes de gestion du trafic fluvial des autorités utilisent ces informations à des fins de planification. Le statut navigationnel revêt peut-être une moindre importance pour le conducteur, mais il permet de tenir compte du fait qu'un appareil AIS Intérieur qui transmet avec le statut navigationnel « en route, au moteur » nécessite nettement plus de temps pour la transmission qu'avec le statut navigationnel « amarré ». En particulier dans les secteurs où le trafic est dense, \(par ex. dans les ports\), le fait de régler le statut navigationnel sur "amarré" lorsqu'un bateau est amarré permet de moins solliciter le système. Le statut navigationnel est réglé par le conducteur, mais certains fournisseurs \(notamment les fabricants d'appareils ECDIS Intérieur\) proposent une fonctionnalité de paramétrage \(semi-\)automatique du statut navigationnel sur la base de la vitesse sur route. Le conducteur demeure toutefois responsable des informations transmises.  |
-| **Point de référence** | Le point d'acquisition de l'information du bateau est, dans la plupart des cas, la position de l'antenne GPS de l'appareil AIS. Le point d'acquisition de l'information est saisi par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. La modification du point d'acquisition de l'information n'est nécessaire que pour les convois, en fonction de la composition du convoi. Cette modification est généralement effectuée en même temps que la modification des dimensions du convoi. Si le point d'acquisition de l'information n'est pas réglé correctement, cela peut donner lieu à un décalage par rapport à la position réelle du bateau. |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Data Field</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>User identity (MMSI number)</b>
+      </td>
+      <td style="text-align:left">The MMSI number is the identity number of the transmitting Inland AIS
+        devicen and is assigned by the competent telecommunication administration
+        and for on-board radio communication equipment. The assigned MMSI number
+        is set by the specialized approved firm when installing the Inland AIS
+        device. This number helps the authorities&apos; vessel traffic management
+        systems to identify a vessel and connect it to current voyage data.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Name of the vessel</b>
+      </td>
+      <td style="text-align:left">
+        <p>The name of the vessel is set in the Inland AIS device by the specialized
+          approved firm when installing it. The name of the vessel helps the boatmaster
+          to identify traffic in the vicinity.</p>
+        <p>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Vessel or convoy type</b>
+      </td>
+      <td style="text-align:left">The <a href="https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device"><em>vessel or convoy type</em></a> is
+        used by vessel traffic management systems of the authorities in order to
+        identify the composition of a convoy and/or to plan lock cycles. Inland
+        AIS provides a list of different vessel and convoy types to choose from.
+        For a convoy, the convoy type may change for each vessel depending on the
+        number and type of the coupled barges. For some vessels, the type may also
+        change. This needs to be updated by the boatmaster for each voyage.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>ENI number</b>
+      </td>
+      <td style="text-align:left">The ENI number is the Unique European vessel identification number. It
+        is set by the specialized approved firm when installing the Inland AIS
+        device. The ENI number is used by vessel traffic management systems of
+        the authorities to identify vessels and connect them to their current voyage
+        data.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Dimensions</b>
+      </td>
+      <td style="text-align:left">
+        <p>The dimensions are the overall length and beam of the vessel or convoy.
+          For a single vessel, those values are set by the specialized approved firm
+          during installation of the Inland AIS device. For a convoy, the values
+          must be set by the boatmaster according to the actual situation of the
+          convoy. The boatmaster uses the dimensions of other vessels so as to ensure
+          safe passing and overtaking.</p>
+        <p>The authorities use the dimensions in their vessel traffic management
+          systems for lock planning and/or VTS services</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Position</b>
+      </td>
+      <td style="text-align:left">The position is used for displaying the vessel on a map. This position
+        information of a vessel reflects the actual position of the Inland AIS
+        device&#x2019;s GPS antenna on board of the vessel. The position is used
+        by other boatmasters and authorities.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Speed over ground</b>
+      </td>
+      <td style="text-align:left">
+        <p>The speed over ground is transmitted automatically by the Inland AIS device.
+          The boatmaster uses the speed to identify if a vessel is moving and at
+          what speed.</p>
+        <p>The vessel traffic management systems of authorities could use the speed
+          over ground to identify if a vessel is moving. This allows to sort vessels
+          which are underway from the one moored. .</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Course</b>
+      </td>
+      <td style="text-align:left">The course of the vessel is transmitted automatically by the Inland AIS
+        device. It is used by the boatmaster and the authorities to determine the
+        sailing direction of a vessel.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Navigational status</b>
+      </td>
+      <td style="text-align:left">The navigational status gives an indication about the operation status
+        of the vessel (e.g. &#x2018;underway using engine&#x2019;, &#x2018;at anchor&#x2019;,
+        &#x2018;moored&#x2019;) and is set under the responsibility of the boatmaster
+        ). The vessel traffic management systems of the authorities use this information
+        for planning purposes. The navigational status might not be so important
+        for the boatmaster, but to be informed that an Inland AIS device that is
+        transmitting &#x2018;Underway, using engine&#x2019; claims far more time-slots
+        for transmitting in contrast to the navigational status &#x2018;Moored&#x2019;.
+        In dense areas especially (such as ports) it helps to reduce the load to
+        the system if the navigational status is set to &#x2018;Moored&#x2019;
+        when a vessel is moored. The navigational status is set by the boatmaster
+        but some suppliers (especially Inland ECDIS manufacturers) offer the feature
+        of an (semi)automatic setting of the navigational status based on the speed
+        over ground. Howewer the boatmaster is responsible for the transmitted
+        information.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Reference point</b>
+      </td>
+      <td style="text-align:left">The reference point of the vessel is in most cases the position of the
+        AIS device&#x2019;s GPS antenna. The reference point is set by the specialized
+        approved firm during installation of the Inland AIS device. Only in the
+        case of convoys does the reference point need to be changed, depending
+        on the composition of a convoy. This is usually done in conjunction with
+        the amendments of the dimension of the convoy. When the reference point
+        is not set correctly, an offset of the actual position of the vessel might
+        occur.</td>
+    </tr>
+  </tbody>
+</table>
 
