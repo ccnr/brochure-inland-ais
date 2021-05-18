@@ -14,7 +14,7 @@ It is mandatory that Inland AIS device to transmit up-to-date . Therefore, this 
       <td style="text-align:left"><b>User identity (MMSI number)</b>
       </td>
       <td style="text-align:left">The MMSI number is the identity number of the transmitting Inland AIS
-        device and is assigned by the competent telecommunication administration
+        devicen and is assigned by the competent telecommunication administration
         and for on-board radio communication equipment. The assigned MMSI number
         is set by the specialized approved firm when installing the Inland AIS
         device. This number helps the authorities&apos; vessel traffic management
@@ -23,20 +23,23 @@ It is mandatory that Inland AIS device to transmit up-to-date . Therefore, this 
     <tr>
       <td style="text-align:left"><b>Name of the vessel</b>
       </td>
-      <td style="text-align:left">The name of the vessel is set in the Inland AIS device by the specialized
-        approved firm when installing it. The name of the vessel helps the boatmaster
-        to identify traffic in the vicinity.</td>
+      <td style="text-align:left">
+        <p>The name of the vessel is set in the Inland AIS device by the specialized
+          approved firm when installing it. The name of the vessel helps the boatmaster
+          to identify traffic in the vicinity.</p>
+        <p>.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Vessel or convoy type</b>
       </td>
-      <td style="text-align:left">The <em>vessel or convoy type</em> is used by vessel traffic management
-        systems of the authorities in order to identify the composition of a convoy
-        and/or to plan lock cycles. Inland AIS provides a list of different vessel
-        and convoy types to choose from. For a convoy, the convoy type may change
-        for each vessel depending on the number and type of the coupled barges.
-        For some vessels, the type may also change. This needs to be updated by
-        the boatmaster for each voyage.</td>
+      <td style="text-align:left">The <a href="https://ris.gitbook.io/ebrochure-iais/how-to-set-a-convoy-or-a-towed-convoy-in-the-inland-ais-device"><em>vessel or convoy type</em></a> is
+        used by vessel traffic management systems of the authorities in order to
+        identify the composition of a convoy and/or to plan lock cycles. Inland
+        AIS provides a list of different vessel and convoy types to choose from.
+        For a convoy, the convoy type may change for each vessel depending on the
+        number and type of the coupled barges. For some vessels, the type may also
+        change. This needs to be updated by the boatmaster for each voyage.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>ENI number</b>
