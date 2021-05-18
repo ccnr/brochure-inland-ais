@@ -10,7 +10,7 @@
 * [Quels sont les champs de données les plus courants d'un appareil AIS Intérieur ?](qr9.md)
 * [Quelles sont les données transmises par l'appareil AIS ?](qr10.md)
 * [Saisie de données dans l'appareil AIS Intérieur](qr11.md)
-* [Comment saisir les données relatives à mon voyage dans l'appareil AIS Intérieur ?](how-to-check-that-transmitted-inland-ais-data-is-correct.md)
+* [Comment saisir les données relatives à mon voyage dans l'appareil AIS Intérieur ?](qr12.md)
 * [Comment vérifier que les données transmises par l'appareil AIS Intérieur sont correctes ?](qr13.md)
 * [Quelles sont les exigences pour l'installation d'un appareil AIS Intérieur ?](qr16.md)
 * [Qu'implique l'obligation d'utiliser l'appareil AIS Intérieur ?](qr17.md)
