@@ -13,9 +13,11 @@ Between 2016 and 2017, the Central Commission for the Navigation of the Rhine \(
 
 This document, intended for crew members, aims to clarify the importance and correct usage of Inland AIS device in combination with an electronic chart display system by answering concrete questions raised by users in the survey.
 
-The CCNR document “Clarifications concerning the obligation of equipment with an Inland AIS and an Inland ECDIS device or a comparable electronic chart display device”[\[1\]]() \(available in English, French, German and Dutch[\[2\]]()\) clarifies the obligation and the usage of the Inland AIS device and electronic chart display systems.
+The CCNR document “Clarifications concerning the obligation of equipment with an Inland AIS and an Inland ECDIS device or a comparable electronic chart display device” \(available in English, French, German and Dutch\) clarifies the obligation and the usage of the Inland AIS device and electronic chart display systems.
 
-{% file src=".gitbook/assets/brochureais\_en.pdf" caption="Clarifications concerning the obligation and usage of equipment with an Inland AIS and an Inland ECDIS device or a comparable electronic chart display device" %}
+{% embed url="https://www.ccr-zkr.org/files/documents/ris/brochureAIS\_en.pdf" caption="Clarifications concerning the obligation of equipment with an Inland AIS and an Inland ECDIS device or a comparable electronic chart display device" %}
+
+
 
 
 
