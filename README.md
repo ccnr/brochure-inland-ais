@@ -16,9 +16,11 @@ Entre 2016 et 2017, la Commission centrale pour la navigation du Rhin \(CCNR\) a
 
 Le document de la CCNR « Précisions concernant l’obligation d’équipement en appareil AIS Intérieur et en appareil ECDIS Intérieur ou en appareil comparable pour la visualisation de cartes » \(disponible en anglais, français, allemand et néerlandais \) contient des précisions relatives à l’obligation d'être « équipé d'un appareil AIS Intérieur et de systèmes de visualisation de cartes électroniques et à leur utilisation ».
 
-The pdf document below clarifies the obligation of equipment on the Rhine.
+{% embed url="https://www.ccr-zkr.org/files/documents/ris/brochureAIS\_fr.pdf" caption="Précisions concernant l’obligation d’équipement en appareil AIS Intérieur et en appareil ECDIS Intérieur ou en appareil comparable pour la visualisation de cartes" %}
 
-{% file src=".gitbook/assets/brochureais\_en.pdf" caption="Clarifications concerning the obligation and usage of equipment with an Inland AIS and an Inland ECDIS device or a comparable electronic chart display device" %}
+
+
+
 
 
 
