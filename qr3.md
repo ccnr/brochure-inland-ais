@@ -6,7 +6,7 @@ description: About Inland navigation equipment installation
 
 Schiffsführer **dürfen** Inland AIS Geräte **nicht** selbst **einbauen**. Inland AIS Geräte müssen von anerkannten Fachfirmen \(Einbaufirmen\) eingebaut werden.
 
-## Liste der zugelassenen Einbaufirmen
+Liste der zugelassenen Einbaufirmen
 
 Die Liste der Einbaufirmen ist auf einer speziellen Seite von [CESNI](https://listes.cesni.eu/5000-en.html) verfügbar und kann nachstehend eingesehen werden.
 
