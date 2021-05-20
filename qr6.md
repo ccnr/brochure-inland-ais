@@ -8,7 +8,7 @@ In het algemeen zijn er drie soorten AIS-apparaten:
 
 ## Inland AIS-apparaten
 
-Schepen op de Rijn die onder de uitrustingsverplichting voor Inland AIS vallen \(zie QR7\), moeten zijn uitgerust met een Inland AIS-apparaat met typegoedkeuring.
+Schepen op de Rijn die onder de uitrustingsverplichting voor Inland AIS vallen \(zie [Wanneer is installatie van een Inland AIS-apparaat verplicht?](qr7.md)\), moeten zijn uitgerust met een Inland AIS-apparaat met typegoedkeuring.
 
 Dit betekent dat het Inland AIS-apparaat in overeenstemming moet zijn met de eisen van de Inland AIS-teststandaard. Een bevoegde autoriteit onderzoekt of een bepaald apparaat voldoet aan de voorwaarden voor typegoedkeuring en certificeert het.
 
