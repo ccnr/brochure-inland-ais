@@ -10,6 +10,8 @@ De manière générale, il existe trois types d'appareils AIS :
 
 Un bateau naviguant sur le Rhin qui est soumis à l'obligation d'être équipé d'un appareil AIS Intérieur \(voir [Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?](qr7.md)\) doit être équipé d'un appareil AIS Intérieur possédant un agrément de type.
 
+L'agrément de type signifie que l'appareil AIS Intérieur doit être conforme aux exigences du Standard d'essai pour l'AIS Intérieur. La conformité est certifiée par un examen de l'agrément de type par une autorité compétente.
+
 Ces bateaux naviguant sur le Rhin doivent être équipés d'appareils AIS Intérieur possédant un agrément de type. Les règles suivantes s'appliquent en ce qui concerne l'édition du standard d'essai AIS à satisfaire :
 
 * Les appareils AIS Intérieur qui ont été certifiés avant le 19 octobre 2012 doivent être conformes aux exigences du Standard d’essai édition 1.0 ou 1.01 de la CCNR et les appareils qui ont été certifiés après cette date doivent être conformes aux exigences du Standard d’essai édition 2.0. de la CCNR. Les appareils AIS Intérieur certifiés conformément à l'édition 1.0 ou 1.01 portent un numéro d'agrément de type attribué par la Commission centrale pour la navigation du Rhin \(CCNR\) selon le format suivant : R-4-2XX \(X représente un chiffre\).
