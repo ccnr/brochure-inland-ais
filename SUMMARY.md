@@ -25,7 +25,6 @@
 * [Ist es vorgeschrieben, die blaue Tafel an das Inland AIS anzuschließen?](qr26.md)
 * [Ist es erlaubt, Inland ECDIS im Navigationsmodus zu verwenden?](qr27.md)
 * [Checkliste für die Reise](qr28.md)
-* [Explanation of abbreviations](abbreviations.md)
 * [Sources](sources/README.md)
   * [allin DE](sources/allin-de.md)
 
