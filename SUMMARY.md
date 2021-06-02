@@ -26,6 +26,4 @@
 * [Is it permitted using Inland ECDIS in navigation mode?](qr27.md)
 * [Voyage-Checklist](qr28.md)
 * [Explanation of abbreviations](abbreviations.md)
-* [Sources](sources/README.md)
-  * [allin EN](sources/allin.md)
 
