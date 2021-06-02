@@ -7,9 +7,7 @@ Wenn in diesem Dokument der Ausdruck „elektronisches Kartenanzeigesystem“ ve
 * entweder auf ein Inland ECDIS im Informationsmodus
 * oder ein vergleichbares elektronisches Kartenanzeigegerät.
 
-![Icon
-
-Description automatically generated](.gitbook/assets/0%20%283%29.png)
+![](.gitbook/assets/0%20%283%29.png)
 
 Zwischen 2016 und 2017 führte die Zentralkommission für die Rheinschifffahrt \([ZKR](https://www.ccr-zkr.org/)\) eine Umfrage unter Schiffsführern, Behörden und Einbaufirmen durch. Als Hauptergebnis der Umfrage zeigte sich, dass Inland AIS Geräte \(in Kombination mit einem elektronischen Kartenanzeigesystem\) als Unterstützung für eine sicherere Schifffahrt auf dem Rhein auf große Akzeptanz stoßen.
 
