@@ -1,17 +1,130 @@
-# Quels sont les champs de données les plus courants d'un appareil AIS Intérieur ?
+# Wat zijn de meest voorkomende gegevensvelden van het Inland AIS-apparaat?
 
-Il est obligatoire que l'appareil AIS Intérieur transmette des données actualisées. Aussi, cette page contient quelques indications pour le conducteur et explique \(le cas échéant\) le but de l'utilisation de ces données. Pour les opérations quotidiennes, le conducteur peut également utiliser la liste de contrôle.
+De gegevens die het Inland AIS-apparaat verzendt, moeten in overeenstemming met de daadwerkelijke situatie zijn. Op deze pagina staan daarom enkele tips voor schippers en wordt uitgelegd \(indien van toepassing\) waarvoor de gegevens worden gebruikt. Er is ook een [checklist](qr28.md) opgesteld die de schipper tijdens zijn dagelijkse activiteiten kan gebruiken.
 
-| Champ de données | Description |
-| :--- | :--- |
-| **Identifiant utilisateur \(numéro MMSI\)** | Le numéro MMSI est le numéro d'identité de l'appareil AIS Intérieur émetteur qui est attribué aux équipements de radiocommunication embarqués par l'administration des télécommunications compétente. Le numéro MMSI attribué est saisi par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. Ce numéro permet aux systèmes de gestion du trafic fluvial des autorités d'identifier un bateau et de faire le lien avec les données actuelles concernant son voyage. |
-| **Nom du bateau** | Le nom du bateau est saisi dans l'appareil AIS Intérieur lors de son installation par la société spécialisée agréée. Le nom du bateau permet au conducteur d'identifier le trafic environnant. |
-| **Type de bateau ou de convoi** | Le type de bateau ou de convoi est utilisé par les systèmes de gestion du trafic fluvial des autorités afin de déterminer la composition d'un convoi et/ou de planifier les cycles d'éclusage. L'AIS Intérieur fournit une liste des différents types de bateaux et de convois pour faire le choix. Pour un convoi, le type de convoi peut changer pour chaque bateau en fonction du nombre et du type des barges accouplées. Pour certains bateaux, le type peut également changer. Il doit être mis à jour par le conducteur pour chaque voyage. |
-| **Numéro ENI** | Le numéro ENI est le numéro européen unique d'identification des bateaux. Il est saisi par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. Le numéro ENI est utilisé par les systèmes de gestion du trafic fluvial des autorités pour identifier les bateaux et faire le lien avec les données actuelles concernant leur voyage. |
-| **Dimensions** | Les dimensions sont la longueur et la largeur hors tout du bateau ou du convoi. Pour un bateau seul, ces valeurs sont saisies par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. Pour un convoi, les valeurs doivent être fixées par le conducteur en fonction de la composition actuelle du convoi. Le conducteur prend en compte les dimensions des autres bateaux afin d'assurer la sécurité lors des croisements et dépassements. Les autorités prennent en compte les dimensions dans leurs systèmes de gestion du trafic fluvial pour la planification des éclusages et/ou pour les services VTS. |
-| **Position** | La position est utilisée pour afficher le bateau sur une carte. Cette information sur la position d'un bateau reflète la position réelle de l'antenne GPS de l'appareil AIS Intérieur à bord du bateau. La position est utilisée par d'autres conducteurs et par les autorités. |
-| **Vitesse sur route** | La vitesse sur route est transmise automatiquement par l'appareil AIS Intérieur. Le conducteur utilise la vitesse pour déterminer si un bateau se déplace et à quelle vitesse. Les systèmes de gestion du trafic fluvial des autorités pourraient utiliser la vitesse sur terre pour déterminer si un bateau se déplace. Cela permet de distinguer les bateaux qui font route de ceux qui sont amarrés. |
-| **Route** | La route du bateau est transmise automatiquement par l'appareil AIS Intérieur. Elle est utilisée par le conducteur et les autorités pour déterminer le sens de navigation d'un bateau. |
-| **Statut navigationnel** | Le statut navigationnel donne une indication sur le statut d'exploitation du bateau \(par exemple, « en route au moteur », « à l'ancre », « amarré »\) et relève de la responsabilité du conducteur\). Les systèmes de gestion du trafic fluvial des autorités utilisent ces informations à des fins de planification. Le statut navigationnel revêt peut-être une moindre importance pour le conducteur, mais il permet de tenir compte du fait qu'un appareil AIS Intérieur qui transmet avec le statut navigationnel « en route, au moteur » nécessite nettement plus de temps pour la transmission qu'avec le statut navigationnel « amarré ». En particulier dans les secteurs où le trafic est dense, \(par ex. dans les ports\), le fait de régler le statut navigationnel sur "amarré" lorsqu'un bateau est amarré permet de moins solliciter le système. Le statut navigationnel est réglé par le conducteur, mais certains fournisseurs \(notamment les fabricants d'appareils ECDIS Intérieur\) proposent une fonctionnalité de paramétrage \(semi-\)automatique du statut navigationnel sur la base de la vitesse sur route. Le conducteur demeure toutefois responsable des informations transmises.  |
-| **Point de référence** | Le point d'acquisition de l'information du bateau est, dans la plupart des cas, la position de l'antenne GPS de l'appareil AIS. Le point d'acquisition de l'information est saisi par la société spécialisée agréée lors de l'installation de l'appareil AIS Intérieur. La modification du point d'acquisition de l'information n'est nécessaire que pour les convois, en fonction de la composition du convoi. Cette modification est généralement effectuée en même temps que la modification des dimensions du convoi. Si le point d'acquisition de l'information n'est pas réglé correctement, cela peut donner lieu à un décalage par rapport à la position réelle du bateau. |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Gegevensveld</th>
+      <th style="text-align:left">Beschrijving</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Gebruikersidentificatie (MMSI-nummer)</b>
+      </td>
+      <td style="text-align:left">Het MMSI-nummer is het identificatienummer van het zendende Inland AIS-apparaat
+        dat door de bevoegde telecommunicatieautoriteit wordt toegekend voor radiocommunicatieapparatuur
+        aan boord. Het toegewezen MMSI-nummer wordt bij de installatie van het
+        Inland AIS-apparaat ingevoerd door het erkend deskundig bedrijf. Aan de
+        hand van dit nummer kan het schip in het verkeersmanagementsysteem van
+        de autoriteiten worden ge&#xEF;dentificeerd en aan actuele reisgegevens
+        worden gekoppeld.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Naam van het schip</b>
+      </td>
+      <td style="text-align:left">De naam van het schip wordt tijdens de installatie door het erkend deskundig
+        bedrijf in het Inland AIS-apparaat ingesteld. Aan de hand van de naam kan
+        de schipper andere schepen in zijn omgeving identificeren.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Scheeps- of samensteltype</b>
+      </td>
+      <td style="text-align:left">Het <em>scheeps- of samensteltype</em> wordt in de verkeersmanagementsystemen
+        van de autoriteiten gebruikt om de samenstelling van een samenstel te identificeren
+        en/of het gebruik van de sluizen te plannen. Inland AIS bevat een lijst
+        van verschillende scheeps- en samensteltypen waaruit kan worden gekozen.
+        Bij een samenstel kan het samensteltype van het vaartuig wijzigen afhankelijk
+        van het aantal en het type gekoppelde duwbakken. Ook voor sommige schepen
+        kan het type wijzigen. De schipper dient deze informatie voor elke reis
+        te actualiseren.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>ENI-nummer</b>
+      </td>
+      <td style="text-align:left">Het ENI-nummer is het Uniek Europees scheepsidentificatienummer. Het wordt
+        bij de installatie van het Inland AIS-apparaat ingesteld door het erkend
+        deskundig bedrijf. In de verkeersmanagementsystemen van de autoriteiten
+        wordt het ENI-nummer gebruikt om schepen te identificeren en aan hun actuele
+        reisgegevens te koppelen.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Afmetingen</b>
+      </td>
+      <td style="text-align:left">
+        <p>De afmetingen zijn de lengte over alles en de breedte over alles van het
+          schip of samenstel. Voor een enkel schip worden deze waarden ingesteld
+          door het erkend deskundig bedrijf tijdens de installatie van het Inland
+          AIS-apparaat. Voor een samenstel moeten de waarden worden ingevoerd door
+          de schipper overeenkomstig de afmetingen van het samenstel op dat moment.
+          De schipper raadpleegt de informatie over de afmetingen van andere vaartuigen
+          om ervoor te zorgen dat het ontmoeten en voorbijlopen op een veilige manier
+          geschiedt.</p>
+        <p>De autoriteiten gebruiken de informatie over de afmetingen in hun verkeersmanagementsystemen
+          om het gebruik van de sluizen te plannen en/of voor VTS-diensten.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Positie</b>
+      </td>
+      <td style="text-align:left">De positie wordt gebruikt om het vaartuig op een kaart weer te geven.
+        Deze positie-informatie geeft de werkelijke positie van de gps-antenne
+        van het Inland AIS-apparaat aan boord van het vaartuig weer en wordt gebruikt
+        door de andere schippers en de autoriteiten.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Snelheid over de grond</b>
+      </td>
+      <td style="text-align:left">
+        <p>Het Inland AIS-apparaat verzendt de snelheid over de grond automatisch.
+          Schippers gebruiken deze informatie om te bepalen of een schip zich verplaatst
+          en tegen welke snelheid.</p>
+        <p>Aan de hand van de snelheid over de grond kunnen de verkeersmanagementsystemen
+          van de autoriteiten bepalen of een vaartuig in beweging is. Op deze manier
+          kan een onderscheid worden gemaakt tussen vaartuigen die varen, en vaartuigen
+          die afgemeerd liggen.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Koers</b>
+      </td>
+      <td style="text-align:left">Het Inland AIS-apparaat verzendt de koers van het vaartuig automatisch.
+        De andere schippers en de autoriteiten gebruiken deze informatie om de
+        vaarrichting van een schip te bepalen.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Vaarstatus</b>
+      </td>
+      <td style="text-align:left">De vaarstatus verstrekt informatie over de bedrijfstoestand van het vaartuig
+        (bijvoorbeeld &#x201C;is onderweg op de motor&#x201D;, &#x201C;ligt voor
+        anker&#x201D;, &#x201C;ligt afgemeerd&#x201D;). De schipper is verantwoordelijk
+        voor het invoeren van de vaarstatus. In de verkeersmanagementsystemen van
+        de autoriteiten wordt deze informatie gebruikt voor planningsdoeleinden.
+        De informatie over de vaarstatus is misschien niet zo belangrijk voor de
+        schipper, maar er wordt op gewezen dat een Inland AIS-apparaat dat &#x201C;is
+        onderweg op de motor&#x201D; verzendt, veel meer time-slots voor het zenden
+        vereist dan wanneer de vaarstatus is ingesteld op &#x201C;ligt afgemeerd&#x201D;.
+        Met name in drukke zones (zoals havens) wordt het systeem minder belast
+        als de vaarstatus wordt ingesteld op &#x201C;ligt afgemeerd&#x201D; wanneer
+        een vaartuig daadwerkelijk is afgemeerd. De vaarstatus wordt ingevoerd
+        door de schipper, maar sommige leveranciers (vooral fabrikanten van Inland
+        ECDIS) voorzien de mogelijkheid om de vaarstatus (semi)automatisch in te
+        stellen op basis van de snelheid over de grond. De schipper blijft echter
+        verantwoordelijk voor de verzonden informatie.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Referentiepunt</b>
+      </td>
+      <td style="text-align:left">Het referentiepunt van een vaartuig is doorgaans de positie van de gps-antenne
+        van het AIS-apparaat. Het referentiepunt wordt bij de inbouw van het Inland
+        AIS-apparaat ingesteld door het erkend deskundig bedrijf. Het referentiepunt
+        moet alleen worden gewijzigd voor samenstellen en dit in functie van de
+        samenstelling ervan. Deze informatie wordt doorgaans aangepast samen met
+        de afmetingen van het samenstel. Als het referentiepunt niet correct is
+        ingesteld, wordt de werkelijke positie van het vaartuig mogelijk niet correct
+        weergegeven.</td>
+    </tr>
+  </tbody>
+</table>
 

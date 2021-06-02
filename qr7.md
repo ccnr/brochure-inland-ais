@@ -1,56 +1,58 @@
-# Quand est-il obligatoire d'installer l'appareil AIS Intérieur ?
+# Wanneer is installatie van een Inland AIS-apparaat verplicht?
 
-## Bateaux qui doivent être équipés d’un appareil AIS Intérieur
+## **Schepen die met een Inland AIS-apparaat moeten zijn uitgerust**
 
-L’obligation de posséder un appareil AIS Intérieur est décrite de manière précise dans l’article 4.07 du Règlement de police pour la navigation du Rhin \(RPNR\).
+De uitrustings- en gebruiksverplichting voor Inland AIS-apparaten wordt in detail beschreven in artikel 4.07 van het [Rijnvaartpolitiereglement \(RPR\)](https://www.ccr-zkr.org/12020200-nl.html#03).
 
-Cette obligation d'équipement avec un appareil AIS Intérieur s'applique à tous les bateaux, y compris les navires de mer, les bacs, les petits bateaux de police équipés d'un radar et les menues embarcations en possession d'un certificat de visite conforme au Règlement de visite des bateaux du Rhin ou d'un certificat réputé équivalent conformément à ce règlement.
+Deze verplichting geldt voor alle schepen, ook voor zeeschepen, veerponten, kleine politieschepen die met een radarapparaat zijn uitgerust, en kleine schepen die van een certificaat van onderzoek overeenkomstig het Reglement Onderzoek schepen op de Rijn \(ROSR\) of van een krachtens dit reglement als gelijkwaardig verklaard certificaat zijn voorzien.
 
-Seuls les bateaux mentionnés ci-dessous ne sont pas soumis à cette obligation.
+Uitsluitend de hierna genoemde schepen hoeven niet aan deze verplichting te voldoen.
 
-### Bateaux exemptés
+## **Vrijgestelde schepen:**
 
-Les bateaux suivants ne sont pas soumis à l’obligation d’être équipés d’un appareil AIS Intérieur :
+Voor de volgende schepen geldt de verplichting tot uitrusting met een Inland AIS-apparaat niet:
 
-1. les bateaux de convois poussés et de formations à couple, à l’exception du bateau qui assure la propulsion principale,
-2. les menues embarcations, à l'exception :
-   * des bateaux de police équipés de radars,
-   * des bateaux possédant un certificat de visite conformément au Règlement de visite des bateaux du Rhin ou un certificat réputé équivalent conformément à ce règlement,
-   * des barges de poussage sans système de propulsion propre,
-   * des engins flottants sans système de propulsion propre.
+a\) schepen van duwstellen en gekoppelde samenstellen, met uitzondering van het schip dat hoofdzakelijk voor de voortstuwing zorgt,
 
-L’obligation de mettre en fonctionnement l’appareil AIS est explicitée ci-contre [Qu'implique l'obligation d'utiliser l'appareil AIS Intérieur ?](qr17.md)
+b\) kleine schepen, met uitzondering van:
 
-Pour les bateaux cités non soumis à l’obligation d’équipement, il est recommandé d’utiliser un appareil AIS Intérieur agréé \(et non un appareil de classe A ou B\) en vertu du RVBR, dans la mesure où l’appareil AIS Intérieur est conçu pour la réception d’annonces spécifiquement destinées à la navigation intérieure.
+* politieschepen die met een radarapparaat zijn uitgerust,
+* schepen die van een certificaat overeenkomstig het Reglement Onderzoek schepen op de Rijn \(ROSR\) of van een krachtens dit reglement als gelijkwaardig erkend certificaat zijn voorzien,
+* duwbakken zonder eigen mechanische voortstuwing,
+* drijvende werktuigen zonder eigen mechanische voortstuwing.
 
-Toutefois, pour les bateaux de plaisance qui sont des menues embarcations, la Commission centrale pour la navigation du Rhin recommande qu’ils soient équipés d’un appareil AIS de classe B.
+De verplichting tot het inschakelen van het AIS-apparaat is onder QR17 van dit document uiteengezet.
 
-Les menues embarcations non soumises à l’obligation de posséder l’équipement AIS Intérieur doivent également, si elles souhaitent s’équiper en appareil AIS, posséder une installation de radiotéléphonie en bon état de fonctionnement et commutée sur écoute pour le réseau bateau-bateau.
+Voor schepen die niet aan de uitrustingsverplichting zijn onderworpen, verdient het aanbeveling gebruik te maken van een krachtens het ROSR toegelaten Inland AIS-apparaat \(en niet van een apparaat van klasse A of B\), omdat een dergelijk apparaat in staat is de specifieke meldingen voor de binnenvaart te ontvangen.
+
+De Centrale Commissie voor de Rijnvaart \(CCR\) beveelt echter aan dat kleine pleziervaartuigen met een AIS-apparaat van klasse B worden uitgerust.
+
+Kleine schepen die niet aan de verplichting tot uitrusting met een Inland AIS-apparatat zijn onderworpen, maar toch een AIS-apparaat willen gebruiken, moeten bovendien zijn uitgerust met een marifooninstallatie voor het schip-schip-verkeer, die goed functioneert en is ingeschakeld op uitluisteren.
 
 {% hint style="info" %}
-Définition : conformément à l'article 1.01, lettre m\) du Règlement de police pour la navigation du Rhin, une « menue embarcation » est un bateau dont la longueur maximale de la coque, gouvernail et beaupré non compris, est inférieure à 20 m, sauf s'il s'agit :
+Definitie: Overeenkomstig artikel 1.01, onderdeel m, van het Rijnvaartpolitiereglement, is een klein schip een schip waarvan de maximale lengte van de romp, zonder het roer en de boegspriet, minder is dan 20 m, met uitzondering van:
 
-* d’un bateau autorisé à remorquer, pousser ou mener à couple des bateaux qui ne sont pas de menues embarcations,
-* d’un bateau autorisé au transport de plus de 12 passagers,
-* d'un bac,
-* d'une barge de poussage.
+* een schip dat andere dan kleine schepen mag slepen, mag duwen of langszijde vastgemaakt mag meevoeren;
+* een schip dat meer dan 12 passagiers mag vervoeren;
+* een veerpont;
+* een duwbak.
 {% endhint %}
 
-### Spécificité de certains bateaux
+## **Bijzondere gevallen**
 
-À l’instar des bateaux de la navigation commerciale, les bateaux de la police équipés d’un appareil radar doivent également être équipés d’un appareil AIS Intérieur, bien qu’il s’agisse souvent de « menues embarcations ».
+Net als de commerciële schepen moeten politieschepen die met een radarapparaat zijn uitgerust, ook beschikken over een Inland AIS-apparaat, ook al zijn dit veelal “kleine schepen”.
 
-Les bateaux de l’administration possèdent en général un certificat de visite conformément aux prescriptions du RVBR ou un certificat réputé équivalent en vertu de ce règlement. À ce titre, ils doivent également être équipés d’un appareil AIS Intérieur.
+De schepen van de overheid zijn doorgaans voorzien van een certificaat van onderzoek overeenkomstig de voorschriften van het ROSR of van een krachtens dit reglement als gelijkwaardig erkend certificaat. Bijgevolg moeten ze ook met een Inland AIS-apparaat zijn uitgerust.
 
-### Certificats relatifs à l’assignation de fréquences
+## **Vergunningen voor het gebruik van de frequentieruimte**
 
-Tous les bateaux équipés d’un appareil AIS Intérieur ou d’un appareil radar ou d’une installation de radiotéléphonie doivent posséder à leur bord le ou les « Certificat\(s\) relatif\(s\) à l’assignation de fréquences » ou la « Licence de station de navire » conformément à l’article 1.10, lettre l du Règlement de police pour la navigation du Rhin.
+Op alle schepen die met een Inland AIS-apparaat, een radarapparaat of een marifooninstallatie zijn uitgerust, moeten de “vergunning\(en\) voor het gebruik van de frequentieruimte” of het “registratiebewijs voor het gebruik van de frequentieruimte” overeenkomstig artikel 1.10, van het Rijnvaartpolitiereglement aan boord aanwezig zijn.
 
-Cette demande de certificat ou de licence est à effectuer auprès des autorités compétentes dès que l’appareil AIS a été acquis. Le conducteur doit s’assurer que le propriétaire ou l’exploitant du bateau a fait cette demande. Dans tous les cas, il incombe au conducteur de vérifier que ce certificat ou cette licence est à bord du bateau.
+Deze vergunning of dit registratiebewijs kan worden aangevraagd bij de bevoegde autoriteiten na de aanschaf van het AIS-apparaat. De schipper dient zich ervan te vergewissen dat de eigenaar of exploitant van het schip deze aanvraag heeft ingediend. In ieder geval dient de schipper na te gaan dat deze vergunning of dit bewijs zich aan boord van het schip bevindt.
 
-### Puis-je installer un appareil AIS Intérieur même si je n'y suis pas obligé ?
+## **Ik wil een Inland AIS-apparaat installeren zonder dat ik hiertoe ben verplicht**
 
-Pour les bateaux cités non soumis à l’obligation d’équipement, il est recommandé d’utiliser un appareil AIS Intérieur agréé \(et non un appareil de classe A ou B\), dans la mesure où l’appareil AIS Intérieur est conçu pour la réception d’annonces spécifiquement destinées à la navigation intérieure. Toutefois, pour les bateaux de plaisance qui sont des menues embarcations, la CCNR recommande de s’équiper avec un appareil AIS de classe B.
+Voor schepen die niet aan de uitrustingsverplichting zijn onderworpen, verdient het aanbeveling gebruik te maken van een toegelaten Inland AIS-apparaat \(en niet van een apparaat van klasse A of B\), omdat een dergelijk apparaat in staat is de specifieke meldingen voor de binnenvaart te ontvangen. De CCR beveelt echter aan dat kleine pleziervaartuigen met een AIS-apparaat van klasse B worden uitgerust.
 
-Les menues embarcations \(et notamment les bateaux de plaisance\), qui ne sont pas soumises à l’obligation d’équipement en appareil AIS et qui décident de s’équiper d’un appareil AIS de classe B ne sont pas tenues de recourir à une société spécialisée agréée pour l’installation de cet appareil. Cependant, la CCNR recommande de faire appel aux services d’une société spécialisée agréée, afin de réduire le risque de dysfonctionnements.
+Voor kleine schepen \(en met name pleziervaartuigen\) die niet aan de verplichting zijn onderworpen en toch met een AIS-apparaat van klasse B worden uitgerust, is de verplichting dit door een erkend deskundig bedrijf te laten installeren niet van toepassing. De CCR beveelt echter aan om toch een beroep te doen op een dergelijk bedrijf om zo de kans op storingen te verminderen.
 

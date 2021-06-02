@@ -1,22 +1,21 @@
 # Inleiding - Inland AIS-apparaat op de Rijn
 
-Sur le Rhin, l'obligation d'installer et d'utiliser un appareil AIS Intérieur connecté à des systèmes de visualisation de cartes électroniques est entrée en vigueur le 1er décembre 2014.
+Op de Rijn werd de verplichting om een Inland AIS-apparaat dat is aangesloten op een visualiseringssysteem van elektronische kaarten, te installeren en gebruiken, van kracht op 1 december 2014.
 
-Lorsque l'expression « système de visualisation de cartes électroniques » est utilisée dans le présent document, il s'agit :
+Wanneer in dit document de uitdrukking “visualiseringssysteem van elektronische kaarten” wordt gebruikt, wordt daarmee
 
-•	d'un appareil ECDIS Intérieur en mode information
+* een Inland ECDIS-apparaat in informatiemodus
+* of een vergelijkbaar apparaat voor de weergave van elektronische kaarten
 
-•	ou d'un appareil comparable pour la visualisation de cartes électroniques.
+![](.gitbook/assets/0%20%284%29.png)
 
+In 2016 en 2017 heeft de Centrale Commissie voor de Rijnvaart \([CCR](https://www.ccr-zkr.org/)\) een enquête gehouden bij schippers, autoriteiten en installatiebedrijven. Het belangrijkste resultaat van deze enquête was dat het Inland AIS-apparaat \(in combinatie met een visualiseringssysteem van elektronische kaarten\) in het algemeen als een hulpmiddel voor een veiligere Rijnvaart wordt beschouwd.
 
+In dit document, dat is bestemd voor bemanningsleden, wordt aan de hand van antwoorden op de concrete vragen van deelnemers aan de enquête meer informatie verstrekt over het belang en het correcte gebruik van het Inland AIS-apparaat in combinatie met een visualiseringssysteem van elektronische kaarten.
 
-![](.gitbook/assets/image%20%283%29.png)
+In het CCR-document “Informatie met betrekking tot de verplichting tot uitrusting met Inland AIS-apparaten, Inland ECDIS-apparaten of daarmee vergelijkbare visualiseringssystemen” \(beschikbaar in het Engels, Frans, Duits en Nederlands\) wordt dieper ingegaan op de verplichte uitrusting met en het gebruik van Inland AIS-apparaten en visualiseringssystemen van elektronische kaarten.
 
-Entre 2016 et 2017, la Commission centrale pour la navigation du Rhin \(CCNR\) a mené une étude auprès des bateliers, des autorités et des sociétés installatrices. Le principal résultat de cette étude a été que l'appareil AIS Intérieur \(en combinaison avec un système de visualisation de cartes électroniques\) est largement accepté comme un outil de soutien pour une navigation rhénane plus sûre. Le présent document, destiné aux membres d'équipage, vise à clarifier l'importance et à assurer l'utilisation correcte de l'appareil AIS Intérieur en combinaison avec un système de visualisation de cartes électroniques, en répondant aux questions concrètes soulevées par les usagers lors de l'enquête.
-
-Le document de la CCNR « Précisions concernant l’obligation d’équipement en appareil AIS Intérieur et en appareil ECDIS Intérieur ou en appareil comparable pour la visualisation de cartes » \(disponible en anglais, français, allemand et néerlandais \) contient des précisions relatives à l’obligation d'être « équipé d'un appareil AIS Intérieur et de systèmes de visualisation de cartes électroniques et à leur utilisation ».
-
-{% embed url="https://www.ccr-zkr.org/files/documents/ris/brochureAIS\_fr.pdf" caption="Précisions concernant l’obligation d’équipement en appareil AIS Intérieur et en appareil ECDIS Intérieur ou en appareil comparable pour la visualisation de cartes" %}
+{% embed url="https://www.ccr-zkr.org/files/documents/ris/brochureAIS\_nl.pdf" caption="Informatie met betrekking tot de verplichting tot uitrusting met Inland AIS-apparaten, Inland ECDIS-apparaten of daarmee vergelijkbare visualiseringssystemen" %}
 
 
 

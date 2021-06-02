@@ -1,22 +1,23 @@
-# Quelles mesures doivent prendre les conducteurs si l'appareil AIS Intérieur est défectueux ?
+# Wat moet een schipper doen wanneer het Inland AIS-apparaat defect is?
 
-Durant son utilisation, l’appareil AIS Intérieur doit fonctionner de manière fiable et être en bon état de fonctionnement. 
-
-{% hint style="info" %}
-Un appareil AIS Intérieur défectueux entraînera des erreurs d'appréciation entre les conducteurs et des situations dangereuses sur les voies navigables. 
-{% endhint %}
-
-C'est pourquoi un appareil AIS Intérieur défectueux doit être réparé immédiatement ou remplacé par un appareil en bon état de fonctionnement. Aucun voyage ne peut être entamé sans un appareil AIS Intérieur en bon état de fonctionnement et mis en marche. 
+Een Inland AIS-apparaat dat in gebruik is, moet betrouwbaar zijn en goed functioneren.
 
 {% hint style="info" %}
-En cas de dysfonctionnement, la mise hors tension et le redémarrage \(reboot\) de l'appareil AIS Intérieur est sont susceptibles de contribuer à rétablir le bon état de fonctionnement. 
+Als een Inland AIS-apparaat defect is, zullen schippers de situatie mogelijk **verkeerd inschatten** waardoor de **veiligheid op de waterwegen in het gedrang kan komen**.
 {% endhint %}
 
-Un appareil AIS Intérieur peut subir une panne. Dans ce cas, la CCNR recommande aux États riverains du Rhin d'appliquer les règles de flexibilité suivantes : 
+Daarom moet een defect Inland AIS-apparaat onmiddellijk worden hersteld of door een goed functionerend apparaat worden vervangen. Geen enkele reis mag worden begonnen zonder een Inland AIS-apparaat dat ingeschakeld is en naar behoren functioneert.
 
-* La navigation peut être poursuivie pendant une durée maximale de 48 heures avec un appareil AIS Intérieur ne transmettant pas de données, afin que le bateau puisse se rendre au port de chargement ou de déchargement le plus proche ou, à défaut, si ce port est trop éloigné, en un lieu où l'appareil défectueux peut être réparé ou remplacé. La poursuite du voyage avec un appareil AIS Intérieur défectueux engage l'entière responsabilité du conducteur. 
-* Aucun voyage ne peut être entamé sans un appareil AIS iIntérieur en bon état de fonctionnement et mis en marche. • Compte tenu de la nature particulière des voyages effectués par les bacs et les bateaux d'excursions journalières, les deux paragraphes ci-avant ne s'appliquent pas à ces deux catégories de bateaux. Pour un bac, la navigation peut se poursuivre pendant une période maximale de 24 heures avec un appareil AIS Intérieur ne transmettant pas de données. Pour un bateau d'excursions journalières, la navigation peut se poursuivre pendant une période maximale de 48 heures avec un appareil AIS Intérieur ne transmettant pas de données. 
-* Si l'appareil AIS Intérieur ne transmet plus de données, le conducteur du bateau doit immédiatement en informer par radio la centrale de secteur et fournir des rapports réguliers sur la voie VHF bateau-bateau jusqu'à ce que l'appareil AIS Intérieur soit à nouveau opérationnel. 
+{% hint style="info" %}
+Storingen kunnen mogelijk worden verholpen door het Inland AIS-apparaat uit te schakelen en weer op te starten \(rebooten\). 
+{% endhint %}
 
-Si l'appareil AIS Intérieur est défectueux, il doit être réparé par une société spécialisée agréée \(société installatrice\).
+Een Inland AIS-apparaat kan defect raken. In dat geval raadt de CCR aan dat de Rijnoeverstaten de volgende tolerantieregels toepassen:
+
+* Wanneer een Inland AIS-apparaat geen gegevens meer uitzendt, mag de reis **gedurende ten hoogste 48 uur worden voortgezet**, zodat het vaartuig de volgende laad- of loshaven kan bereiken of wanneer deze haven te ver is, een plaats waar het defecte apparaat kan worden gerepareerd of vervangen. Als een schipper besluit de reis voort te zetten met een defect Inland AIS-apparaat, is dat volledig onder zijn of haar eigen verantwoordelijkheid.
+* **Geen enkele reis mag worden begonnen** zonder een Inland AIS-apparaat dat ingeschakeld is en naar behoren functioneert.
+* Gezien de bijzondere aard van de reizen van veerponten en dagtochtschepen, zijn de twee voorafgaande alinea’s niet op deze twee scheepstypen van toepassing. Een veerpont met een Inland AIS-apparaat dat geen gegevens meer uitzendt, mag de reis gedurende ten hoogste 24 uur voortzetten. Een dagtochtschip met een Inland AIS-apparaat dat geen gegevens meer uitzendt, mag de reis gedurende ten hoogste 48 uur voortzetten.
+* Wanneer het Inland AIS-apparaat geen gegevens meer uitzendt, moet de schipper via de radio onmiddellijk de verkeerscentrale waarschuwen en zich vervolgens regelmatig melden via het schip-schip VHF-kanaal tot het Inland AIS-apparaat weer werkt.
+
+Een defect Inland AIS-apparaat moet worden hersteld door een erkend deskundig bedrijf \(installatiebedrijf\).
 

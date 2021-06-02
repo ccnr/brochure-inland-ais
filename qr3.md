@@ -2,19 +2,21 @@
 description: About Inland navigation equipment installation
 ---
 
-# Comment installer un appareil AIS Intérieur ?
+# Hoe een Inland AIS-apparaat installeren?
 
-Les conducteurs ne peuvent pas installer eux-mêmes l'appareil AIS Intérieur. L'appareil AIS Intérieur doit être installé par des entreprises spécialisées et agréées \(sociétés installatrices\).
+Schippers kunnen het Inland AIS-apparaat **niet zelf installeren**. Het Inland AIS-apparaat moet door een erkend deskundig bedrijf \(installatiebedrijf\) worden ingebouwd.
 
-## Liste des sociétés installatrices agréées
+## Lijst van erkende installatiebedrijven
 
-La liste des sociétés installatrices est disponible sur une page dédiée du CESNI qui peut être consultée ci-dessous
+De lijst van installatiebedrijven staat op een specifieke [CESNI](https://listes.cesni.eu/5000-nl.html)-webpagina en kan via de onderstaande links worden geraadpleegd.
 
-{% embed url="https://listes.cesni.eu/5000-fr.html" caption="https://listes.cesni.eu/5000-fr.html" %}
+{% embed url="https://listes.cesni.eu/5000-nl.html" caption="https://listes.cesni.eu/5000-nl.html" %}
 
-Lorsqu'un bateau est dans l'obligation d'être équipé d'un appareil AIS Intérieur, seul l'un des appareils figurant dans la liste ci-dessus peut être utilisé.
+Als een vaartuig moet zijn uitgerust met een Inland AIS-apparaat met typegoedkeuring, betekent dit dat slechts één van de apparaten uit bovenstaande lijst moet worden geïnstalleerd.
+
+
 
 {% hint style="info" %}
-Si votre bateau est dans l'obligation d'être équipé d'un appareil AIS Intérieur, seul un appareil AIS intérieur pour lequel est indiqué « Montage autorisé » peut être installé.
+Als uw vaartuig met Inland AIS moet worden uitgerust, is alleen een Inland AIS-apparaat waarvoor “Installatie toegestaan” is aangevinkt, toegestaan.
 {% endhint %}
 
