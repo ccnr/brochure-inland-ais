@@ -25,7 +25,4 @@
 * [Moet het blauwe bord aan Inland AIS worden gekoppeld?](qr26.md)
 * [Mag Inland ECDIS in navigatiemodus worden gebruikt?](qr27.md)
 * [Checklist voor reizen](qr28.md)
-* [Sources](sources/README.md)
-  * [allin-NL](sources/allin-nl.md)
-  * [allin](sources/allin.md)
 
