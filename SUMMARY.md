@@ -25,6 +25,4 @@
 * [Est-il prescrit de connecter le panneau bleu à l'appareil AIS Intérieur ?](qr26.md)
 * [L'utilisation de l'ECDIS Intérieur en mode navigation est-elle autorisée ?](qr27.md)
 * [Liste de contrôle pour le voyage](qr28.md)
-* [Sources](sources/README.md)
-  * [allin](sources/allin.md)
 
